@@ -1,0 +1,153 @@
+[
+    {
+      "COMPLEX": "The software allows a user to create an image of a disk while it is running Microsoft Windows or offline by booting from CD/DVD, USB flash drives, PXE, or other bootable media.",
+      "ELEMENTARY": "The software can make a disk image. It works while Windows is running or when starting the computer from a CD, DVD, USB drive, or similar media.",
+      "SECONDARY": "You can create a disk image while Windows is active or by booting from a CD, DVD, USB flash drive, PXE, or other media. The software supports both methods.",
+      "ADVANCED": "The software lets users create disk images while Windows is running or offline by booting from CD/DVD, USB, PXE, or other bootable media."
+    },
+    {
+      "COMPLEX": "The tail is short and is covered in long hairs, save for below the base.",
+      "ELEMENTARY": "Its tail is short. Most of it has long hair, except near the base.",
+      "SECONDARY": "This animal’s tail is short and covered with long hairs, except for the area below the base.",
+      "ADVANCED": "The tail is short and mostly covered in long hairs, except for the region below the base."
+    },
+    {
+      "COMPLEX": "Kurt Friedrich Gödel (April 28, 1906, Brno, Moravia, Austria–Hungary – January 14, 1978, Princeton, New Jersey, United States) was an Austrian logician, mathematician, and philosopher.",
+      "ELEMENTARY": "Kurt Friedrich Gödel was born in 1906 in Brno and died in 1978 in Princeton. He was an Austrian expert in logic, math, and philosophy.",
+      "SECONDARY": "Kurt Friedrich Gödel, born in 1906 in Brno and deceased in 1978 in Princeton, was an Austrian logician, mathematician, and philosopher.",
+      "ADVANCED": "Kurt Friedrich Gödel (1906–1978), originally from Brno in Austria–Hungary, was an Austrian logician, mathematician, and philosopher."
+    },
+    {
+      "COMPLEX": "A very small current-carrying loop is approximately a magnetic point dipole; the magnetic dipole moment of such a loop is the product of the current flowing in the loop and the (vector) area of the loop.",
+      "ELEMENTARY": "A tiny loop with electric current acts like a small magnetic dipole. Its magnetic dipole moment is the current times the loop’s (vector) area.",
+      "SECONDARY": "A very small, current-carrying loop behaves like a magnetic point dipole. Its dipole moment is found by multiplying the current by the loop’s (vector) area.",
+      "ADVANCED": "A small current-carrying loop behaves as a magnetic point dipole; its dipole moment is the product of the current and the loop’s (vector) area."
+    },
+    {
+      "COMPLEX": "Argyle (1970) put forward the hypothesis that whereas spoken language is normally used for communicating information about events external to the speakers, nonverbal codes are used to establish and maintain interpersonal relationships.",
+      "ELEMENTARY": "Argyle said people use speech mainly to share outside information. They use body language to build and keep relationships.",
+      "SECONDARY": "Argyle proposed that spoken language primarily conveys external information, while nonverbal signals help create and maintain social bonds.",
+      "ADVANCED": "Argyle (1970) hypothesized that spoken language typically conveys external information, whereas nonverbal codes establish and maintain interpersonal relationships."
+    },
+    {
+      "COMPLEX": "Nearctic died at Woodstock Farm at age nineteen on July 27, 1973.",
+      "ELEMENTARY": "Nearctic died on July 27, 1973, at Woodstock Farm. He was nineteen years old.",
+      "SECONDARY": "Nearctic passed away at Woodstock Farm on July 27, 1973, at the age of nineteen.",
+      "ADVANCED": "Nearctic died at Woodstock Farm on July 27, 1973, at nineteen years of age."
+    },
+    {
+      "COMPLEX": "The Erdős number was most likely first defined by Casper Goffman, an analyst whose own Erdős number is 1.",
+      "ELEMENTARY": "The Erdős number was probably invented by Casper Goffman. He has an Erdős number of 1.",
+      "SECONDARY": "Casper Goffman, an analyst with an Erdős number of 1, most likely first defined the concept of the Erdős number.",
+      "ADVANCED": "The Erdős number was probably first introduced by Casper Goffman, an analyst whose own Erdős number is 1."
+    },
+    {
+      "COMPLEX": "In 1896 Britain established a puppet state in Zanzibar.",
+      "ELEMENTARY": "In 1896, Britain set up a controlled government in Zanzibar.",
+      "SECONDARY": "Britain created a puppet state in Zanzibar in 1896.",
+      "ADVANCED": "In 1896, Britain established a puppet government in Zanzibar."
+    },
+    {
+      "COMPLEX": "People in Need has been active in the fight against poverty and social exclusion in Czech Republic since 1999.",
+      "ELEMENTARY": "People in Need has helped fight poverty in the Czech Republic since 1999. They also work against social exclusion.",
+      "SECONDARY": "Since 1999, People in Need has worked to combat poverty and social exclusion in the Czech Republic.",
+      "ADVANCED": "People in Need has actively fought poverty and social exclusion in the Czech Republic since 1999."
+    },
+    {
+      "COMPLEX": "The King Penguin (Aptenodytes patagonicus) is the second largest species of penguin at about 11 kg, second only to the Emperor Penguin.",
+      "ELEMENTARY": "The King Penguin weighs about 11 kilograms. Only the Emperor Penguin is bigger.",
+      "SECONDARY": "The King Penguin (Aptenodytes patagonicus) is the second largest penguin, weighing around 11 kilograms, smaller only than the Emperor Penguin.",
+      "ADVANCED": "The King Penguin (Aptenodytes patagonicus), at roughly 11 kg, is second in size only to the Emperor Penguin."
+    },
+    {
+      "COMPLEX": "The AVN Awards are movie awards sponsored and presented by the American adult video industry trade magazine AVN (Adult Video News) to honor exceptional performance in various aspects of the creation and marketing of American pornographic movies.",
+      "ELEMENTARY": "The AVN Awards are given for great work in American adult films. They come from the magazine AVN, which covers the adult video industry.",
+      "SECONDARY": "Hosted by the American adult video magazine AVN, the AVN Awards honor outstanding achievements in producing and marketing American pornographic films.",
+      "ADVANCED": "The AVN Awards, presented by AVN (Adult Video News), recognize excellence in the creation and promotion of American pornographic films."
+    },
+    {
+      "COMPLEX": "Upminster is a suburban town in northeast London, England and part of the London Borough of Havering.",
+      "ELEMENTARY": "Upminster is a suburb in northeast London. It is in the Borough of Havering.",
+      "SECONDARY": "Upminster is a suburban area in northeast London, England, located in the Borough of Havering.",
+      "ADVANCED": "Upminster is a suburban town in northeast London, England, within the London Borough of Havering."
+    },
+    {
+      "COMPLEX": "The Mexican Fritillary (Euptoieta hegesia) is a North and South American butterfly in the family Nymphalidae.",
+      "ELEMENTARY": "The Mexican Fritillary is a butterfly found in North and South America. Its scientific name is Euptoieta hegesia.",
+      "SECONDARY": "The Mexican Fritillary (Euptoieta hegesia) is a butterfly of the Nymphalidae family found in North and South America.",
+      "ADVANCED": "The Mexican Fritillary (Euptoieta hegesia) is a North and South American butterfly belonging to the family Nymphalidae."
+    },
+    {
+      "COMPLEX": "In the last year of her life, Austen revised Northanger Abbey (1817), wrote Persuasion (1817), and began another novel, eventually titled Sanditon, which was left unfinished at her death.",
+      "ELEMENTARY": "During her final year, Jane Austen edited Northanger Abbey and wrote Persuasion. She also started Sanditon but did not finish it.",
+      "SECONDARY": "In her last year, Austen revised Northanger Abbey (1817), wrote Persuasion (1817), and started Sanditon, which remained unfinished when she died.",
+      "ADVANCED": "In her final year, Austen revised Northanger Abbey (1817), wrote Persuasion (1817), and began Sanditon, which was left unfinished at her death."
+    },
+    {
+      "COMPLEX": "With a population, according to the census of 2006, of 439—an increase since 2002 of 32.2%—Straffan is the 31st most populous center in County Kildare.",
+      "ELEMENTARY": "Straffan had 439 people in 2006, which was a 32.2% increase from 2002. It is the 31st biggest center in County Kildare.",
+      "SECONDARY": "Straffan’s population reached 439 in the 2006 census, a 32.2% rise since 2002, making it the 31st most populous area in County Kildare.",
+      "ADVANCED": "According to the 2006 census, Straffan’s population was 439—32.2% higher than in 2002—making it the 31st most populous center in County Kildare."
+    },
+    {
+      "COMPLEX": "This species already possessed dicondylic mandibles (two articulations in the mandible), a feature associated with winged insects, suggesting that wings may already have evolved at this time.",
+      "ELEMENTARY": "This species had two joints in its jaw, which is linked to winged insects. This suggests wings may have already developed then.",
+      "SECONDARY": "This species had dicondylic mandibles, meaning two jaw articulations, a feature common to winged insects. It implies wings may have evolved by that time.",
+      "ADVANCED": "This species already had dicondylic mandibles (two articulations in the jaw), a trait associated with winged insects, suggesting that wings may have evolved at this point."
+    },
+    {
+      "COMPLEX": "Some features of PuTTY are: the storing of hosts and preferences for later use.",
+      "ELEMENTARY": "PuTTY can save information about servers and user settings.",
+      "SECONDARY": "PuTTY’s features include saving server details and user preferences for future use.",
+      "ADVANCED": "PuTTY’s capabilities include storing host information and preferences for later access."
+    },
+    {
+      "COMPLEX": "Palm Coast is a city in Flagler County, Florida.",
+      "ELEMENTARY": "Palm Coast is a city in Flagler County, Florida.",
+      "SECONDARY": "Palm Coast is located in Flagler County, Florida.",
+      "ADVANCED": "Palm Coast is a municipality situated in Flagler County, Florida."
+    },
+    {
+      "COMPLEX": "In Warner's third career Super Bowl appearance, on February 1, 2009, the Cardinals lost Super Bowl XLIII 27–23 to the Pittsburgh Steelers.",
+      "ELEMENTARY": "Kurt Warner played in his third Super Bowl on February 1, 2009. The Cardinals lost to the Steelers 27–23.",
+      "SECONDARY": "During Warner’s third Super Bowl on February 1, 2009, the Arizona Cardinals were defeated 27–23 by the Pittsburgh Steelers.",
+      "ADVANCED": "In Warner’s third Super Bowl appearance on February 1, 2009, the Cardinals fell 27–23 to the Pittsburgh Steelers in Super Bowl XLIII."
+    },
+    {
+      "COMPLEX": "He worked on problems in combinatorics, graph theory, number theory, classical analysis, approximation theory, set theory, and probability theory.",
+      "ELEMENTARY": "He studied math topics like combinatorics, graphs, numbers, and probability.",
+      "SECONDARY": "His research involved various fields, including combinatorics, graph theory, number theory, and probability.",
+      "ADVANCED": "He worked on problems spanning combinatorics, graph theory, number theory, classical analysis, approximation theory, set theory, and probability."
+    },
+    {
+      "COMPLEX": "The second generation Fabia (internal type code 5J) was officially presented at the Geneva Auto Show in March 2007 and was sold from April 2007.",
+      "ELEMENTARY": "The second generation Fabia went on display in March 2007. It was sold starting in April 2007.",
+      "SECONDARY": "The second generation Fabia (type code 5J) debuted at the Geneva Auto Show in March 2007 and entered the market in April 2007.",
+      "ADVANCED": "The second generation Fabia (internal code 5J) was unveiled at the Geneva Auto Show in March 2007 and went on sale in April 2007."
+    },
+    {
+      "COMPLEX": "George Kobayashi (born November 29, 1947) is a former Brazilian football player.",
+      "ELEMENTARY": "George Kobayashi was born on November 29, 1947. He used to play football in Brazil.",
+      "SECONDARY": "George Kobayashi (born November 29, 1947) is a retired Brazilian soccer player.",
+      "ADVANCED": "George Kobayashi (born November 29, 1947) is a former Brazilian footballer."
+    },
+    {
+      "COMPLEX": "Jackson Township, named after Andrew Jackson, is a township in Ocean County, New Jersey, United States.",
+      "ELEMENTARY": "Jackson Township is in Ocean County, New Jersey. It was named for Andrew Jackson.",
+      "SECONDARY": "Named after Andrew Jackson, Jackson Township is located in Ocean County, New Jersey.",
+      "ADVANCED": "Jackson Township, named for Andrew Jackson, is situated in Ocean County, New Jersey."
+    },
+    {
+      "COMPLEX": "A Twenty20 game involves two teams, each has a single innings, batting for a maximum of 20 overs.",
+      "ELEMENTARY": "A Twenty20 cricket match has two teams. Each team bats only once for up to 20 overs.",
+      "SECONDARY": "In Twenty20 cricket, two teams each have a single innings and can bat for a maximum of 20 overs.",
+      "ADVANCED": "A Twenty20 match features two teams, each with a single innings limited to 20 overs."
+    },
+    {
+      "COMPLEX": "The term Polish–Lithuanian Union sometimes called the United Kingdom of Poland and Lithuania refers to a series of acts and alliances between the Kingdom of Poland and the Grand Duchy of Lithuania that lasted for prolonged periods of time and led to the creation of the Polish–Lithuanian Commonwealth—the 'Republic of the Two Nations'—in 1569 and eventually to the creation of a short-lived unitary state in 1791.",
+      "ELEMENTARY": "The Polish–Lithuanian Union was a series of agreements between Poland and Lithuania. It led to the Polish–Lithuanian Commonwealth in 1569 and later a short-lived united state in 1791.",
+      "SECONDARY": "Often called the Polish–Lithuanian Union or the United Kingdom of Poland and Lithuania, it was formed by agreements between these two states. These led to the Polish–Lithuanian Commonwealth in 1569 and a brief unitary state in 1791.",
+      "ADVANCED": "The term Polish–Lithuanian Union, also known as the United Kingdom of Poland and Lithuania, refers to a series of agreements between Poland and Lithuania that created the Polish–Lithuanian Commonwealth—the 'Republic of the Two Nations'—in 1569 and later a short-lived unitary state in 1791."
+    }
+  ]
+  

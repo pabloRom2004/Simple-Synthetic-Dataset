@@ -1,0 +1,381 @@
+[
+    {
+      "COMPLEX": "The steady implementation of renewable energy policies has incrementally reduced dependence on fossil fuels, though infrastructural challenges remain in rural areas.",
+      "ELEMENTARY": "More green energy is being used instead of coal and oil. Some places far from cities still have problems getting new energy.",
+      "SECONDARY": "Renewable energy policies have slowly cut down the use of fossil fuels. However, rural areas still face obstacles in switching fully.",
+      "ADVANCED": "Gradual adoption of renewable energy policies has lowered reliance on fossil fuels, although rural infrastructure hurdles persist."
+    },
+    {
+      "COMPLEX": "Social media platforms have become powerful tools for disseminating information rapidly, but they also contribute to the proliferation of misinformation and echo chambers.",
+      "ELEMENTARY": "People share news very fast on social apps. But wrong information also spreads easily, and people often see only similar opinions.",
+      "SECONDARY": "While social media quickly spreads updates, it also allows fake news to grow. Users can end up seeing only opinions like their own.",
+      "ADVANCED": "Social media swiftly distributes content worldwide but fosters misinformation and echo chambers in the process."
+    },
+    {
+      "COMPLEX": "Recent advancements in natural language processing enable more accurate sentiment analysis, paving the way for sophisticated customer feedback interpretation.",
+      "ELEMENTARY": "New computer programs understand feelings in text better. This helps companies learn what customers think.",
+      "SECONDARY": "Upgraded language technology makes it easier to read and understand the tone of customer messages. This helps businesses respond better.",
+      "ADVANCED": "Enhanced NLP techniques allow precise sentiment detection, improving the interpretation of customer feedback."
+    },
+    {
+      "COMPLEX": "In the realm of professional sports, statistical evaluations are increasingly employed to determine optimal strategies, performance enhancements, and predictive outcomes.",
+      "ELEMENTARY": "Sports teams now use numbers to plan games. They look at player stats to decide the best moves and guess results.",
+      "SECONDARY": "Professional teams rely heavily on statistics to shape strategies and predict game outcomes, boosting performance.",
+      "ADVANCED": "Across professional sports, data-driven metrics are used to refine strategies, enhance performance, and forecast results."
+    },
+    {
+      "COMPLEX": "When traveling to unfamiliar territories, it's crucial to research local customs, currency exchange rates, and potential language barriers before departure.",
+      "ELEMENTARY": "Before you go somewhere new, learn about local traditions. Also check how much money is worth and see if you need a new language.",
+      "SECONDARY": "It's important to understand local culture, money exchange rates, and language differences before visiting a new place.",
+      "ADVANCED": "Prior to visiting new destinations, familiarize yourself with cultural norms, currency conversions, and any language constraints."
+    },
+    {
+      "COMPLEX": "Quantum computing, while still in its nascent stages, promises to revolutionize data processing speeds and complex problem-solving methodologies.",
+      "ELEMENTARY": "New quantum computers can do calculations much faster, but they're still being developed. They will help solve hard problems.",
+      "SECONDARY": "Quantum computing is still growing but has the potential to speed up data processing and solve difficult problems in new ways.",
+      "ADVANCED": "Though in early development, quantum computing is set to transform data processing speeds and complex problem solutions."
+    },
+    {
+      "COMPLEX": "Ambient noise levels in urban environments can significantly affect mental well-being, necessitating the implementation of noise pollution controls.",
+      "ELEMENTARY": "City noise can make people stressed. To help, we need rules to lower noise.",
+      "SECONDARY": "City environments often have loud background sounds that can harm mental health, so policies to reduce noise are needed.",
+      "ADVANCED": "High urban noise can damage mental health, prompting the need for stricter noise pollution regulations."
+    },
+    {
+      "COMPLEX": "Reviews of the newly released tablet highlight its unparalleled battery life, sharp display resolution, and robust app ecosystem, although pricing remains contentious.",
+      "ELEMENTARY": "The new tablet lasts a long time on one charge. It has a bright screen and many apps, but it's expensive.",
+      "SECONDARY": "Experts praise the tablet's long battery life, high-quality screen, and strong selection of apps, but the cost is still debated.",
+      "ADVANCED": "Critics commend the tablet's exceptional battery longevity, vivid display, and broad app support, though its price remains a concern."
+    },
+    {
+      "COMPLEX": "Environmental scientists are scrutinizing coral reef bleaching patterns to ascertain the broader impact of rising sea temperatures on marine biodiversity.",
+      "ELEMENTARY": "Scientists study dying coral reefs. They want to see how warm oceans hurt sea life.",
+      "SECONDARY": "Researchers analyze coral reef bleaching to understand how warmer waters affect the variety of marine species.",
+      "ADVANCED": "Scientists investigate coral bleaching trends to gauge the wider effects of increasing ocean temperatures on marine ecosystems."
+    },
+    {
+      "COMPLEX": "The historical documentation of ancient trade routes reveals intricate networks of cultural exchange, economic interdependence, and technological diffusion.",
+      "ELEMENTARY": "Old trade roads show people from different places shared their ideas, goods, and inventions long ago.",
+      "SECONDARY": "Historical records of ancient trade paths demonstrate how cultures shared knowledge, goods, and technology over great distances.",
+      "ADVANCED": "Evidence of ancient trade routes indicates complex webs of cultural exchange, shared economies, and the spread of innovations."
+    },
+    {
+      "COMPLEX": "Digital learning platforms are increasingly integrated into traditional curricula to enhance interactivity and foster independent problem-solving abilities among students.",
+      "ELEMENTARY": "Schools now use online tools to make learning fun. This also helps students learn to solve problems on their own.",
+      "SECONDARY": "Many classrooms now blend digital tools with regular lessons, making learning more interactive and promoting independent thinking.",
+      "ADVANCED": "Educators incorporate online platforms into standard curricula to boost engagement and strengthen students’ self-directed problem-solving skills."
+    },
+    {
+      "COMPLEX": "Despite widespread concerns about data privacy, a substantial segment of consumers continues to engage with applications that require extensive personal information.",
+      "ELEMENTARY": "Even though people worry about privacy, many still use apps that ask for a lot of personal details.",
+      "SECONDARY": "Although data privacy is a major worry, many users still share personal information with apps they find useful.",
+      "ADVANCED": "Despite privacy anxieties, a notable portion of the public still uses data-intensive apps, revealing a gap between concerns and actions."
+    },
+    {
+      "COMPLEX": "Early sales reports indicate that the newly launched video game console has exceeded market projections, partly due to effective social media marketing campaigns.",
+      "ELEMENTARY": "The new game console sold more than expected. Ads on social media helped a lot.",
+      "SECONDARY": "Sales figures show the new console beat predictions, thanks in part to strong online advertising.",
+      "ADVANCED": "Initial data suggests the new console outperformed expectations, bolstered by strategic social media promotions."
+    },
+    {
+      "COMPLEX": "Due to shifting consumer preferences, the automotive industry is heavily investing in electric and hybrid vehicle technologies, focusing on improved battery efficiency and charging infrastructure.",
+      "ELEMENTARY": "People want electric cars now. Car companies are making better batteries and more charging stations.",
+      "SECONDARY": "As customers lean toward cleaner energy, car makers are putting money into electric and hybrid cars, improving batteries and chargers.",
+      "ADVANCED": "With consumer tastes evolving, automakers are allocating major resources to electric and hybrid technologies, emphasizing efficient batteries and expanded charging networks."
+    },
+    {
+      "COMPLEX": "Preliminary research on medicinal plant extracts suggests potential therapeutic benefits for chronic inflammatory conditions, though further clinical trials are warranted.",
+      "ELEMENTARY": "Early studies show some plant extracts might help long-lasting swelling. More tests are needed.",
+      "SECONDARY": "Initial findings indicate certain plant extracts may help with chronic inflammation, but more research is required to confirm results.",
+      "ADVANCED": "Initial studies imply that medicinal plant extracts could aid chronic inflammatory diseases, but additional clinical validation is necessary."
+    },
+    {
+      "COMPLEX": "The museum's new exhibition on modern art integrates augmented reality features, providing visitors with interactive insights into the artists' creative processes.",
+      "ELEMENTARY": "The museum shows modern art and uses special phone apps so visitors see how the artists made their work.",
+      "SECONDARY": "At the new modern art show, guests can use AR features to learn about how each piece was created.",
+      "ADVANCED": "A new modern art exhibit employs augmented reality tools, offering interactive perspectives on the artists’ methods and inspirations."
+    },
+    {
+      "COMPLEX": "Although jogging along the beach can provide a picturesque workout environment, one must consider the uneven terrain and potential strain on ankle joints.",
+      "ELEMENTARY": "Running on the beach looks nice. But the sand is not flat, and it can hurt your ankles.",
+      "SECONDARY": "Beach running offers beautiful scenery but comes with uneven surfaces that may strain ankles and feet.",
+      "ADVANCED": "While a beachfront run offers scenic exercise, the irregular sand surface can increase ankle stress."
+    },
+    {
+      "COMPLEX": "During the archaeological excavation, researchers uncovered fragments of pottery that shed new light on the dietary habits of the region's ancient inhabitants.",
+      "ELEMENTARY": "Scientists found broken pots in an old site. These pieces show what people ate long ago.",
+      "SECONDARY": "Excavation teams discovered pottery shards that reveal insights into how ancient locals prepared and consumed food.",
+      "ADVANCED": "Archaeologists unearthed pottery remnants, providing fresh perspectives on the dietary patterns of earlier communities."
+    },
+    {
+      "COMPLEX": "Single word: Cyclone",
+      "ELEMENTARY": "A very strong storm with heavy winds.",
+      "SECONDARY": "A powerful storm system that forms over warm waters, producing high winds and rain.",
+      "ADVANCED": "An intense tropical storm system characterized by spiraling winds around a low-pressure center."
+    },
+    {
+      "COMPLEX": "The newly enacted legislation aims to bolster small business growth through tax incentives and streamlined loan processes, although critics question its long-term efficacy.",
+      "ELEMENTARY": "The government passed a law to help small businesses with lower taxes and easier loans. Some doubt it will work well later.",
+      "SECONDARY": "A new law provides tax breaks and simpler loan steps for small enterprises, but some worry about its future impact.",
+      "ADVANCED": "Recent legislation supports small businesses by offering tax incentives and easier financing, though critics remain skeptical of its lasting effects."
+    },
+    {
+      "COMPLEX": "By analyzing consumer spending patterns during holiday seasons, retailers can tailor promotional campaigns to maximize sales and market penetration.",
+      "ELEMENTARY": "Stores watch how people shop during holidays. They use this to make ads that boost sales.",
+      "SECONDARY": "Retailers study holiday spending to create sales and ads that attract more customers and increase profits.",
+      "ADVANCED": "Examining holiday spending habits enables retailers to craft targeted promotions, optimizing revenue and broader market reach."
+    },
+    {
+      "COMPLEX": "Advances in wearable technology have led to devices that monitor vital signs, track sleep patterns, and even detect arrhythmias in real-time.",
+      "ELEMENTARY": "Wearable gadgets can now check your heart rate, your sleep, and spot heart problems quickly.",
+      "SECONDARY": "New smart wearables track vital signals, monitor sleep quality, and can identify heart rhythm issues on the spot.",
+      "ADVANCED": "Modern wearable devices monitor key health metrics, record sleep data, and instantly detect cardiac arrhythmias."
+    },
+    {
+      "COMPLEX": "In certain markets, the scarcity of raw materials escalates production costs and impedes manufacturers from meeting export targets.",
+      "ELEMENTARY": "Some factories struggle because they can't get enough supplies. This makes products cost more and reduces how much they can ship out.",
+      "SECONDARY": "Lack of raw materials in some places raises costs and makes it tough for factories to hit export goals.",
+      "ADVANCED": "Resource shortages in specific markets drive up production expenses and hinder manufacturers from achieving export objectives."
+    },
+    {
+      "COMPLEX": "History has shown that major public health campaigns, such as vaccination drives, can significantly reduce mortality rates and eradicate certain diseases if widely adopted.",
+      "ELEMENTARY": "Big health efforts like vaccines can save many lives if most people use them. Sometimes they even get rid of a disease completely.",
+      "SECONDARY": "Large-scale health initiatives, such as vaccines, lower death rates and can wipe out diseases if enough people participate.",
+      "ADVANCED": "Historical evidence demonstrates that widespread uptake of public health measures like vaccination can sharply decrease mortality and eliminate diseases."
+    },
+    {
+      "COMPLEX": "A surge in micro-investing applications has democratized access to the stock market, enabling users to buy fractional shares and learn basic trading strategies.",
+      "ELEMENTARY": "More apps now let people invest small amounts in stocks. They can buy part of a share and learn to trade.",
+      "SECONDARY": "New micro-investing apps let users invest tiny amounts and own portions of shares, helping beginners learn the stock market.",
+      "ADVANCED": "The rise of micro-investing apps grants broader market accessibility, allowing fractional share purchases and introducing novices to trading fundamentals."
+    },
+    {
+      "COMPLEX": "The documentary provides a comprehensive overview of ancient agricultural practices, highlighting innovative irrigation methods that supported population growth.",
+      "ELEMENTARY": "The film shows how people long ago farmed and watered their crops. These ideas helped them feed many people.",
+      "SECONDARY": "This documentary explores old farming methods, focusing on clever irrigation systems that allowed communities to thrive.",
+      "ADVANCED": "Covering historical farming tactics, the documentary underscores advanced ancient irrigation systems that facilitated population expansion."
+    },
+    {
+      "COMPLEX": "Customer feedback on the latest smartphone emphasizes its sleek design, improved camera performance, and seamless integration with smart home devices.",
+      "ELEMENTARY": "People say the new phone looks great, takes better photos, and works well with their smart gadgets at home.",
+      "SECONDARY": "Feedback about the new smartphone points to a stylish design, better camera, and easy connection to home devices.",
+      "ADVANCED": "Consumer reactions highlight the phone's elegant design, enhanced camera features, and smooth smart-home compatibility."
+    },
+    {
+      "COMPLEX": "Online learning forums encourage peer collaboration, where students help each other solve complex academic problems and clarify theoretical concepts.",
+      "ELEMENTARY": "Students use online groups to share ideas and answer hard questions. They also explain theories to each other.",
+      "SECONDARY": "Virtual study communities let students work together on tough homework and learn theoretical ideas from peers.",
+      "ADVANCED": "Online study platforms foster collaborative learning, enabling students to jointly tackle difficult problems and elucidate theoretical insights."
+    },
+    {
+      "COMPLEX": "Concerns about increased screen time among adolescents have prompted discussions about setting digital curfews and promoting outdoor recreational activities.",
+      "ELEMENTARY": "Teens spend a lot of time on screens. Some people want to set limits and encourage kids to play outside.",
+      "SECONDARY": "High screen use by teens is causing talks about limiting device time and encouraging outdoor fun.",
+      "ADVANCED": "Rising teen screen usage has led to proposals for implementing digital curfews and advocating more outdoor pursuits."
+    },
+    {
+      "COMPLEX": "Within certain academic circles, the debate on artificial intelligence ethics encompasses data privacy, algorithmic bias, and the long-term socioeconomic impact of automation.",
+      "ELEMENTARY": "Some experts argue about AI rules. They worry about personal data safety, unfair robot decisions, and jobs in the future.",
+      "SECONDARY": "Academics discuss the ethics of AI, focusing on privacy, bias in automated decisions, and how AI will shape economies.",
+      "ADVANCED": "Scholars debate AI ethics, centering on data privacy, algorithmic prejudice, and automation's broader socioeconomic consequences."
+    },
+    {
+      "COMPLEX": "The stock market fluctuated significantly this quarter due to geopolitical tensions, leading investors to diversify their portfolios across multiple asset classes.",
+      "ELEMENTARY": "Stock prices went up and down a lot this quarter because of world conflicts. Investors spread their money into different types of assets.",
+      "SECONDARY": "Geopolitical issues caused major market swings, pushing investors to spread risk by putting money into various assets.",
+      "ADVANCED": "Geopolitical strains triggered notable stock market volatility, prompting diversification strategies among investors seeking stability."
+    },
+    {
+      "COMPLEX": "Proper hydration and balanced nutrition play pivotal roles in optimizing cognitive function and sustaining energy levels throughout the day.",
+      "ELEMENTARY": "Drinking enough water and eating healthy foods help your brain work and keep you energized all day.",
+      "SECONDARY": "Staying hydrated and eating balanced meals are key to good brain performance and stable energy.",
+      "ADVANCED": "Maintaining adequate fluid intake and a balanced diet is essential for peak cognitive performance and continuous vitality."
+    },
+    {
+      "COMPLEX": "The city council's initiative to revitalize abandoned industrial zones has garnered public support, focusing on converting them into multipurpose community centers.",
+      "ELEMENTARY": "The council wants to fix old factory areas. They plan to turn them into places everyone can use.",
+      "SECONDARY": "City leaders aim to transform empty factory sites into multi-use spaces for residents, earning strong community backing.",
+      "ADVANCED": "The council's program to overhaul deserted industrial sites, repurposing them into versatile community hubs, has gained widespread approval."
+    },
+    {
+      "COMPLEX": "Single word: Overwhelmed",
+      "ELEMENTARY": "Feeling too much stress or pressure at once.",
+      "SECONDARY": "Experiencing excessive stress or confusion when dealing with too many demands.",
+      "ADVANCED": "Engulfed by an excessive burden or array of tasks, leading to heightened stress."
+    },
+    {
+      "COMPLEX": "In pursuit of improving user retention, several e-commerce platforms now gamify the shopping experience, introducing rewards and level-based incentives.",
+      "ELEMENTARY": "Online stores are adding games to shopping. They give points and levels to keep people coming back.",
+      "SECONDARY": "To keep shoppers returning, some sites use game-like features with rewards and levels as motivation.",
+      "ADVANCED": "E-commerce sites increasingly employ gamification tactics—reward systems and tiered incentives—to enhance user loyalty."
+    },
+    {
+      "COMPLEX": "Political analysts predict that upcoming election debates will focus heavily on healthcare reform, tax policy, and the role of technology in social welfare programs.",
+      "ELEMENTARY": "Experts think the next debates will talk a lot about health care, taxes, and how technology can help people.",
+      "SECONDARY": "Commentators expect healthcare changes, tax plans, and the use of tech in social programs to dominate future election discussions.",
+      "ADVANCED": "Pundits anticipate healthcare restructuring, taxation agendas, and technological integration in social services to be the core issues of forthcoming debates."
+    },
+    {
+      "COMPLEX": "Although still under testing phases, autonomous delivery drones may soon revolutionize last-mile logistics in densely populated urban centers.",
+      "ELEMENTARY": "Drones that deliver packages might change how goods are sent in big cities, but they're still being tested.",
+      "SECONDARY": "Self-flying delivery drones are being tried out and could transform how packages reach people in crowded cities.",
+      "ADVANCED": "Currently in trial phases, autonomous delivery drones have the potential to reshape last-mile distribution in bustling urban settings."
+    },
+    {
+      "COMPLEX": "When preparing for a business presentation, ensure that data visualizations are not only accurate but also easily interpretable by the target audience.",
+      "ELEMENTARY": "Make sure your charts are correct and simple for people to understand when you give a business talk.",
+      "SECONDARY": "For business presentations, data charts must be precise and clear enough for everyone to grasp.",
+      "ADVANCED": "In professional presentations, prioritize both precision and audience-friendly clarity in data visualizations."
+    },
+    {
+      "COMPLEX": "At the center of the newly renovated city park stands a towering sculpture that symbolizes unity and community resilience.",
+      "ELEMENTARY": "There's a big statue in the park that shows people staying together and being strong.",
+      "SECONDARY": "A tall monument in the revamped park represents unity and the strength of the local community.",
+      "ADVANCED": "A prominent sculpture in the refurbished park serves as a tribute to communal solidarity and enduring resilience."
+    },
+    {
+      "COMPLEX": "The professor's latest publication examines how socioeconomic factors influence language acquisition in bilingual children, particularly in immigrant families.",
+      "ELEMENTARY": "A teacher wrote a paper about how money and family situations affect how children learn two languages, especially in immigrant homes.",
+      "SECONDARY": "The study explores how economic and social situations shape bilingual learning for kids, focusing on immigrant households.",
+      "ADVANCED": "The recent scholarly work investigates the impact of socioeconomic variables on bilingual development in children, emphasizing immigrant family contexts."
+    },
+    {
+      "COMPLEX": "Binge-watching streaming series can disrupt healthy sleep patterns, leading to increased fatigue and decreased productivity over time.",
+      "ELEMENTARY": "Watching many shows in a row at night can hurt your sleep. You might feel more tired and get less done later.",
+      "SECONDARY": "Excessive series-watching can ruin sleep schedules, causing tiredness and lower work output in the long run.",
+      "ADVANCED": "Continuous late-night streaming sessions can impair sleep quality, resulting in fatigue and diminished productivity."
+    },
+    {
+      "COMPLEX": "Incomplete start… continuing negotiations to reduce trade tariffs show promise for stabilizing international relations and boosting cross-border commerce.",
+      "ELEMENTARY": "Talks to cut trade taxes could help countries get along better and sell goods more easily.",
+      "SECONDARY": "Ongoing tariff negotiations may strengthen global ties and increase trade between nations.",
+      "ADVANCED": "Continued discussions aimed at lowering tariffs are poised to fortify diplomatic relations and expand international market exchange."
+    },
+    {
+      "COMPLEX": "Fitness experts often advocate for a blend of cardiovascular exercise, strength training, and sufficient rest to maintain optimal physical health and mitigate injury risks.",
+      "ELEMENTARY": "To stay healthy and avoid hurting yourself, do running or biking, lift weights, and rest enough.",
+      "SECONDARY": "Health professionals suggest combining cardio workouts, weight exercises, and proper rest to stay fit and minimize injuries.",
+      "ADVANCED": "A balanced regimen of aerobic activity, resistance training, and adequate recovery is recommended to achieve peak fitness and reduce injury likelihood."
+    },
+    {
+      "COMPLEX": "Within the hospitality sector, personalized customer service has proven to significantly enhance brand loyalty and positive word-of-mouth referrals.",
+      "ELEMENTARY": "Hotels that give special treatment to guests make them happy. Then people tell others good things about it.",
+      "SECONDARY": "Offering tailored services in hotels boosts repeat customers and encourages them to recommend the brand to others.",
+      "ADVANCED": "In the hospitality industry, individualized guest experiences notably foster repeat patronage and favorable recommendations."
+    },
+    {
+      "COMPLEX": "Researchers have identified a correlation between consistent outdoor activity and reduced stress levels, prompting more cities to invest in public recreational spaces.",
+      "ELEMENTARY": "Spending time outside often lowers stress. So, many cities now add more parks and places for people to play.",
+      "SECONDARY": "Studies show regular outdoor pursuits can decrease stress, leading cities to build more green and leisure areas.",
+      "ADVANCED": "A link between frequent outdoor engagement and diminished stress has led municipalities to prioritize developing recreational amenities."
+    },
+    {
+      "COMPLEX": "Another incomplete start… upgrading the security protocols for online transactions is imperative to protect user data and maintain consumer trust.",
+      "ELEMENTARY": "We must make online payments safer. This keeps people's information private and makes them trust the service.",
+      "SECONDARY": "Enhancing internet payment security is crucial for safeguarding user details and preserving trust.",
+      "ADVANCED": "Strengthening e-commerce security measures is essential to safeguard personal data and uphold consumer confidence."
+    },
+    {
+      "COMPLEX": "Single word: Automation",
+      "ELEMENTARY": "Using machines and software to do tasks automatically.",
+      "SECONDARY": "Systems or machines that operate tasks with minimal human help, often improving speed and consistency.",
+      "ADVANCED": "The deployment of technology-driven processes that perform functions independently, reducing manual intervention."
+    },
+    {
+      "COMPLEX": "Natural disasters, such as wildfires and hurricanes, necessitate efficient emergency preparedness strategies, particularly in high-risk regions.",
+      "ELEMENTARY": "Areas with fires or big storms need good plans to stay safe. It's important for places often hit by these disasters.",
+      "SECONDARY": "Wildfires and hurricanes demand strong emergency plans, especially in areas likely to face these events regularly.",
+      "ADVANCED": "Catastrophes like wildfires and hurricanes call for robust preparedness measures, especially in vulnerable zones."
+    },
+    {
+      "COMPLEX": "The local government proposes a comprehensive public transportation overhaul, introducing new bus routes and bike-sharing programs to alleviate traffic congestion.",
+      "ELEMENTARY": "The city plans more buses and bikes for rent to reduce traffic jams.",
+      "SECONDARY": "Officials aim to fight traffic by adding bus routes and launching a bike-share system across town.",
+      "ADVANCED": "A major transport initiative proposes additional bus lines and widespread bike-share schemes to mitigate urban congestion."
+    },
+    {
+      "COMPLEX": "Sustainable packaging solutions, including biodegradable plastics and reduced material usage, are being adopted by numerous online retailers to appeal to eco-conscious consumers.",
+      "ELEMENTARY": "Many online stores use packaging that breaks down naturally or uses less plastic. This makes people who care about the environment happy.",
+      "SECONDARY": "Online shops are switching to eco-friendly packaging, such as biodegradable plastics and smaller boxes, to please green-minded buyers.",
+      "ADVANCED": "Environmentally conscious consumers drive the adoption of sustainable packaging by e-retailers, featuring biodegradable materials and minimized usage."
+    },
+    {
+      "COMPLEX": "Incomplete middle… for diagnosing certain conditions requires advanced imaging equipment and specialized medical expertise.",
+      "ELEMENTARY": "Some illnesses need special scans and doctors who know how to use them.",
+      "SECONDARY": "High-level imaging tools and expert doctors are essential for diagnosing specific health problems.",
+      "ADVANCED": "Certain diagnoses demand sophisticated imaging technology and medical specialists trained in its application."
+    },
+    {
+      "COMPLEX": "Allegations of corruption within corporate governance structures have led to calls for stricter regulatory oversight and improved ethical frameworks.",
+      "ELEMENTARY": "Some companies have been accused of being dishonest. Now people want more rules and better behavior rules.",
+      "SECONDARY": "Claims of corruption in big businesses are pushing for stronger regulations and ethical guidelines.",
+      "ADVANCED": "Corruption accusations in corporate boards have ignited demands for tighter regulations and enhanced ethical standards."
+    },
+    {
+      "COMPLEX": "Single word: Obsolete",
+      "ELEMENTARY": "No longer used or needed.",
+      "SECONDARY": "Outdated and no longer helpful in modern contexts.",
+      "ADVANCED": "Rendered irrelevant or unusable due to newer innovations or practices."
+    },
+    {
+      "COMPLEX": "Pilates and yoga, often recommended for their low-impact nature, can improve flexibility, core strength, and overall posture.",
+      "ELEMENTARY": "Pilates and yoga are gentle exercises that help you become more flexible, stronger, and improve how you stand or sit.",
+      "SECONDARY": "Because they're low-impact, pilates and yoga boost flexibility, strengthen the core, and support better posture.",
+      "ADVANCED": "Known for minimal strain, both pilates and yoga enhance flexibility, fortify the core, and promote proper alignment."
+    },
+    {
+      "COMPLEX": "International forums strive to forge cohesive policies on carbon emissions, aiming to mitigate climate change and its associated environmental repercussions.",
+      "ELEMENTARY": "World groups are trying to agree on rules to cut carbon gases, hoping to slow down climate change.",
+      "SECONDARY": "Global meetings work on shared carbon emission policies to curb climate changes and the damage they cause.",
+      "ADVANCED": "Efforts at international summits focus on unified carbon reduction strategies to counteract climate shifts and their environmental toll."
+    },
+    {
+      "COMPLEX": "The interior design trend of open-concept living spaces can encourage communal family interaction, though it may compromise individual privacy.",
+      "ELEMENTARY": "Open floor designs bring families together but don't give much personal space.",
+      "SECONDARY": "Open-concept homes help families spend time together but make private areas more limited.",
+      "ADVANCED": "While open-plan layouts foster collective engagement, they inherently reduce personal privacy within the home."
+    },
+    {
+      "COMPLEX": "Health professionals recommend regular vision checkups as screen time rises, cautioning that extended focus on digital displays can lead to eye strain and dryness.",
+      "ELEMENTARY": "Because people look at screens more now, doctors say get your eyes checked often. Looking at screens too long can hurt your eyes.",
+      "SECONDARY": "With screen use increasing, eye doctors advise frequent exams, warning that long screen sessions cause strain and dryness.",
+      "ADVANCED": "Given escalating screen usage, experts advocate routine ophthalmic evaluations to address potential eye strain and dryness."
+    },
+    {
+      "COMPLEX": "Renowned chefs are experimenting with fusion cuisine, blending traditional flavors from diverse cultures to create innovative culinary experiences.",
+      "ELEMENTARY": "Famous cooks mix different countries' foods to make new dishes.",
+      "SECONDARY": "Top chefs are combining recipes from various cuisines for creative, flavorful meals.",
+      "ADVANCED": "Acclaimed culinary experts are pioneering fusion cuisine, merging global traditions for novel gastronomic endeavors."
+    },
+    {
+      "COMPLEX": "The expansion of telemedicine services has enabled remote consultations, reducing the need for in-person visits and expanding healthcare access in underserved communities.",
+      "ELEMENTARY": "With telemedicine, people can talk to doctors online. This helps people who live far from clinics get care.",
+      "SECONDARY": "Remote health services let patients consult doctors without traveling, helping areas with limited healthcare.",
+      "ADVANCED": "Telemedicine has broadened healthcare accessibility through virtual consultations, minimizing physical appointments and supporting disadvantaged regions."
+    },
+    {
+      "COMPLEX": "Frequent promotional discounts, while attractive to consumers, may erode brand perception if perceived as continuous price reductions rather than occasional incentives.",
+      "ELEMENTARY": "If a store always has sales, people might think the brand is cheap or low-quality.",
+      "SECONDARY": "Too many discounts can be good for shoppers but risk making the brand seem less valuable.",
+      "ADVANCED": "Overuse of promotional pricing can entice buyers but risks diminishing the brand’s perceived value."
+    },
+    {
+      "COMPLEX": "Urban planners emphasize the importance of green rooftops and vertical gardens, which can lower building energy use and improve city air quality.",
+      "ELEMENTARY": "Putting plants on top of buildings saves energy and cleans the air in cities.",
+      "SECONDARY": "Green roofs and vertical gardens help cut energy costs and enhance the air in crowded areas.",
+      "ADVANCED": "Planners advocate rooftop vegetation and vertical greenery to curb energy consumption and elevate urban air quality."
+    },
+    {
+      "COMPLEX": "Small local businesses often thrive by offering personalized service and unique products that large corporations cannot easily replicate.",
+      "ELEMENTARY": "Little shops do well when they give special help and items you can't find in big stores.",
+      "SECONDARY": "Independent businesses succeed by providing one-of-a-kind goods and personal care that big companies rarely match.",
+      "ADVANCED": "Boutique enterprises flourish by delivering bespoke services and distinctive offerings beyond corporate reproduction."
+    },
+    {
+      "COMPLEX": "Environmental activists argue that stricter legislation is required to curb plastic pollution, especially in marine ecosystems where its impact is most evident.",
+      "ELEMENTARY": "Activists want tougher rules to stop plastic waste, mostly in oceans where it's a big problem.",
+      "SECONDARY": "Some call for stronger laws to reduce plastic trash, particularly because it's damaging marine life.",
+      "ADVANCED": "Advocates insist on more rigorous regulations to address plastic pollution, notably in fragile marine habitats."
+    }
+  ]
+  

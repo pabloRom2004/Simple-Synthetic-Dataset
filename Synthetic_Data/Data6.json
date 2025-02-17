@@ -1,0 +1,957 @@
+[
+    {
+      "COMPLEX": "The newly implemented ergonomic protocols significantly reduced repetitive strain injuries, although some employees complained about the mandatory stretch breaks.",
+      "ELEMENTARY": "New workplace rules cut down on injuries from repeating the same movements. Some workers didn't like having to stop for stretching.",
+      "SECONDARY": "Ergonomic guidelines helped lower repetitive strain cases, but a few staff were unhappy with forced exercise pauses.",
+      "ADVANCED": "Although the ergonomic measures diminished repetitive strain incidents, certain personnel expressed discontent with compulsory stretching interludes."
+    },
+    {
+      "COMPLEX": "caution is advised when updating the operating system, as third-party drivers may become incompatible and cause random crashes.",
+      "ELEMENTARY": "Be careful when you update. Old device drivers might break and crash your system.",
+      "SECONDARY": "Users should update carefully, since older drivers may fail and lead to sporadic system errors.",
+      "ADVANCED": "Exercise caution with OS upgrades, because outdated third-party drivers could become incompatible, provoking erratic failures."
+    },
+    {
+      "COMPLEX": "Conflagration",
+      "ELEMENTARY": "A large destructive fire",
+      "SECONDARY": "An extensive blaze causing great damage",
+      "ADVANCED": "A massive, uncontrollable fire resulting in widespread devastation"
+    },
+    {
+      "COMPLEX": "The book’s meticulous footnotes and references captivated academic readers, yet casual audiences found the extensive annotations cumbersome.",
+      "ELEMENTARY": "Researchers loved the detailed notes, but general readers thought there were too many references.",
+      "SECONDARY": "Scholars appreciated the book’s detailed footnotes, although non-academic readers felt overwhelmed by the volume of citations.",
+      "ADVANCED": "While the meticulous scholarly apparatus impressed academics, lay audiences deemed the profuse annotations unwieldy."
+    },
+    {
+      "COMPLEX": "in mid-sentence about the expansion plans, we discovered a lack of permits for constructing additional facilities in protected wetlands.",
+      "ELEMENTARY": "While talking about growing the building, we found out we don't have permits to build on protected land.",
+      "SECONDARY": "During discussion of the growth strategy, it emerged that no licenses existed for new structures on safeguarded wetlands.",
+      "ADVANCED": "Halfway through outlining expansion intentions, officials realised permits were missing for proposed development in an environmentally protected zone."
+    },
+    {
+      "COMPLEX": "Hyperbole",
+      "ELEMENTARY": "An exaggeration to make a point",
+      "SECONDARY": "A figure of speech that stretches facts for emphasis",
+      "ADVANCED": "A rhetorical device involving deliberate overstatement for dramatic or comedic effect"
+    },
+    {
+      "COMPLEX": "Although the city’s recycling rates improved, illegal dumping in suburban areas still posed a significant environmental challenge.",
+      "ELEMENTARY": "More people are recycling in the city, but some dump trash illegally outside town, hurting the environment.",
+      "SECONDARY": "Despite better recycling participation, unlawful waste disposal in outer districts continues to harm local ecosystems.",
+      "ADVANCED": "While municipal recycling shows positive momentum, persistent illicit dumping in suburban regions undermines environmental progress."
+    },
+    {
+      "COMPLEX": "the advanced analytics dashboard provided critical insights into user behaviour, yet management overlooked key metrics related to customer retention.",
+      "ELEMENTARY": "The tool showed important user habits, but the bosses didn't track how many customers stayed.",
+      "SECONDARY": "Although the new dashboard revealed user patterns, leaders missed the retention data vital for ongoing engagement.",
+      "ADVANCED": "Despite yielding pivotal behavioural insights, the analytics interface was underutilised regarding essential retention figures."
+    },
+    {
+      "COMPLEX": "Laudable",
+      "ELEMENTARY": "Worthy of praise",
+      "SECONDARY": "Deserving approval or commendation",
+      "ADVANCED": "Meriting recognition for excellence or noteworthy accomplishment"
+    },
+    {
+      "COMPLEX": "Short segment mid text, lacking context about user permissions",
+      "ELEMENTARY": "Needs more detail on who can do what in the system.",
+      "SECONDARY": "The snippet doesn’t clarify access levels for different user roles.",
+      "ADVANCED": "This partial statement omits distinctions in user privileges, requiring further specification."
+    },
+    {
+      "COMPLEX": "By adjusting the supply chain logistics, the fashion retailer reduced delivery times across Europe, but faced customs delays when shipping overseas.",
+      "ELEMENTARY": "They changed how they move clothes to get them faster in Europe, but had problems with customs to other places.",
+      "SECONDARY": "Logistics tweaks sped up European shipments, although shipments abroad met customs-related slowdowns.",
+      "ADVANCED": "Optimising regional freight routes expedited European deliveries, yet international orders suffered from protracted customs hold-ups."
+    },
+    {
+      "COMPLEX": "Nascent",
+      "ELEMENTARY": "Just beginning or starting",
+      "SECONDARY": "In the early stages of development",
+      "ADVANCED": "Emerging or coming into existence in a rudimentary or initial form"
+    },
+    {
+      "COMPLEX": "While the immersive language app claimed high retention rates, a significant portion of users dropped out after completing the free trial period.",
+      "ELEMENTARY": "The language app said most people kept using it, but many left once the free trial ended.",
+      "SECONDARY": "Despite boasting solid retention, the service lost many learners upon the conclusion of its free tier.",
+      "ADVANCED": "Though retention metrics were touted, a substantial user exodus followed the expiration of complimentary access."
+    },
+    {
+      "COMPLEX": "and later in the training manual, the complicated steps for configuring the router’s firewall settings were not fully illustrated.",
+      "ELEMENTARY": "Farther in the guide, they didn't show all the steps for setting up the firewall on the router.",
+      "SECONDARY": "The manual’s later section omitted a detailed rundown of router firewall configuration procedures.",
+      "ADVANCED": "Subsequent portions of the documentation neglected to comprehensively depict the intricate router firewall setup process."
+    },
+    {
+      "COMPLEX": "Parsimony",
+      "ELEMENTARY": "Being very frugal or stingy",
+      "SECONDARY": "Extreme unwillingness to spend money or resources",
+      "ADVANCED": "Excessive frugality, denoting reluctance in allocating financial or material resources"
+    },
+    {
+      "COMPLEX": "Despite unveiling a sleek, user-friendly design, the wearable medical device faced skepticism about the accuracy of its heart-monitoring sensors.",
+      "ELEMENTARY": "The medical gadget looked good and was easy to use, but people doubted its heart sensors.",
+      "SECONDARY": "Even with an appealing design, questions arose regarding how well the device tracked cardiac data.",
+      "ADVANCED": "While boasting a refined interface, the health wearable attracted doubt about the reliability of its cardiovascular monitoring technology."
+    },
+    {
+      "COMPLEX": "the incomplete reference to advanced encryption methods left many developers unsure about implementing secure communication protocols.",
+      "ELEMENTARY": "They didn't fully explain strong encryption, so coders didn't know how to make safe connections.",
+      "SECONDARY": "A partial mention of modern encryption gave developers no clear way to secure data exchanges.",
+      "ADVANCED": "Due to the truncated encryption guidance, engineers lacked clarity on deploying robust communicative security layers."
+    },
+    {
+      "COMPLEX": "Short",
+      "ELEMENTARY": "Tiny",
+      "SECONDARY": "A brief phrase",
+      "ADVANCED": "A concise statement"
+    },
+    {
+      "COMPLEX": "The consultancy’s strategic roadmap proposed diversifying revenue streams, yet stakeholders insisted on focusing solely on the core product line.",
+      "ELEMENTARY": "They advised the company to make money in different ways, but owners only wanted to sell the main product.",
+      "SECONDARY": "Although the plan recommended new income avenues, stakeholders were firm about continuing with the primary offerings.",
+      "ADVANCED": "Despite calls for economic diversification, principal investors chose to remain committed exclusively to the flagship product range."
+    },
+    {
+      "COMPLEX": "Supercede (note: correct spelling is supersede, but users might highlight a variant)",
+      "ELEMENTARY": "To take the place of something older",
+      "SECONDARY": "To replace or succeed an outdated or inferior version",
+      "ADVANCED": "To supplant a previous iteration, rendering the predecessor obsolete"
+    },
+    {
+      "COMPLEX": "During the legislative session, a controversial amendment passed unexpectedly, prompting uproar from opposition parties and civil rights groups.",
+      "ELEMENTARY": "Politicians approved a sudden, disputed change, causing protests from rivals and rights activists.",
+      "SECONDARY": "A contentious clause gained unexpected approval, igniting backlash among opposing lawmakers and advocacy groups.",
+      "ADVANCED": "In a surprising turn, legislators adopted a divisive amendment, inciting fervent protests from political adversaries and civil liberty organisations."
+    },
+    {
+      "COMPLEX": "the newly introduced privacy filter on the image-sharing app occasionally distorted face recognition features, affecting user tagging accuracy.",
+      "ELEMENTARY": "The new privacy filter made faces blurry sometimes, so auto-tagging got messed up.",
+      "SECONDARY": "Although it aimed to protect privacy, the filter periodically hindered facial recognition, reducing accurate user tags.",
+      "ADVANCED": "Implemented to enhance anonymity, the privacy overlay sporadically disrupted biometric identification, undermining tagging precision."
+    },
+    {
+      "COMPLEX": "Aberrant",
+      "ELEMENTARY": "Different from what is normal",
+      "SECONDARY": "Departing from usual standards or expectations",
+      "ADVANCED": "Deviating from convention or the accepted norm, often in an unusual manner"
+    },
+    {
+      "COMPLEX": "Although the newly published study promised revolutionary treatments, peer reviewers raised concerns about sample size and experimental bias.",
+      "ELEMENTARY": "The research claimed big breakthroughs, but experts said the study group was too small and might be biased.",
+      "SECONDARY": "Despite the study’s radical claims, reviewers questioned whether the small sample and potential bias undermined its conclusions.",
+      "ADVANCED": "While touted as groundbreaking, the investigation’s methodological limitations—namely its narrow cohort and inherent bias—prompted academic skepticism."
+    },
+    {
+      "COMPLEX": "in drafting the presentation slides, marketing failed to highlight after-sales support, leaving potential buyers unaware of the warranty benefits.",
+      "ELEMENTARY": "They forgot to show warranty perks in the slides, so new customers didn't know about the support.",
+      "SECONDARY": "By omitting post-purchase support details in their pitch, marketing left prospects uncertain about included warranty coverage.",
+      "ADVANCED": "During slide creation, critical references to warranty backing were overlooked, depriving leads of knowledge about after-sales assurance."
+    },
+    {
+      "COMPLEX": "Camaraderie",
+      "ELEMENTARY": "A friendly feeling among a group",
+      "SECONDARY": "Mutual trust and friendship shared by people spending time together",
+      "ADVANCED": "A sense of closeness and solidarity cultivated through common experiences or goals"
+    },
+    {
+      "COMPLEX": "The filmmaker’s artistic vision relied heavily on abstract imagery, which appealed to niche audiences but struggled to gain mainstream traction.",
+      "ELEMENTARY": "The director used strange pictures that a small group liked, but most people didn't get them.",
+      "SECONDARY": "A focus on abstract visuals won acclaim from avant-garde fans but failed to resonate with general viewers.",
+      "ADVANCED": "Relying on experimental visuals, the director garnered art-house appreciation but faced difficulty connecting with broader audiences."
+    },
+    {
+      "COMPLEX": "amid the chaos of the product recall, the PR team scrambled to craft transparent messaging that would rebuild consumer confidence.",
+      "ELEMENTARY": "During the big recall, the public relations group rushed to make clear statements so people would trust them again.",
+      "SECONDARY": "As the recall caused turmoil, PR quickly devised honest communication strategies to restore buyer trust.",
+      "ADVANCED": "In the upheaval triggered by the recall, communications professionals hastily developed forthright messaging to mend customer faith."
+    },
+    {
+      "COMPLEX": "Penitent",
+      "ELEMENTARY": "Feeling sorry for doing something wrong",
+      "SECONDARY": "Showing remorse or regret for past misdeeds",
+      "ADVANCED": "Experiencing deep contrition or repentance for prior transgressions"
+    },
+    {
+      "COMPLEX": "Despite robust authentication measures, the finance app occasionally flagged legitimate transactions as fraudulent, frustrating users trying to make urgent payments.",
+      "ELEMENTARY": "The bank app had good security, but sometimes it blocked real payments, annoying people who needed fast transactions.",
+      "SECONDARY": "Though security was strong, false fraud alerts disrupted genuine payments, angering time-pressed customers.",
+      "ADVANCED": "Even with stringent anti-fraud protocols, legitimate transfers were occasionally flagged, inconveniencing users reliant on timely remittances."
+    },
+    {
+      "COMPLEX": "the short snippet about uploading documents lacks details on file format restrictions and maximum file sizes.",
+      "ELEMENTARY": "This info about putting documents online doesn't say which file types or sizes are allowed.",
+      "SECONDARY": "Missing from the snippet are the permitted formats and file size caps for document uploads.",
+      "ADVANCED": "No guidance is provided regarding acceptable file extensions or maximum upload limits, rendering the snippet incomplete."
+    },
+    {
+      "COMPLEX": "Apathetic",
+      "ELEMENTARY": "Not caring about things",
+      "SECONDARY": "Showing little or no emotion or interest",
+      "ADVANCED": "Lacking enthusiasm or concern, often perceived as indifferent or unresponsive"
+    },
+    {
+      "COMPLEX": "Although the theme park boasted state-of-the-art rides, inadequate crowd control measures led to lengthy queues and visitor complaints.",
+      "ELEMENTARY": "The park had modern rides but very long lines, and people got upset.",
+      "SECONDARY": "Despite cutting-edge attractions, poor crowd management caused extended wait times and upset patrons.",
+      "ADVANCED": "While equipped with modern rides, the park’s insufficient queue management resulted in protracted lines and discontented visitors."
+    },
+    {
+      "COMPLEX": "amid the rapid transition to remote work, the internal IT department underestimated the surge in helpdesk requests related to home-network security.",
+      "ELEMENTARY": "When everyone started working from home, the tech team didn't expect so many calls about home internet safety.",
+      "SECONDARY": "The swift move to telecommuting led to an overwhelming number of security support calls that IT didn’t anticipate.",
+      "ADVANCED": "During the abrupt shift to distributed work setups, IT miscalculated the volume of user queries on domestic network safeguards."
+    },
+    {
+      "COMPLEX": "Prosaic",
+      "ELEMENTARY": "Ordinary or dull",
+      "SECONDARY": "Lacking poetic beauty, mundane in style",
+      "ADVANCED": "Characterised by straightforward, unimaginative expression lacking distinctive flair or creativity"
+    },
+    {
+      "COMPLEX": "In response to declining newspaper subscriptions, the media group pivoted to a digital-first model, integrating podcasts and interactive reports.",
+      "ELEMENTARY": "As fewer people bought papers, they moved online, adding podcasts and clickable stories.",
+      "SECONDARY": "With readership dropping, the media organisation went digital, offering podcast episodes and dynamic reporting.",
+      "ADVANCED": "Confronting subscription attrition, the publishing conglomerate adopted a web-centric strategy augmented by audio series and immersive content."
+    },
+    {
+      "COMPLEX": "the updated contract contained ambiguous language about termination clauses, causing legal advisors to demand clarifications before signing.",
+      "ELEMENTARY": "The new deal had unclear rules on ending it, so lawyers wanted more details.",
+      "SECONDARY": "Because termination specifics were vague, attorneys requested precise wording before any agreement could be finalised.",
+      "ADVANCED": "Owing to obfuscatory phrasing on contract dissolution, counsel insisted on definitive expansions prior to execution."
+    },
+    {
+      "COMPLEX": "Heterogeneous",
+      "ELEMENTARY": "Made up of different parts",
+      "SECONDARY": "Composed of diverse or varied elements",
+      "ADVANCED": "Consisting of dissimilar components, often creating a varied or mixed whole"
+    },
+    {
+      "COMPLEX": "While the revamped user interface boosted overall satisfaction, advanced users lamented the removal of key shortcut functions.",
+      "ELEMENTARY": "The new design made most people happier, but power users missed important quick commands.",
+      "SECONDARY": "Although satisfaction rose with the redesign, expert users objected to missing shortcuts for efficient navigation.",
+      "ADVANCED": "Despite enhancing general contentment, the updated UI drew complaints from experienced operators over lost high-level shortcut capabilities."
+    },
+    {
+      "COMPLEX": "in between discussing sales forecasts, we discovered that the reporting tool incorrectly aggregated monthly revenue streams, skewing projections.",
+      "ELEMENTARY": "While talking about future profits, we realized the system added up each month's money wrong, messing up the numbers.",
+      "SECONDARY": "Amid forecast reviews, an error in the revenue aggregator led to distorted sales predictions.",
+      "ADVANCED": "During financial projection deliberations, it became evident that the reporting software miscalculated monthly inflows, compromising forecast accuracy."
+    },
+    {
+      "COMPLEX": "Credence",
+      "ELEMENTARY": "Belief that something is true",
+      "SECONDARY": "Acceptance or trust in the truth or reliability of a statement",
+      "ADVANCED": "Confidence in the factual legitimacy or veracity of a claim, often derived from evidence or reputation"
+    },
+    {
+      "COMPLEX": "The remote learning platform offered interactive quizzes and immediate feedback, yet teachers complained of insufficient tools for group collaboration and project-based assignments.",
+      "ELEMENTARY": "Students could do quizzes and get quick answers, but teachers said there aren't enough group project features.",
+      "SECONDARY": "Though providing tests with instant results, the platform lacked robust group work and project functionality, educators noted.",
+      "ADVANCED": "While fostering engagement through interactive evaluations and real-time feedback, the system fell short in facilitating group synergy and comprehensive project tasks."
+    },
+    {
+      "COMPLEX": "the snippet about brand guidelines failed to specify usage rules for secondary colour palettes, leading to inconsistent marketing materials.",
+      "ELEMENTARY": "They didn't say how to use the extra colours, so ads looked mismatched.",
+      "SECONDARY": "Without instructions on secondary hues, design elements varied significantly across promotional content.",
+      "ADVANCED": "Due to missing directives on auxiliary colour usage, marketing assets displayed notable visual inconsistency."
+    },
+    {
+      "COMPLEX": "Nuance",
+      "ELEMENTARY": "A small detail or difference",
+      "SECONDARY": "A slight variation in meaning or tone",
+      "ADVANCED": "A subtle distinction that can critically alter interpretation or implication"
+    },
+    {
+      "COMPLEX": "Because the auditing software only covered a subset of financial records, discrepancies in older transactions went undetected for months.",
+      "ELEMENTARY": "The program checked only some finances, so mistakes in older bills were missed for a long time.",
+      "SECONDARY": "With partial record coverage, the auditing tool overlooked errors in past accounts for an extended period.",
+      "ADVANCED": "Restricted to limited financial entries, the auditing system failed to spot inconsistencies in historical transactions over many months."
+    },
+    {
+      "COMPLEX": "Though gamers applauded the updated physics engine, many felt the storyline lacked depth and the character arcs remained underdeveloped.",
+      "ELEMENTARY": "Players liked how the new game engine felt, but the story was shallow and characters weren't fleshed out.",
+      "SECONDARY": "While the improved physics received praise, critics pointed to a weak narrative and incomplete character growth.",
+      "ADVANCED": "The refined physics mechanics were lauded, yet the game’s narrative architecture was criticised for lacking depth and maturation of its protagonists."
+    },
+    {
+      "COMPLEX": "deep in the documentation about deploying microservices, the instructions for load balancing across multiple containers were absent, halting the rollout.",
+      "ELEMENTARY": "Buried in the docs about microservices, there's no info on balancing traffic among containers, stopping the launch.",
+      "SECONDARY": "Crucial guidelines for container load balancing were missing in the microservices manual, freezing deployment efforts.",
+      "ADVANCED": "Within the comprehensive microservices guide, load balancing procedures were conspicuously omitted, stalling multi-container implementation."
+    },
+    {
+      "COMPLEX": "Synthesis",
+      "ELEMENTARY": "Combining ideas or things together",
+      "SECONDARY": "Merging parts into a unified whole, often involving creativity",
+      "ADVANCED": "The process of integrating diverse elements to form a coherent and innovative new structure or concept"
+    },
+    {
+      "COMPLEX": "Even though the summer festival drew record crowds, severe heatwaves and inadequate cooling stations resulted in multiple medical emergencies.",
+      "ELEMENTARY": "A lot of people went to the festival, but it was too hot and there weren't enough cool areas, so some got sick.",
+      "SECONDARY": "Despite a high turnout, extreme heat and limited hydration points led to numerous health incidents among attendees.",
+      "ADVANCED": "Although attendance soared, the festival lacked sufficient temperature relief measures amid oppressive heat, causing extensive medical concerns."
+    },
+    {
+      "COMPLEX": "the app’s new interface improved ease of use but removed the bulk import feature, frustrating businesses managing large data sets.",
+      "ELEMENTARY": "They made the app simpler, but got rid of the big batch upload option, annoying companies with lots of info.",
+      "SECONDARY": "Usability advanced through redesign, yet elimination of mass import inconvenienced data-heavy enterprises.",
+      "ADVANCED": "While enhancing general accessibility, the interface overhaul omitted the batch-import capability, hindering organisational workflows reliant on extensive data ingestion."
+    },
+    {
+      "COMPLEX": "Onerous",
+      "ELEMENTARY": "Very difficult or burdensome",
+      "SECONDARY": "Involving heavy obligations or effort",
+      "ADVANCED": "Imposing significant strain or responsibility, often perceived as excessively taxing"
+    },
+    {
+      "COMPLEX": "In an attempt to broaden market reach, the cosmetics brand launched a gender-neutral campaign, though critics accused it of superficial virtue-signalling.",
+      "ELEMENTARY": "They tried to reach everyone by saying the products are for all genders, but some said it was just for show.",
+      "SECONDARY": "A push for inclusive marketing led to a unisex ad drive, yet detractors deemed it hollow posturing.",
+      "ADVANCED": "While seeking wider appeal through a non-binary promotional approach, the brand faced allegations of performative marketing without genuine commitment."
+    },
+    {
+      "COMPLEX": "in the final QA checks, the wearable device exhibited erratic temperature readings, necessitating recalibration before mass production.",
+      "ELEMENTARY": "During the last tests, the gadget showed weird heat numbers, so they had to fix it before making lots.",
+      "SECONDARY": "Final testing revealed inconsistent temperature measurements, forcing a recalibration step prior to large-scale manufacturing.",
+      "ADVANCED": "Concluding quality assessments exposed fluctuating thermal outputs in the wearable, warranting immediate recalibration ahead of full production rollout."
+    },
+    {
+      "COMPLEX": "Zeitgeist",
+      "ELEMENTARY": "The spirit or mood of a particular time",
+      "SECONDARY": "The defining attitude or ideas of a generation or period",
+      "ADVANCED": "The intellectual, cultural, and moral atmosphere reflective of an era’s prevailing attitudes"
+    },
+    {
+      "COMPLEX": "While the developer conference unveiled exciting technologies, some sessions were criticised for excessive jargon, alienating non-technical attendees.",
+      "ELEMENTARY": "They showed cool new tech at the conference, but used too many big words, confusing people who aren't coders.",
+      "SECONDARY": "Though interesting advancements were presented, certain talks were too jargon-heavy for a mixed audience.",
+      "ADVANCED": "Despite showcasing innovative breakthroughs, multiple sessions were faulted for impenetrable terminology that distanced less technical participants."
+    },
+    {
+      "COMPLEX": "Short incomplete references to advanced marketing funnels that might need further detail on lead scoring metrics",
+      "ELEMENTARY": "We need simpler words about how to rank leads in marketing funnels.",
+      "SECONDARY": "This phrase omits specifics on lead scoring systems used in funnel strategies.",
+      "ADVANCED": "A truncated mention lacking elaboration on the metrics and weighting mechanisms in advanced funnel lead qualification."
+    },
+    {
+      "COMPLEX": "Capitulate",
+      "ELEMENTARY": "To surrender or give up",
+      "SECONDARY": "To stop resisting and agree to terms",
+      "ADVANCED": "To yield or acquiesce, often following negotiation or under compelling pressure"
+    },
+    {
+      "COMPLEX": "Although the car manufacturer excelled in crash safety tests, recurring software malfunctions in onboard systems undermined consumer trust.",
+      "ELEMENTARY": "They did great in crash checks, but the car's computer kept messing up, so buyers worried.",
+      "SECONDARY": "Strong crash ratings clashed with frequent electronic glitches, damaging faith in the brand's reliability.",
+      "ADVANCED": "Despite stellar crash resilience, persistent onboard software anomalies eroded public confidence in the automotive producer’s overall quality."
+    },
+    {
+      "COMPLEX": "the community outreach programme aimed to bolster literacy rates, yet volunteer shortages hampered several after-school reading sessions.",
+      "ELEMENTARY": "They wanted more kids to read well, but not enough helpers were available for the classes.",
+      "SECONDARY": "Although designed to raise literacy, the programme was limited by insufficient volunteers for after-school help.",
+      "ADVANCED": "In pursuit of improved literacy outcomes, the initiative stagnated when a lack of volunteer manpower disrupted reading clubs."
+    },
+    {
+      "COMPLEX": "Incipient",
+      "ELEMENTARY": "Just beginning to happen or develop",
+      "SECONDARY": "In an initial stage; not yet fully formed",
+      "ADVANCED": "Embryonic or nascent, indicating early development before reaching maturity"
+    },
+    {
+      "COMPLEX": "Amid concerns about data monetisation, the social networking site introduced clearer privacy settings, though many users found them cumbersome to navigate.",
+      "ELEMENTARY": "The website offered better privacy controls, but most people felt they were too hard to use.",
+      "SECONDARY": "Reacting to data sales worries, the site unveiled new settings, though users struggled with their complexity.",
+      "ADVANCED": "Addressing data-commercialisation fears, the platform overhauled privacy controls, yet many found the granular setup excessively convoluted."
+    },
+    {
+      "COMPLEX": "halfway through the project, the design agency decided to pivot away from minimalism, opting instead for a more vibrant aesthetic.",
+      "ELEMENTARY": "In the middle of work, they changed from a simple look to something bright.",
+      "SECONDARY": "Mid-project, the agency abandoned minimalistic designs in favour of bold, colourful themes.",
+      "ADVANCED": "During the project’s progression, designers veered from a pared-down approach toward a visually dynamic artistic direction."
+    },
+    {
+      "COMPLEX": "Juxtaposition",
+      "ELEMENTARY": "Putting two things side by side to compare them",
+      "SECONDARY": "The act of placing items close together to highlight contrasts or similarities",
+      "ADVANCED": "An arrangement of two or more elements in proximity to draw attention to their comparative or contrasting qualities"
+    },
+    {
+      "COMPLEX": "Despite an intuitive layout, the budgeting software lacked advanced reporting tools, making it insufficient for enterprise-level financial analysis.",
+      "ELEMENTARY": "The program was easy to use, but didn't have deep reports, so big companies couldn't fully use it.",
+      "SECONDARY": "While user-friendly for simple tasks, the software failed to provide robust data analytics for larger organisations.",
+      "ADVANCED": "Though accessible in design, the tool’s dearth of sophisticated analytics rendered it inadequate for comprehensive corporate fiscal studies."
+    },
+    {
+      "COMPLEX": "the incomplete mention of the new feature’s compatibility with older devices led to confusion during the beta testing phase.",
+      "ELEMENTARY": "They didn't say if the new feature works on old phones, so beta testers got mixed up.",
+      "SECONDARY": "A vague reference to legacy support caused uncertainty among testers trying out the update.",
+      "ADVANCED": "Ambiguous references to backward compatibility resulted in confusion amidst the beta group evaluating the latest functionality."
+    },
+    {
+      "COMPLEX": "Susceptible",
+      "ELEMENTARY": "Easily affected by something",
+      "SECONDARY": "Likely or liable to be influenced or harmed",
+      "ADVANCED": "Prone to external impact, lacking resistance to potential influences or damages"
+    },
+    {
+      "COMPLEX": "In a bid to foster gender equality, the corporation launched a mentorship initiative, although some critics argued it lacked clear metrics for success.",
+      "ELEMENTARY": "They started a program to help women and men equally, but people said it didn't show how to measure results.",
+      "SECONDARY": "A mentorship push aimed at equality, yet detractors noted no solid framework to track outcomes.",
+      "ADVANCED": "As part of an equality drive, a corporate mentor network was introduced, though observers highlighted the absence of defined performance indicators."
+    },
+    {
+      "COMPLEX": "Despondent",
+      "ELEMENTARY": "Very sad or hopeless",
+      "SECONDARY": "Feeling profound discouragement or low spirits",
+      "ADVANCED": "Experiencing a state of deep unhappiness, lacking hope or optimism for improvement"
+    },
+    {
+      "COMPLEX": "While the device’s curved display appealed to design enthusiasts, practical concerns about durability and screen protectors deterred cautious buyers.",
+      "ELEMENTARY": "People loved the curved screen, but they worried it might break and was hard to protect.",
+      "SECONDARY": "Its sleek curved design impressed many, though fears about fragility kept some from purchasing.",
+      "ADVANCED": "Although aesthetically praised, the display’s contour raised questions about resilience and limited protective accessory options."
+    },
+    {
+      "COMPLEX": "the short excerpt from the marketing plan failed to outline timelines or key performance indicators, leaving the sales team uncertain of targets.",
+      "ELEMENTARY": "This brief part of the plan didn't list when things happen or what numbers they want to hit, confusing sales staff.",
+      "SECONDARY": "A truncated portion of the marketing blueprint offered no deadlines or performance measures, puzzling the sales division.",
+      "ADVANCED": "Due to insufficient detail in the plan snippet—omitting schedules and KPIs—the sales force lacked clarity on objectives."
+    },
+    {
+      "COMPLEX": "Acrimonious",
+      "ELEMENTARY": "Full of anger or bitterness",
+      "SECONDARY": "Characterised by sharpness or harshness in speech or tone",
+      "ADVANCED": "Marked by acidic or bitter sentiments, frequently evident in hostile exchanges"
+    },
+    {
+      "COMPLEX": "The subscription box service gained popularity for its curated selections but faced backlash for plastic-heavy packaging that contradicted its eco-friendly branding.",
+      "ELEMENTARY": "People liked the monthly boxes, but they used too much plastic, which went against their green image.",
+      "SECONDARY": "Though widely appreciated for tailored products, critics noted the brand’s overuse of plastic despite environmental claims.",
+      "ADVANCED": "While lauded for thoughtfully assembled offerings, the service drew criticism over excessive plastic packaging that clashed with its sustainable ethos."
+    },
+    {
+      "COMPLEX": "given the multiple warnings from cybersecurity experts, failing to encrypt sensitive user data could expose the platform to severe breaches.",
+      "ELEMENTARY": "Experts warned the site to protect important info. If they don't, hackers could break in easily.",
+      "SECONDARY": "Ignoring repeated expert alerts to secure user data poses a high risk of major security incidents.",
+      "ADVANCED": "In light of repeated security advisories, the absence of encryption for sensitive information places the platform at acute breach risk."
+    },
+    {
+      "COMPLEX": "Cohesive",
+      "ELEMENTARY": "Sticking together well",
+      "SECONDARY": "Forming a united whole or working together smoothly",
+      "ADVANCED": "Demonstrating consistency and unity, creating an integrated or harmonious structure"
+    },
+    {
+      "COMPLEX": "Although the non-profit effectively raised awareness for wildlife conservation, limited funding restricted its ability to launch large-scale habitat protection initiatives.",
+      "ELEMENTARY": "They told people about saving animals, but with little money, they couldn't do big projects.",
+      "SECONDARY": "Awareness campaigns succeeded, but a lack of funds kept the group from starting major conservation actions.",
+      "ADVANCED": "Though adept at publicising wildlife concerns, the organisation’s budget constraints curtailed broader habitat defence undertakings."
+    },
+    {
+      "COMPLEX": "the concluding statements about the partnership agreement were too vague, particularly regarding dispute resolution methods.",
+      "ELEMENTARY": "They ended the deal with unclear talk about how they'd handle fights or issues.",
+      "SECONDARY": "Final remarks on the deal lacked specifics on how conflicts would be managed.",
+      "ADVANCED": "The contract’s concluding clauses were insufficiently explicit, omitting definitive measures for conflict arbitration."
+    },
+    {
+      "COMPLEX": "Obstinate",
+      "ELEMENTARY": "Stubborn or refusing to change",
+      "SECONDARY": "Unyielding in attitude or resistance to persuasion",
+      "ADVANCED": "Persistently inflexible or uncooperative, resistant to reasoned argument or compromise"
+    },
+    {
+      "COMPLEX": "The community forum’s new moderation guidelines reduced spam posts but also sparked debates about over-regulation and free expression.",
+      "ELEMENTARY": "The new rules cut down junk posts but made people wonder if there's too much control.",
+      "SECONDARY": "Though fewer spam messages appeared, some users questioned whether the guidelines overly restricted speech.",
+      "ADVANCED": "In introducing stricter content policies, the forum saw diminished spam yet ignited discourse on whether regulation encroached upon open dialogue."
+    },
+    {
+      "COMPLEX": "by the midpoint of the research phase, scientists noticed discrepancies in the control group data, necessitating a re-examination of the experimental design.",
+      "ELEMENTARY": "Halfway through studying, researchers found odd differences in the control group, so they had to check their method again.",
+      "SECONDARY": "Mid-research, unusual variations appeared in control data, forcing a reconsideration of the experiment's setup.",
+      "ADVANCED": "At the study’s halfway mark, anomalies in control metrics emerged, prompting a thorough re-evaluation of methodological protocols."
+    },
+    {
+      "COMPLEX": "Immutable",
+      "ELEMENTARY": "Cannot be changed",
+      "SECONDARY": "Permanent and not subject to alteration",
+      "ADVANCED": "Unchanging over time, impervious to modification or revision"
+    },
+    {
+      "COMPLEX": "Adapting to a niche market, the publishing house focused exclusively on academic texts, but the reliance on a single revenue stream raised financial stability concerns.",
+      "ELEMENTARY": "They only printed study books, but depending on one income source worried people about money risks.",
+      "SECONDARY": "By targeting scholarly works alone, the publisher risked insecurity from a limited sales channel.",
+      "ADVANCED": "Specialising in scholarly publications gave the company a defined audience, yet the singular revenue model threatened fiscal resilience."
+    },
+    {
+      "COMPLEX": "this snippet from the user manual about firewall exceptions doesn't mention default ports or recommended security settings.",
+      "ELEMENTARY": "The manual part on firewall openings doesn't say which ports are normal or safe settings.",
+      "SECONDARY": "It fails to detail default port configurations or best-practice security recommendations in relation to firewall rules.",
+      "ADVANCED": "Key insights on standard port assignments and suggested security levels are absent from the firewall exception guidelines."
+    },
+    {
+      "COMPLEX": "Candour",
+      "ELEMENTARY": "Honesty or openness",
+      "SECONDARY": "Being straightforward and sincere when communicating",
+      "ADVANCED": "Quality of frankness and directness, denoting sincerity without concealment of truth"
+    },
+    {
+      "COMPLEX": "Industry experts praised the sustainable packaging initiative, yet mass adoption remained slow due to higher costs and limited production capacity.",
+      "ELEMENTARY": "They liked the eco-friendly boxes, but they're expensive and not enough are made, so few companies use them.",
+      "SECONDARY": "Though lauded as eco-conscious, scaling up this green packaging solution proved challenging amid elevated prices and low output.",
+      "ADVANCED": "While hailed for its environmental merits, the packaging approach struggled to proliferate given its premium cost and constrained manufacturing scale."
+    },
+    {
+      "COMPLEX": "behind the scenes, the documentary crew faced logistical hurdles in obtaining filming permits, causing unexpected delays in production.",
+      "ELEMENTARY": "Off camera, they had trouble getting permission to film, which slowed them down.",
+      "SECONDARY": "The film team encountered permission difficulties, leading to unscheduled production hold-ups.",
+      "ADVANCED": "Covert operational challenges arose with permit acquisition, introducing unforeseen setbacks in the documentary’s shooting schedule."
+    },
+    {
+      "COMPLEX": "Euphemism",
+      "ELEMENTARY": "A polite word used instead of a harsher one",
+      "SECONDARY": "A mild phrase meant to soften a direct or unpleasant term",
+      "ADVANCED": "A diplomatic substitution that replaces a blunt or offensive expression with a more socially acceptable wording"
+    },
+    {
+      "COMPLEX": "Despite initial enthusiasm for the digital nomad lifestyle, many remote workers reported burnout due to unstable routines and isolation.",
+      "ELEMENTARY": "People liked the idea of working anywhere, but too many changes and loneliness wore them out.",
+      "SECONDARY": "Although the nomadic approach seemed appealing, inconsistent schedules and limited social contact led to exhaustion.",
+      "ADVANCED": "While widely romanticised, the location-independent model often yielded fatigue stemming from unstructured regimens and social disconnection."
+    },
+    {
+      "COMPLEX": "the section referencing advanced macros in the spreadsheet program only briefly mentioned syntax requirements, leaving novices confused.",
+      "ELEMENTARY": "They wrote about macros but didn't fully explain how to code them, so beginners got lost.",
+      "SECONDARY": "Macros were touched upon, yet essential syntax details were minimal, causing uncertainty among inexperienced users.",
+      "ADVANCED": "A cursory treatment of macro syntax in the advanced spreadsheet guide produced confusion among less adept readers."
+    },
+    {
+      "COMPLEX": "Incremental",
+      "ELEMENTARY": "Happening in small steps",
+      "SECONDARY": "Advancing or changing gradually over time",
+      "ADVANCED": "Characterised by progressive, stepwise evolution or minor periodic enhancements"
+    },
+    {
+      "COMPLEX": "The language institute’s blended learning model combined online modules with in-person sessions, but scheduling conflicts reduced overall attendance rates.",
+      "ELEMENTARY": "They mixed web lessons with real classes, but timing issues made fewer people show up.",
+      "SECONDARY": "Despite a hybrid approach, conflicting timetables led to decreased turnout for in-person lessons.",
+      "ADVANCED": "Merging digital coursework with face-to-face engagement improved content variety but was marred by scheduling clashes, lowering participation."
+    },
+    {
+      "COMPLEX": "short example referencing the e-commerce plugin but omitting how to handle discount codes or promotional campaigns",
+      "ELEMENTARY": "We need details on using coupons and promos with the online shop add-on.",
+      "SECONDARY": "This snippet lacks guidance for managing discount codes in the e-commerce extension.",
+      "ADVANCED": "Absent are instructions regarding implementing promotional voucher logic in the plugin’s framework."
+    },
+    {
+      "COMPLEX": "Dauntless",
+      "ELEMENTARY": "Brave, not scared",
+      "SECONDARY": "Showing fearlessness and determination",
+      "ADVANCED": "Exhibiting unwavering courage despite potential risks or difficulties"
+    },
+    {
+      "COMPLEX": "Though the residential complex offered ample green spaces, the absence of proper waste disposal units led to littering and pest issues.",
+      "ELEMENTARY": "They had lots of grass and trees, but no good trash bins, so garbage piled up and bugs appeared.",
+      "SECONDARY": "Despite generous lawns, lacking rubbish facilities caused frequent littering and attracted pests in the community.",
+      "ADVANCED": "Although the development provided extensive communal greenery, insufficient disposal infrastructure fostered refuse accumulation and vermin infestations."
+    },
+    {
+      "COMPLEX": "the CEO’s keynote speech touched on global expansion but failed to address local staffing and supply chain constraints, leaving investors uncertain.",
+      "ELEMENTARY": "They talked about going worldwide but didn't say how they'd hire or manage supplies, so investors got worried.",
+      "SECONDARY": "Despite ambitious international plans, the speech omitted details on workforce or logistics, creating hesitation among stakeholders.",
+      "ADVANCED": "While outlining broad global aspirations, the executive neglected to cover local human resources or logistical challenges, causing investor trepidation."
+    },
+    {
+      "COMPLEX": "Malevolent",
+      "ELEMENTARY": "Wanting to do evil things",
+      "SECONDARY": "Having or showing a wish to harm others",
+      "ADVANCED": "Exhibiting ill will or malicious intent, seeking to inflict harm or negativity"
+    },
+    {
+      "COMPLEX": "Despite achieving high test scores, the new medication wasn’t cost-effective enough for widespread adoption under most national healthcare plans.",
+      "ELEMENTARY": "It worked well in trials, but it was too expensive for general use in many public health systems.",
+      "SECONDARY": "Though it performed strongly in evaluations, the drug’s high cost prevented inclusion in many state healthcare budgets.",
+      "ADVANCED": "In spite of favourable efficacy data, the treatment’s unfeasible price point hindered its broad acceptance within national insurance frameworks."
+    },
+    {
+      "COMPLEX": "the instructions for reconfiguring the printer spooler were incomplete, especially lacking guidance for older operating systems still in use.",
+      "ELEMENTARY": "They didn't show how to fix the printer queue on old computers, so it's half-finished directions.",
+      "SECONDARY": "Crucial spooler reconfiguration steps for legacy OS versions were missing, making the instructions less universally applicable.",
+      "ADVANCED": "Because the spooler setup details omitted legacy OS processes, the documentation remained insufficient for certain user segments."
+    },
+    {
+      "COMPLEX": "Enervate",
+      "ELEMENTARY": "To make someone feel drained of energy",
+      "SECONDARY": "To cause mental or physical fatigue",
+      "ADVANCED": "To sap vitality or strength, leaving one weakened or listless"
+    },
+    {
+      "COMPLEX": "Although the marketing department lauded the influencer partnership, actual conversions remained below projections, prompting a reevaluation of strategy.",
+      "ELEMENTARY": "They praised working with an influencer, but sales didn't match expectations, so they had to rethink their plan.",
+      "SECONDARY": "While marketing hailed the influencer deal, fewer sales than predicted led them to revisit the approach.",
+      "ADVANCED": "Despite department acclaim for the influencer collaboration, lower-than-forecast conversions necessitated a strategic reassessment."
+    },
+    {
+      "COMPLEX": "due to an expired licensing agreement, the streaming service abruptly removed several fan-favourite shows, triggering user complaints and cancellations.",
+      "ELEMENTARY": "The service had to drop popular series because their contract ended, making many subscribers upset.",
+      "SECONDARY": "Once the rights deal ended, widely watched programmes disappeared, sparking customer frustration and account terminations.",
+      "ADVANCED": "With licensing lapses, the platform unexpectedly pulled popular titles, spurring discontent and prompting subscription cancellations."
+    },
+    {
+      "COMPLEX": "Ostensible",
+      "ELEMENTARY": "Appearing to be true but maybe not",
+      "SECONDARY": "Stated or seeming to be real, but possibly hiding a different truth",
+      "ADVANCED": "Purported or outwardly declared, yet potentially concealing an underlying reality or motive"
+    },
+    {
+      "COMPLEX": "The outdoor concert series revitalised the downtown area by drawing large crowds, but local residents complained about noise levels and late-night disruptions.",
+      "ELEMENTARY": "Many people came to the music shows, helping the area thrive, but neighbours said it was too loud at night.",
+      "SECONDARY": "Though business boomed with the concert crowds, residents cited excessive noise and disturbances after dark.",
+      "ADVANCED": "While the event series rejuvenated city centre foot traffic, surrounding neighbourhoods objected to heightened acoustic impact and nocturnal disturbances."
+    },
+    {
+      "COMPLEX": "the user might only highlight the second half about backing up system files if they're uncertain about best practices.",
+      "ELEMENTARY": "They might just highlight the part telling them to back up files, looking for easy instructions.",
+      "SECONDARY": "Some users isolate the backup reference for clearer guidance on recommended procedures.",
+      "ADVANCED": "Partial selection of the segment detailing file backup may indicate users’ need for explicit best practice instructions."
+    },
+    {
+      "COMPLEX": "Short",
+      "ELEMENTARY": "Tiny",
+      "SECONDARY": "Very brief",
+      "ADVANCED": "Concise to an extreme"
+    },
+    {
+      "COMPLEX": "Although recognised for its eco-friendly approach, the solar panel manufacturer struggled with component shortages, causing delays in fulfilling orders.",
+      "ELEMENTARY": "They made green solar panels, but didn't have enough parts, so orders got delayed.",
+      "SECONDARY": "Despite an environmentally conscious reputation, supply chain interruptions slowed production and delivery times.",
+      "ADVANCED": "Lauded for sustainable innovation, the firm’s inability to secure enough parts impeded timely order completion."
+    },
+    {
+      "COMPLEX": "Arcane",
+      "ELEMENTARY": "Known by only a few people",
+      "SECONDARY": "Mysterious or secret, understood by a small group",
+      "ADVANCED": "Obscure or esoteric in nature, grasped primarily by an exclusive audience with specialised knowledge"
+    },
+    {
+      "COMPLEX": "In an effort to appeal to global audiences, the streaming platform invested in multilingual content, though licensing complications limited certain shows to specific regions.",
+      "ELEMENTARY": "They tried to reach the world by making shows in many languages, but rights issues meant some areas couldn't watch them.",
+      "SECONDARY": "While adding multilingual programmes, territorial licensing caused some titles to remain region-locked.",
+      "ADVANCED": "Seeking international market penetration, the service financed content in multiple languages, but restrictive licensing posed regional access barriers."
+    },
+    {
+      "COMPLEX": "the guidelines about performance optimisation only mentioned clearing the cache, ignoring potential benefits of code refactoring and database indexing.",
+      "ELEMENTARY": "They said to clear cache for better speed, but didn't talk about rewriting code or improving the database.",
+      "SECONDARY": "While advocating cache clearing, the guidance omitted deeper enhancements like refactoring or indexing for improved performance.",
+      "ADVANCED": "Promoting cache removal as a singular solution, the optimisation instructions neglected advanced techniques like code restructuring or database indexing."
+    },
+    {
+      "COMPLEX": "Aesthetic",
+      "ELEMENTARY": "About beauty or style",
+      "SECONDARY": "Related to the nature and appreciation of art and beauty",
+      "ADVANCED": "Concerning principles governing the creation and perception of artistic or visual appeal"
+    },
+    {
+      "COMPLEX": "The user engagement report indicated a spike in sign-ups after implementing gamification elements, but subsequent retention rates remained static.",
+      "ELEMENTARY": "Many people joined after adding game-like features, but they didn't stick around any longer than before.",
+      "SECONDARY": "Gamification drove an increase in registrations, yet user retention failed to improve over time.",
+      "ADVANCED": "Although a gamified approach briefly boosted registrations, the platform observed no parallel progress in maintaining long-term user loyalty."
+    },
+    {
+      "COMPLEX": "due to the missing instructions about contacting customer support, new subscribers felt stranded when they encountered billing errors.",
+      "ELEMENTARY": "Without info on how to reach help, newcomers didn't know what to do if their bill was wrong.",
+      "SECONDARY": "The absence of support contact steps left new users without recourse for payment issues.",
+      "ADVANCED": "Lacking explicit customer service guidance, first-time subscribers were left isolated upon discovering billing discrepancies."
+    },
+    {
+      "COMPLEX": "Dexterous",
+      "ELEMENTARY": "Skilful, especially with hands",
+      "SECONDARY": "Showing or having skill in performing tasks, often physically",
+      "ADVANCED": "Exhibiting agile proficiency, adept manipulation, and quick coordination, particularly in manual tasks"
+    },
+    {
+      "COMPLEX": "Although the app offered real-time public transport updates, it failed to account for road closures, leading commuters to unreliable journey planning.",
+      "ELEMENTARY": "It gave live bus times, but didn't show closed roads, so people's trips got messed up.",
+      "SECONDARY": "Despite updated transit info, ignoring closures caused flawed route suggestions for travellers.",
+      "ADVANCED": "While providing moment-to-moment transport data, the service’s omission of road blockages undermined accurate commute planning."
+    },
+    {
+      "COMPLEX": "the incomplete snippet referencing the advanced policy editor didn't mention recommended default settings for first-time users.",
+      "ELEMENTARY": "They showed the advanced policy tool but didn't say which starter options were best for new folks.",
+      "SECONDARY": "A short mention of the policy editor omitted baseline configurations that novices might rely on.",
+      "ADVANCED": "Barely addressing the advanced editor, the excerpt offered no guidance on preferable defaults for novice operators."
+    },
+    {
+      "COMPLEX": "Epitome",
+      "ELEMENTARY": "A perfect example of something",
+      "SECONDARY": "A summary or ideal representation",
+      "ADVANCED": "The ultimate illustration, embodying the most essential qualities of a category"
+    },
+    {
+      "COMPLEX": "The high-end restaurant’s fusion cuisine attracted food enthusiasts, yet its slow service received widespread criticism on review sites.",
+      "ELEMENTARY": "People loved the mix of different cooking styles, but they hated how long they had to wait.",
+      "SECONDARY": "Although diners praised the innovative menu, complaints about sluggish service appeared frequently online.",
+      "ADVANCED": "Renowned for eclectic culinary blends, the eatery drew gastronomes but was reproached for extended wait times in customer feedback."
+    },
+    {
+      "COMPLEX": "incomplete instructions for advanced search queries left many knowledge-base users resorting to basic keyword searches instead.",
+      "ELEMENTARY": "They didn't fully explain how to do special searches, so people just typed simple words.",
+      "SECONDARY": "With no guidance on complex queries, users relied on straightforward keyword input in the knowledge database.",
+      "ADVANCED": "Omitting instructions for intricate search operators forced the user base to default to rudimentary keyword lookups."
+    },
+    {
+      "COMPLEX": "Retrospective",
+      "ELEMENTARY": "Looking back at something in the past",
+      "SECONDARY": "An examination or review of past events or work",
+      "ADVANCED": "A reflective assessment of prior occurrences, often to glean insights or lessons"
+    },
+    {
+      "COMPLEX": "During the storm relief operation, inconsistent data from different aid agencies led to duplicated efforts and wasted resources.",
+      "ELEMENTARY": "Various relief groups had mismatching info, causing them to do the same work and lose supplies.",
+      "SECONDARY": "Misaligned data sharing created overlaps in storm recovery tasks, squandering valuable resources.",
+      "ADVANCED": "Due to discordant information across multiple relief bodies, parallel operations arose, depleting both manpower and materials redundantly."
+    },
+    {
+      "COMPLEX": "the marketing brief for the upcoming product launch mentioned social media outreach but omitted any strategy for influencer partnerships.",
+      "ELEMENTARY": "They said they'd use social media for the new product but didn't talk about working with influencers.",
+      "SECONDARY": "Although referencing social platforms, the brief lacked a plan to collaborate with key online personalities.",
+      "ADVANCED": "While acknowledging social media promotion, the outline neglected to incorporate an influencer liaison component."
+    },
+    {
+      "COMPLEX": "Tenacity",
+      "ELEMENTARY": "Sticking with something without giving up",
+      "SECONDARY": "Determination or persistence in continuing despite challenges",
+      "ADVANCED": "Resolute perseverance reflecting unwavering commitment to a goal under adversity"
+    },
+    {
+      "COMPLEX": "Although the new webcam featured facial recognition, frequent misidentifications undermined its appeal to security-conscious consumers.",
+      "ELEMENTARY": "The camera could scan faces, but it often got them wrong, scaring off people who value safety.",
+      "SECONDARY": "Facial scanning was a big selling point, yet mistakes in ID checks discouraged security-focused buyers.",
+      "ADVANCED": "Despite integrating face recognition technology, prevalent recognition errors eroded trust among users prioritising robust security."
+    },
+    {
+      "COMPLEX": "in drafting the internal newsletter, the HR department neglected to mention updated policies on remote attendance and time tracking.",
+      "ELEMENTARY": "HR forgot to add new rules about remote work and hours in the staff newsletter.",
+      "SECONDARY": "The new guidelines for working from home and logging time were left out of the internal update.",
+      "ADVANCED": "Omissions in HR’s newsletter excluded key revisions concerning telecommuting attendance and hour-reporting procedures."
+    },
+    {
+      "COMPLEX": "Alleviate",
+      "ELEMENTARY": "To make something less bad",
+      "SECONDARY": "To reduce the intensity of pain or trouble",
+      "ADVANCED": "To lessen or mitigate a burden, discomfort, or problem"
+    },
+    {
+      "COMPLEX": "Despite favourable exchange rates, overseas expansion for the retail chain faltered due to cultural barriers and a lack of local partnerships.",
+      "ELEMENTARY": "Even though money conversion was good, the store failed abroad because they didn't understand local culture or team up with local businesses.",
+      "SECONDARY": "Though aided by a strong currency, the chain struggled internationally without local ties or cross-cultural strategies.",
+      "ADVANCED": "While bolstered by advantageous currency conversions, the retailer’s global foray stumbled amidst cultural incompatibilities and scant regional alliances."
+    },
+    {
+      "COMPLEX": "the meeting minutes briefly mentioned new software procurement, but no vendor options or budget allocations were detailed.",
+      "ELEMENTARY": "They said they might buy new software but didn't say from whom or how much it would cost.",
+      "SECONDARY": "Although noting software purchase plans, the minutes lacked specifics on vendor selection or financial provisions.",
+      "ADVANCED": "The record acknowledged prospective software acquisition yet omitted vendor considerations and associated fiscal parameters."
+    },
+    {
+      "COMPLEX": "Vicissitudes",
+      "ELEMENTARY": "Changes or ups and downs in life",
+      "SECONDARY": "Sudden or unexpected shifts in circumstances or fortune",
+      "ADVANCED": "Fluctuating phases or variations representing the inherent changes and unpredictability of life events"
+    },
+    {
+      "COMPLEX": "While the environmental report outlined plans for reforestation, it neglected the long-term maintenance costs and workforce needed to sustain these efforts.",
+      "ELEMENTARY": "They planned to plant lots of trees, but forgot to mention the money and people needed later.",
+      "SECONDARY": "Although reforestation was emphasised, the proposal omitted ongoing upkeep expenses and staffing requirements.",
+      "ADVANCED": "Despite advocating a robust tree-planting initiative, the report failed to quantify sustained financial and human resources essential for its continuity."
+    },
+    {
+      "COMPLEX": "short mention about inbound marketing metrics, lacking specifics on lead quality and sales conversion tactics",
+      "ELEMENTARY": "Needs detail on how good the leads are and how they turn into sales.",
+      "SECONDARY": "Absent are key points about evaluating lead calibre or turning prospects into actual buyers.",
+      "ADVANCED": "A truncated explanation of inbound metrics offering no clarity on lead valuation or the strategies for converting interest into revenue."
+    },
+    {
+      "COMPLEX": "Altruistic",
+      "ELEMENTARY": "Being caring and unselfish",
+      "SECONDARY": "Acting out of concern for the well-being of others over personal gain",
+      "ADVANCED": "Motivated by selfless benevolence, placing others’ welfare above individual interests"
+    },
+    {
+      "COMPLEX": "The online encyclopedia aims for neutrality, yet accusations of editorial bias surface whenever contentious historical events are covered.",
+      "ELEMENTARY": "They try to keep articles fair, but people claim they're biased on controversial history topics.",
+      "SECONDARY": "Although striving for an unbiased approach, critics arise whenever the site tackles disputed historical narratives.",
+      "ADVANCED": "Despite espousing an impartial stance, editorial bias allegations frequently emerge around polarising historical content."
+    },
+    {
+      "COMPLEX": "at the tail end of the guidelines, there’s a brief note about verifying digital signatures, but no examples are provided for practical demonstration.",
+      "ELEMENTARY": "They mention checking electronic signatures at the end but don't show how to do it.",
+      "SECONDARY": "A short reference to verifying signatures appears last, though no examples illustrate the process.",
+      "ADVANCED": "The guidelines conclude with a cursory mention of digital signature verification, lacking illustrative samples for user clarity."
+    },
+    {
+      "COMPLEX": "Assuage",
+      "ELEMENTARY": "To make less intense or relieve",
+      "SECONDARY": "To soothe or calm an emotion or a concern",
+      "ADVANCED": "To alleviate distress or mitigate severity, offering comfort or easing tension"
+    },
+    {
+      "COMPLEX": "Despite record-high interest in plant-based diets, agricultural reports indicated a shortage of key crops needed to meet the rising consumer demand.",
+      "ELEMENTARY": "Many want to eat more veggies, but farmers can't grow enough to keep up.",
+      "SECONDARY": "Though plant-based eating soared in popularity, farmers reported supply shortfalls for essential produce items.",
+      "ADVANCED": "While plant-based demand soared to new heights, data revealed an agricultural deficit in critical crops supporting this trend."
+    },
+    {
+      "COMPLEX": "the code snippet on page 12 references advanced memory management routines but omits the recommended debugging steps for older CPUs.",
+      "ELEMENTARY": "The section shows fancy memory code but doesn't say how to debug on older processors.",
+      "SECONDARY": "Mentioning advanced memory handling, the snippet fails to address debugging guidelines tailored to legacy CPU architectures.",
+      "ADVANCED": "Page 12’s reference to intricate memory routines lacks any mention of debugging protocols for outdated processor models."
+    },
+    {
+      "COMPLEX": "Quiescent",
+      "ELEMENTARY": "Quiet or inactive",
+      "SECONDARY": "In a state of dormancy or stillness",
+      "ADVANCED": "Characterised by minimal motion or activity, often indicating a temporary inactive phase"
+    },
+    {
+      "COMPLEX": "By offering bulk discounts and loyalty perks, the wholesaler increased repeat orders, although shipping delays occasionally offset these incentives.",
+      "ELEMENTARY": "They used discounts and loyalty points to get more orders, but slow deliveries sometimes cancelled the benefits.",
+      "SECONDARY": "Despite loyalty rewards, slow shipping eroded the appeal of bulk pricing deals for recurring buyers.",
+      "ADVANCED": "While bulk rates and retention incentives drove reorder growth, delivery lags at times negated those advantages."
+    },
+    {
+      "COMPLEX": "the user might highlight only the portion about troubleshooting connectivity problems if they already know the setup steps.",
+      "ELEMENTARY": "They might just select the part on fixing connection issues because they know how to set it up already.",
+      "SECONDARY": "Users well-versed in installation might isolate the connectivity guide to resolve specific network failures.",
+      "ADVANCED": "Familiarity with initial configuration may prompt selective focus on the connectivity troubleshooting excerpt, bypassing setup instructions."
+    },
+    {
+      "COMPLEX": "Illustrious",
+      "ELEMENTARY": "Famous or well-respected",
+      "SECONDARY": "Highly distinguished or renowned for achievements",
+      "ADVANCED": "Widely celebrated, bearing significant acclaim or eminent prestige"
+    },
+    {
+      "COMPLEX": "Although the airline offered cheaper fares, its rigid baggage limits and minimal inflight amenities prompted mixed reactions from passengers.",
+      "ELEMENTARY": "They had low ticket prices, but strict luggage rules and few perks made people feel unsure.",
+      "SECONDARY": "Budget pricing attracted customers, yet limited baggage and sparse cabin comforts drew varied feedback.",
+      "ADVANCED": "Despite economical ticketing, strict luggage allowances and spartan onboard services elicited ambivalent passenger opinions."
+    },
+    {
+      "COMPLEX": "the summary of updates for the health app neglected to clarify how new calorie-tracking features align with existing meal-planning tools.",
+      "ELEMENTARY": "They talked about new calorie counting but didn't explain how it works with meal plans already in the app.",
+      "SECONDARY": "An overview of the latest features omitted how the updated calorie tracker integrates with current diet planning modules.",
+      "ADVANCED": "Absent from the update brief was an explanation of how the revised calorie-tracking functions interoperate with existing meal-planning components."
+    },
+    {
+      "COMPLEX": "Untenable",
+      "ELEMENTARY": "Cannot be defended or held",
+      "SECONDARY": "Not capable of being justified or sustained logically",
+      "ADVANCED": "Indefensible in reasoning, rendering a position or argument unsupportable under scrutiny"
+    },
+    {
+      "COMPLEX": "Despite strong brand recognition, the electronic manufacturer struggled to break into the premium market segment dominated by long-established competitors.",
+      "ELEMENTARY": "People knew the brand, but they couldn't sell expensive products in a market already owned by older companies.",
+      "SECONDARY": "Though well-known, the firm found it hard to gain ground in the luxury sector against entrenched rivals.",
+      "ADVANCED": "In spite of extensive name recognition, the company’s attempt to penetrate the high-end space was stifled by incumbent market leaders."
+    },
+    {
+      "COMPLEX": "the reference to best practices for storing API keys lacked a clear example of using environment variables or secret managers.",
+      "ELEMENTARY": "They said how to protect API keys, but didn't show a real example of hidden variables or secret storage.",
+      "SECONDARY": "While discussing secure API key storage, no demonstration of environment-based or manager-based methods was provided.",
+      "ADVANCED": "Mentioning key protection concepts without exemplifying environment variable usage or specialised secret-management tools left the guidance incomplete."
+    },
+    {
+      "COMPLEX": "Inscrutable",
+      "ELEMENTARY": "Hard to understand or interpret",
+      "SECONDARY": "Mysterious or difficult to read in meaning or intent",
+      "ADVANCED": "Defying comprehension, presenting an enigmatic or impenetrable layer of meaning"
+    },
+    {
+      "COMPLEX": "Although initial customer reviews praised the clarity of the product manual, subsequent batches shipped with missing pages, damaging user satisfaction.",
+      "ELEMENTARY": "Early buyers liked the instructions, but later copies lost pages, making people unhappy.",
+      "SECONDARY": "Manual clarity was praised at first, yet later shipments missing certain pages caused dissatisfaction.",
+      "ADVANCED": "While lauded for its thorough documentation, the product’s later distributions contained incomplete manuals, undermining overall satisfaction."
+    },
+    {
+      "COMPLEX": "somewhere in that paragraph about network latency, the text references QoS settings but stops short of detailing recommended configurations.",
+      "ELEMENTARY": "They mention Quality of Service (QoS) but don't say how to set it up or what's best.",
+      "SECONDARY": "Though QoS is mentioned for reducing lag, specifics on ideal parameter settings are omitted.",
+      "ADVANCED": "Alluding to QoS for latency management, the segment lacks a deep dive into optimal setup guidelines."
+    },
+    {
+      "COMPLEX": "Myriad",
+      "ELEMENTARY": "A very large number",
+      "SECONDARY": "Countless or extremely numerous",
+      "ADVANCED": "A vast multitude or countless quantity, often used to emphasise variety or extent"
+    },
+    {
+      "COMPLEX": "In an effort to expedite community development, officials bypassed certain environmental reviews, igniting protests from local activists.",
+      "ELEMENTARY": "They hurried to build the neighbourhood without checking the environment fully, so activists protested.",
+      "SECONDARY": "Fast-tracking development while skipping eco assessments drew backlash from environmental advocates.",
+      "ADVANCED": "By omitting comprehensive ecological vetting to hasten infrastructural progress, authorities provoked outspoken opposition from conservation groups."
+    },
+    {
+      "COMPLEX": "the guide’s chapter on advanced debugging only detailed error logs but failed to address remote diagnostics or automated monitoring tools.",
+      "ELEMENTARY": "They showed how to use error logs but didn't talk about checking problems from afar or using automatic checks.",
+      "SECONDARY": "Although logs were covered, remote troubleshooting and automated monitoring methods were not included in the debugging chapter.",
+      "ADVANCED": "Focusing solely on log analysis, the advanced debugging instructions omitted remote diagnostic strategies and integrated monitoring solutions."
+    },
+    {
+      "COMPLEX": "Arduous",
+      "ELEMENTARY": "Very hard or difficult",
+      "SECONDARY": "Requiring considerable effort and determination",
+      "ADVANCED": "Marked by strenuous exertion or demanding endurance, often physically or mentally challenging"
+    },
+    {
+      "COMPLEX": "Despite increased police patrols, shoplifting incidents in the commercial district continued to rise, prompting calls for better prevention strategies.",
+      "ELEMENTARY": "They sent out more police, but stealing in shops kept going up. People want new ways to stop it.",
+      "SECONDARY": "More patrols didn’t curb theft, leading the community to urge additional measures against store losses.",
+      "ADVANCED": "Augmented policing failed to stem retail theft, sparking debate on the need for advanced security protocols."
+    },
+    {
+      "COMPLEX": "at the conclusion of the product demo, many attendees asked about cross-platform integration, yet no details were provided on that front.",
+      "ELEMENTARY": "After showing the product, people wondered if it works on different systems, but they got no answer.",
+      "SECONDARY": "The demonstration ended with inquiries about platform compatibility, which went unaddressed.",
+      "ADVANCED": "Following the presentation, attendees sought clarifications on multi-platform interoperability, but such specifics remained absent."
+    },
+    {
+      "COMPLEX": "Deference",
+      "ELEMENTARY": "A respectful submission to another's judgment",
+      "SECONDARY": "Polite respect given to someone, often due to their status or experience",
+      "ADVANCED": "Courteous regard or acknowledgment of another’s authority or viewpoint, signifying polite submission"
+    },
+    {
+      "COMPLEX": "While the philanthropic initiative funded several small schools, a lack of oversight led to mismanagement of resources and failed infrastructure improvements.",
+      "ELEMENTARY": "They gave money to small schools, but without checking on them, resources were used poorly and buildings weren't fixed.",
+      "SECONDARY": "Although initial grants supported local institutions, the absence of monitoring resulted in wasted funds and neglected facilities.",
+      "ADVANCED": "Despite capital infusions enhancing multiple community schools, inadequate governance triggered resource misuse and derailed campus upgrades."
+    },
+    {
+      "COMPLEX": "the short statement about software dependencies only briefly mentions version conflicts and doesn't suggest solutions like using containerisation or virtual environments.",
+      "ELEMENTARY": "They said code versions might clash, but didn't say how to fix it with containers or special setups.",
+      "SECONDARY": "While acknowledging mismatched dependencies, the statement omitted how container tech or VEs could resolve them.",
+      "ADVANCED": "Noting potential version discord, the snippet neglected to recommend container-based isolation or virtual environment strategies."
+    },
+    {
+      "COMPLEX": "Acuity",
+      "ELEMENTARY": "Sharpness or keenness",
+      "SECONDARY": "The clarity or sharpness of thought, vision, or perception",
+      "ADVANCED": "Keen discernment or sensory sharpness, reflecting heightened perceptive abilities"
+    },
+    {
+      "COMPLEX": "Despite a comprehensive design overhaul, the website continued to load slowly, indicating deeper backend performance bottlenecks remained unresolved.",
+      "ELEMENTARY": "They changed how the site looked, but it still ran slow, so something in the background was causing delays.",
+      "SECONDARY": "Although the layout was revamped, page loads remained sluggish, hinting at persistent server-side issues.",
+      "ADVANCED": "Extensive front-end reconstruction didn’t address underlying server constraints, as evidenced by enduring latency in page delivery."
+    },
+    {
+      "COMPLEX": "due to incomplete guidance on the encryption module, developers inadvertently stored keys in plain text, raising critical security vulnerabilities.",
+      "ELEMENTARY": "Because the guide didn't explain properly, coders left keys unprotected, creating big security risks.",
+      "SECONDARY": "Lacking clear instructions led developers to store encryption keys openly, exposing the system to threats.",
+      "ADVANCED": "The absence of thorough encryption module documentation resulted in plaintext key storage, introducing significant attack vectors."
+    }
+  ]
+  

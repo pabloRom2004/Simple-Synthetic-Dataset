@@ -1,0 +1,87 @@
+[
+    {
+      "COMPLEX": "The development of autonomous vehicles promises to revolutionize transportation, but it also presents numerous challenges, including regulatory issues and concerns about safety and job displacement.",
+      "ELEMENTARY": "Self-driving cars could change how we travel, but they also raise safety and job concerns.",
+      "SECONDARY": "Self-driving cars might change transportation, but there are challenges, like safety, laws, and job losses.",
+      "ADVANCED": "Autonomous vehicles could revolutionise transport, though they present challenges such as safety issues, regulatory hurdles, and the potential for job displacement."
+    },
+    {
+      "COMPLEX": "Many experts argue that increasing access to quality education is one of the most effective ways to address social inequality and promote long-term economic growth.",
+      "ELEMENTARY": "Experts believe that better education can help people have better lives and make economies grow.",
+      "SECONDARY": "Many experts say that good education can reduce inequality and help economies grow in the long run.",
+      "ADVANCED": "Experts suggest that expanding access to quality education is a powerful tool to reduce social inequality and foster sustained economic growth."
+    },
+    {
+      "COMPLEX": "Despite technological advancements, some healthcare systems still struggle to provide adequate care to their populations due to insufficient resources, outdated infrastructure, and disparities in access.",
+      "ELEMENTARY": "Even with new technology, some healthcare systems cannot provide good care because of lack of money, old equipment, and unequal access.",
+      "SECONDARY": "Healthcare systems face challenges even with new technology. Some struggle because of limited resources, old infrastructure, and unequal access to care.",
+      "ADVANCED": "While technology has advanced, many healthcare systems still face challenges like insufficient resources, outdated infrastructure, and unequal access to care."
+    },
+    {
+      "COMPLEX": "The Internet of Things (IoT) is transforming industries by allowing devices to communicate and share data, leading to improvements in efficiency, but it also introduces security vulnerabilities that must be addressed.",
+      "ELEMENTARY": "The Internet of Things connects devices to share information. This makes things more efficient, but it can also cause security problems.",
+      "SECONDARY": "The Internet of Things helps devices share information, making systems more efficient, but it also creates security risks.",
+      "ADVANCED": "The Internet of Things is improving efficiency by enabling devices to communicate, though it also introduces security concerns that need to be addressed."
+    },
+    {
+      "COMPLEX": "The ongoing shift toward remote work has changed the way businesses operate, forcing companies to adapt their organisational structures and invest in technology to support flexible work arrangements.",
+      "ELEMENTARY": "More people are working from home now. Companies have to change how they work and use technology to help.",
+      "SECONDARY": "Remote work is changing how businesses operate. Companies need to adjust their structures and invest in technology to support flexible work.",
+      "ADVANCED": "The rise of remote work is reshaping business operations, compelling companies to adapt their organisational models and invest in technology to accommodate flexible work environments."
+    },
+    {
+      "COMPLEX": "As the demand for clean energy sources grows, governments and businesses are increasingly investing in wind, solar, and other renewable technologies to reduce reliance on fossil fuels and lower carbon emissions.",
+      "ELEMENTARY": "More people want clean energy, so governments and companies are spending money on wind and solar power to use less fossil fuels.",
+      "SECONDARY": "As demand for clean energy increases, businesses and governments are investing in wind, solar, and other renewable sources to reduce fossil fuel use.",
+      "ADVANCED": "With rising demand for clean energy, governments and businesses are focusing on investing in renewable sources like wind and solar to reduce fossil fuel dependence and lower emissions."
+    },
+    {
+      "COMPLEX": "The popularity of streaming platforms has led to significant changes in the entertainment industry, forcing traditional media outlets to adapt or risk losing their audience to online content providers.",
+      "ELEMENTARY": "Streaming services are very popular. This is making TV and movies change to compete.",
+      "SECONDARY": "More people are watching content online. Traditional TV and movie companies have to change to keep their audience.",
+      "ADVANCED": "Streaming platforms have disrupted the entertainment industry, pushing traditional media outlets to adapt in order to retain their audiences."
+    },
+    {
+      "COMPLEX": "The increasing integration of artificial intelligence in healthcare is offering promising opportunities for improving patient outcomes, but it also raises ethical concerns regarding data privacy and decision-making transparency.",
+      "ELEMENTARY": "AI in healthcare could help patients get better, but it also brings up concerns about privacy and fairness.",
+      "SECONDARY": "AI is being used in healthcare to help patients, but there are worries about privacy and whether the decisions are clear and fair.",
+      "ADVANCED": "The use of AI in healthcare holds promise for improving patient outcomes, though it raises concerns about data privacy and transparency in decision-making."
+    },
+    {
+      "COMPLEX": "Over the past few years, advancements in machine learning and deep learning have led to significant improvements in the capabilities of artificial intelligence, enabling machines to perform tasks once thought impossible for computers.",
+      "ELEMENTARY": "Machines are getting smarter because of better computer programs. They can now do tasks that people thought only humans could do.",
+      "SECONDARY": "Machine learning has made computers much smarter. They can now do things that people once thought only humans could do.",
+      "ADVANCED": "Recent advancements in machine learning and deep learning have significantly enhanced AI’s capabilities, enabling machines to perform tasks once considered beyond their reach."
+    },
+    {
+      "COMPLEX": "Despite global efforts to combat plastic pollution, significant challenges remain, including the lack of effective recycling infrastructure, widespread plastic waste accumulation, and insufficient public awareness of the environmental impact.",
+      "ELEMENTARY": "Even though people are trying to reduce plastic pollution, there are still many problems. Recycling is hard, and people don’t know enough about how bad plastic is for the planet.",
+      "SECONDARY": "Plastic pollution is still a big problem. Recycling is difficult, and people don’t fully understand how harmful plastic is.",
+      "ADVANCED": "Global efforts to reduce plastic pollution face significant challenges, including inadequate recycling systems, widespread waste accumulation, and limited public understanding of the environmental damage."
+    },
+    {
+      "COMPLEX": "The proliferation of smartphones has significantly changed consumer behaviour, leading to an increase in mobile-based services and applications that cater to the needs of an increasingly connected and tech-savvy population.",
+      "ELEMENTARY": "Phones have changed how we shop and use services. Many people now use apps on their phones for everything.",
+      "SECONDARY": "Smartphones are changing how people buy things and use services. More people use mobile apps for everything.",
+      "ADVANCED": "Smartphones have transformed consumer behaviour, driving the rise of mobile services and apps that serve the needs of a connected, tech-savvy population."
+    },
+    {
+      "COMPLEX": "Social media platforms, while offering a range of benefits, also present significant risks, such as the spread of misinformation, invasion of privacy, and negative effects on mental health, which need to be carefully addressed.",
+      "ELEMENTARY": "Social media has good and bad sides. It can spread lies, invade privacy, and hurt mental health.",
+      "SECONDARY": "Social media has many benefits but also risks like spreading false information, privacy issues, and harm to mental health.",
+      "ADVANCED": "Social media platforms offer various benefits but also pose significant risks, including the spread of misinformation, privacy breaches, and negative effects on mental health, all of which require careful management."
+    },
+    {
+      "COMPLEX": "As the digital economy continues to expand, businesses are increasingly relying on data analytics and artificial intelligence to make more informed decisions and improve operational efficiency.",
+      "ELEMENTARY": "Businesses are using data and AI to make better decisions and work faster as the digital world grows.",
+      "SECONDARY": "As the digital economy grows, businesses are using data and AI to make smarter decisions and improve efficiency.",
+      "ADVANCED": "With the expansion of the digital economy, businesses are leveraging data analytics and AI to enhance decision-making and optimise operational efficiency."
+    },
+    {
+      "COMPLEX": "Climate change poses significant risks to global food security, with rising temperatures, droughts, and extreme weather events threatening crop yields and disrupting food distribution networks worldwide.",
+      "ELEMENTARY": "Climate change can make food harder to grow. Weather problems like heat and drought are damaging crops.",
+      "SECONDARY": "Climate change is making it harder to grow food. Rising temperatures and extreme weather are damaging crops and affecting food supply.",
+      "ADVANCED": "Climate change is threatening global food security by increasing temperatures, causing droughts, and disrupting weather patterns that affect crop yields and food distribution."
+    }
+  ]
+  

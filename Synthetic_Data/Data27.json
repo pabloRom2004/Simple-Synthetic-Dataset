@@ -1,0 +1,98 @@
+[
+    {
+        "COMPLEX": "Artificial intelligence is being increasingly integrated into everyday life, from virtual assistants in smartphones to advanced machine learning algorithms in self-driving cars.",
+        "ELEMENTARY": "AI is being used more every day. You can find it in phones and even in cars that drive themselves.",
+        "SECONDARY": "AI is now used in many things, like smartphones with virtual assistants and in cars that can drive themselves.",
+        "ADVANCED": "Artificial intelligence is becoming more common, found in everything from virtual assistants on smartphones to sophisticated machine learning systems in self-driving vehicles."
+    },
+    {
+        "COMPLEX": "As the global population continues to rise, urbanisation is increasing, leading to the rapid expansion of cities and placing additional pressure on infrastructure and natural resources.",
+        "ELEMENTARY": "More people are living in cities. This puts pressure on buildings and resources like water and energy.",
+        "SECONDARY": "As more people move to cities, urban areas are growing quickly. This creates challenges for infrastructure and natural resources.",
+        "ADVANCED": "With the increasing global population, urbanisation is expanding rapidly, placing greater strain on infrastructure and natural resources."
+    },
+    {
+        "COMPLEX": "The advent of renewable energy technologies, such as solar and wind power, has prompted a global shift towards more sustainable energy sources, reducing dependency on fossil fuels.",
+        "ELEMENTARY": "New energy sources like wind and solar power are helping reduce the need for fossil fuels.",
+        "SECONDARY": "Renewable energy sources like solar and wind power are becoming more popular, helping reduce the use of fossil fuels.",
+        "ADVANCED": "The rise of renewable energy technologies, including solar and wind power, is driving a global transition to more sustainable energy, decreasing reliance on fossil fuels."
+    },
+    {
+        "COMPLEX": "The increasing frequency and severity of natural disasters, such as hurricanes and wildfires, are attributed to climate change, prompting urgent calls for action to address global environmental challenges.",
+        "ELEMENTARY": "More natural disasters are happening, like big storms and fires. Climate change is making this worse.",
+        "SECONDARY": "Natural disasters like storms and wildfires are becoming more common because of climate change. People are calling for action to stop it.",
+        "ADVANCED": "The increasing occurrence of natural disasters, such as hurricanes and wildfires, is linked to climate change, leading to urgent calls for action to combat global environmental issues."
+    },
+    {
+        "COMPLEX": "The healthcare system is undergoing significant reform, aiming to provide more affordable care, improve patient outcomes, and reduce the financial burden on individuals and the government.",
+        "ELEMENTARY": "The healthcare system is changing to make care cheaper and better for patients, and to reduce costs for people and the government.",
+        "SECONDARY": "Healthcare is being reformed to make care more affordable, improve results for patients, and reduce the financial load on both people and the government.",
+        "ADVANCED": "Significant reforms in healthcare are being implemented to improve affordability, patient outcomes, and reduce the financial strain on individuals and governments."
+    },
+    {
+        "COMPLEX": "The increasing reliance on digital platforms for communication and commerce has raised concerns about data privacy, as personal information is often shared across multiple online services.",
+        "ELEMENTARY": "People use the internet for talking and shopping. This can be dangerous for privacy because many websites share personal details.",
+        "SECONDARY": "As people use the internet more for communication and shopping, there are growing concerns about data privacy and sharing personal information.",
+        "ADVANCED": "With the growing use of digital platforms for communication and commerce, there are rising concerns about data privacy due to the widespread sharing of personal information across various online services."
+    },
+    {
+        "COMPLEX": "Despite the progress made in renewable energy adoption, fossil fuels continue to dominate global energy consumption, presenting a significant challenge to achieving long-term sustainability goals.",
+        "ELEMENTARY": "Even though renewable energy is growing, fossil fuels are still the main source of energy around the world.",
+        "SECONDARY": "Fossil fuels are still the main energy source globally, even though renewable energy is becoming more popular.",
+        "ADVANCED": "Despite advances in renewable energy, fossil fuels remain the dominant energy source worldwide, presenting a major challenge to long-term sustainability goals."
+    },
+    {
+        "COMPLEX": "The rise of automation and robotics in manufacturing has led to greater efficiency and lower production costs, but also raises concerns about job displacement and the future of human workers.",
+        "ELEMENTARY": "Robots are helping factories work faster and cheaper, but this could take away jobs for people.",
+        "SECONDARY": "Robots are making factories more efficient and cheaper, but people are worried about losing jobs.",
+        "ADVANCED": "Automation and robotics are improving efficiency and reducing production costs in manufacturing, though they raise concerns about job displacement and the future of human workers."
+    },
+    {
+        "COMPLEX": "While online platforms have democratized access to information, they also present significant challenges, such as the spread of misinformation and the difficulty of verifying sources.",
+        "ELEMENTARY": "The internet helps everyone find information, but it also makes it hard to know if things are true.",
+        "SECONDARY": "The internet gives everyone access to information, but it can also spread lies and make it hard to check if sources are reliable.",
+        "ADVANCED": "Online platforms have made information more accessible to everyone, but they also present challenges like the spread of misinformation and difficulties in verifying the reliability of sources."
+    },
+    {
+        "COMPLEX": "The smartphone market has become increasingly competitive, with major companies constantly releasing new models, features, and innovations to maintain their market share.",
+        "ELEMENTARY": "Smartphones are very popular. Many companies keep making new phones with more features to sell more.",
+        "SECONDARY": "The smartphone market is very competitive. Companies release new models and features often to keep up with the competition.",
+        "ADVANCED": "The smartphone industry is highly competitive, with companies continuously introducing new models and features to retain their market position."
+    },
+    {
+        "COMPLEX": "The global shift towards electric vehicles is expected to significantly reduce carbon emissions, thereby contributing to efforts to mitigate climate change and improve air quality.",
+        "ELEMENTARY": "Electric cars will help reduce pollution and fight climate change.",
+        "SECONDARY": "Electric cars are expected to reduce carbon emissions and help slow down climate change while improving air quality.",
+        "ADVANCED": "The global transition to electric vehicles is expected to significantly decrease carbon emissions, contributing to the fight against climate change and enhancing air quality."
+    },
+    {
+        "COMPLEX": "The increasing popularity of streaming services has disrupted traditional media consumption, as more people shift from cable television to platforms like Netflix and Hulu.",
+        "ELEMENTARY": "More people are using streaming services like Netflix instead of cable TV.",
+        "SECONDARY": "Streaming services like Netflix and Hulu are becoming more popular, with people switching from cable TV.",
+        "ADVANCED": "The rise of streaming services has disrupted traditional media, with an increasing number of people moving from cable TV to platforms such as Netflix and Hulu."
+    },
+    {
+        "COMPLEX": "The growing reliance on cloud-based storage solutions has facilitated the sharing of large amounts of data, making it easier to access information from virtually anywhere in the world.",
+        "ELEMENTARY": "Cloud storage makes it easy to share and access information from anywhere.",
+        "SECONDARY": "Cloud storage is growing fast, making it simple to share and access data from almost anywhere in the world.",
+        "ADVANCED": "The increasing use of cloud storage has enabled the easy sharing and retrieval of data, allowing information to be accessed from almost anywhere globally."
+    },
+    {
+        "COMPLEX": "In recent years, there has been a marked increase in the number of cybersecurity attacks, which has led to growing concerns about the safety of personal data online.",
+        "ELEMENTARY": "There are more cyber attacks happening today. People are worried about their data being stolen online.",
+        "SECONDARY": "Cyber attacks are increasing, and many people are concerned about the safety of their personal information online.",
+        "ADVANCED": "The rise in cybersecurity attacks in recent years has raised concerns about the security of personal data online."
+    },
+    {
+        "COMPLEX": "The integration of artificial intelligence in healthcare systems has the potential to revolutionise diagnostics, treatment plans, and patient care, offering the possibility of more personalised medical services.",
+        "ELEMENTARY": "AI can change how doctors work. It helps with diagnosis and treatment, making care more personal.",
+        "SECONDARY": "AI is changing healthcare by helping doctors with diagnosis and treatment, offering more personalised care to patients.",
+        "ADVANCED": "The use of artificial intelligence in healthcare has the potential to transform diagnostics, treatment strategies, and patient care, enabling more personalised services."
+    },
+    {
+        "COMPLEX": "Although the digital divide continues to be a significant issue, technological advancements have made it easier for people in remote or underserved areas to access essential services such as healthcare and education.",
+        "ELEMENTARY": "People in some places still have trouble using technology, but new advances make it easier for them to get things like healthcare and education.",
+        "SECONDARY": "While many still lack access to technology, recent advancements are helping people in remote areas get healthcare and education more easily.",
+        "ADVANCED": "Despite the ongoing digital divide, technological progress is making it easier for individuals in remote or underserved areas to access vital services like healthcare and education."
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "COMPLEX": "New Amsterdam was formally incorporated as a city on February 2, 1653.",
+        "ELEMENTARY": "New Amsterdam became a city on February 2, 1653.",
+        "SECONDARY": "New Amsterdam was officially made a city on February 2, 1653.",
+        "ADVANCED": "New Amsterdam was incorporated as a city on February 2, 1653."
+    },
+    {
+        "COMPLEX": "Thin slices of the stone often reveal this effect.",
+        "ELEMENTARY": "Thin slices of the stone show this effect.",
+        "SECONDARY": "Thin slices of stone often show this effect.",
+        "ADVANCED": "Thin slices of the stone often reveal this effect."
+    },
+    {
+        "COMPLEX": "Patrik Berger (born 10 November 1973 in Prague) is a retired Czech footballer.",
+        "ELEMENTARY": "Patrik Berger was born on 10 November 1973 in Prague. He is a retired Czech football player.",
+        "SECONDARY": "Patrik Berger, born on 10 November 1973 in Prague, is a retired Czech footballer.",
+        "ADVANCED": "Patrik Berger (born 10 November 1973 in Prague) is a retired Czech footballer."
+    },
+    {
+        "COMPLEX": "In computer science, they are used, among other things, for the precise definition of data formats and the syntax of programming languages.",
+        "ELEMENTARY": "In computer science, people use them to clearly set rules for data and programming languages.",
+        "SECONDARY": "In computer science, they help precisely define data formats and programming language syntax.",
+        "ADVANCED": "In computer science, they are used, among other things, to define data formats and programming language syntax precisely."
+    },
+    {
+        "COMPLEX": "Weathering is the breaking down of Earth's rocks, soils and minerals through direct contact with the planet's atmosphere.",
+        "ELEMENTARY": "Weathering is when Earth's rocks, soils, and minerals break down because they touch the air.",
+        "SECONDARY": "Weathering is the process where Earth's rocks, soils, and minerals break down through contact with the atmosphere.",
+        "ADVANCED": "Weathering is the breakdown of Earth's rocks, soils, and minerals through direct contact with the atmosphere."
+    },
+    {
+        "COMPLEX": "Zeus's wife, Hera, a goddess jealous of usurpers, discovered his affair with Semele when she later became pregnant.",
+        "ELEMENTARY": "Hera is Zeus's wife. She was jealous and found out that Zeus had an affair with Semele when Semele became pregnant.",
+        "SECONDARY": "Zeus's wife, Hera, who was known for her jealousy, discovered his affair with Semele after Semele became pregnant.",
+        "ADVANCED": "Zeus's wife, Hera, a goddess known for her jealousy, discovered his affair with Semele when Semele became pregnant."
+    },
+    {
+        "COMPLEX": "Carpe diem is a phrase from a Latin poem by Horace (see 'Source' section below) that has become an aphorism.",
+        "ELEMENTARY": "Carpe diem is a Latin phrase by Horace. It is now a popular saying.",
+        "SECONDARY": "Carpe diem is a Latin phrase from a poem by Horace (see 'Source' section below) that has become a well-known saying.",
+        "ADVANCED": "Carpe diem is a phrase from a Latin poem by Horace (see 'Source' section below) that has become a popular aphorism."
+    },
+    {
+        "COMPLEX": "He refused to speak to some segregated auditoriums while speaking to others.",
+        "ELEMENTARY": "He did not speak to some groups. He spoke to other groups.",
+        "SECONDARY": "He chose not to speak to certain segregated auditoriums while addressing others.",
+        "ADVANCED": "He refused to speak to some segregated auditoriums while choosing to speak to others."
+    },
+    {
+        "COMPLEX": "He campaigned for her release by writing and performing the song 'Unplayed Piano' at the 2006 Nobel Peace Prize Concert in Oslo.",
+        "ELEMENTARY": "He worked to free her. He wrote and sang the song 'Unplayed Piano' at the 2006 Nobel Peace Prize Concert in Oslo.",
+        "SECONDARY": "He campaigned for her release by writing and performing the song 'Unplayed Piano' at the 2006 Nobel Peace Prize Concert in Oslo.",
+        "ADVANCED": "He campaigned for her release by writing and performing 'Unplayed Piano' at the 2006 Nobel Peace Prize Concert in Oslo."
+    },
+    {
+        "COMPLEX": "After separation, the radioactive S35 tracer was observed in the protein shells, but not in the infected bacteria, supporting the hypothesis that the genetic material infecting the bacteria was DNA and not protein.",
+        "ELEMENTARY": "After separation, scientists saw the radioactive S35 in the protein shells. It was not found in the infected bacteria. This shows that the bacteria's genetic material was DNA, not protein.",
+        "SECONDARY": "After separation, the radioactive S35 tracer was seen in the protein shells but not in the infected bacteria, supporting the idea that the bacteria's genetic material was DNA rather than protein.",
+        "ADVANCED": "After separation, the radioactive S35 tracer was detected in the protein shells, but not in the infected bacteria, supporting the hypothesis that the infecting genetic material was DNA and not protein."
+    },
+    {
+        "COMPLEX": "The Santee River is a long river in South Carolina in the United States.",
+        "ELEMENTARY": "The Santee River is long. It is in South Carolina, USA.",
+        "SECONDARY": "The Santee River is a long river in South Carolina, USA.",
+        "ADVANCED": "The Santee River is a long river in South Carolina in the United States."
+    },
+    {
+        "COMPLEX": "In typography, a font (also called a fount) is traditionally defined as a complete character set of a single size and style of a particular typeface.",
+        "ELEMENTARY": "In typography, a font is a set of letters and symbols in one size and style. It is also called a fount.",
+        "SECONDARY": "In typography, a font (also called a fount) is a complete set of characters in a single size and style.",
+        "ADVANCED": "In typography, a font (also known as a fount) is defined as a complete character set of a single size and style of a particular typeface."
+    },
+    {
+        "COMPLEX": "He is the 2007 World Champion, a three-time (2004, 2007 & 2009) European champion, a six-time (2003–2008) French National champion, and the 2006 Grand Prix champion.",
+        "ELEMENTARY": "He won many titles. He was the World Champion in 2007. He won the European championship three times (2004, 2007, and 2009), the French National championship six times (from 2003 to 2008), and the Grand Prix in 2006.",
+        "SECONDARY": "He is the 2007 World Champion, a three-time European champion (2004, 2007, and 2009), a six-time French National champion (2003–2008), and the 2006 Grand Prix champion.",
+        "ADVANCED": "He is the 2007 World Champion, a three-time (2004, 2007 & 2009) European champion, a six-time (2003–2008) French National champion, and the 2006 Grand Prix champion."
+    },
+    {
+        "COMPLEX": "The Toy Fox Terrier is a small terrier breed of dog, directly descended from the larger Fox Terrier, but considered a separate breed.",
+        "ELEMENTARY": "The Toy Fox Terrier is a small dog. It comes from the larger Fox Terrier, but it is a different breed.",
+        "SECONDARY": "The Toy Fox Terrier is a small breed of dog, descended from the larger Fox Terrier, but it is recognized as a separate breed.",
+        "ADVANCED": "The Toy Fox Terrier is a small terrier breed directly descended from the larger Fox Terrier, yet it is considered a distinct breed."
+    },
+    {
+        "COMPLEX": "The park provides one of the last natural habitats at the Little River Gorge for the endangered Brush-tailed Rock Wallaby.",
+        "ELEMENTARY": "The park is one of the few places where the endangered Brush-tailed Rock Wallaby lives. It is at the Little River Gorge.",
+        "SECONDARY": "The park offers one of the last natural habitats at the Little River Gorge for the endangered Brush-tailed Rock Wallaby.",
+        "ADVANCED": "The park provides one of the last natural habitats at the Little River Gorge for the endangered Brush-tailed Rock Wallaby."
+    },
+    {
+        "COMPLEX": "César Augusto da Silva Lemos, usually called César Maluco or just César (born 17 May 1945 in Niterói), is a former Brazilian footballer who was included in the 1974 FIFA World Cup squad of the Brazil national football team.",
+        "ELEMENTARY": "César Augusto da Silva Lemos, also known as César Maluco or César, was born on 17 May 1945 in Niterói. He is a former Brazilian footballer who played in the 1974 FIFA World Cup.",
+        "SECONDARY": "César Augusto da Silva Lemos, commonly called César Maluco or César (born 17 May 1945 in Niterói), is a former Brazilian footballer who was part of Brazil's 1974 FIFA World Cup squad.",
+        "ADVANCED": "César Augusto da Silva Lemos, usually called César Maluco or César (born 17 May 1945 in Niterói), is a former Brazilian footballer who was included in the 1974 FIFA World Cup squad."
+    },
+    {
+        "COMPLEX": "The Jewish cemetery of Besançon is a Jewish cemetery located in the French city of Besançon.",
+        "ELEMENTARY": "There is a Jewish cemetery in Besançon, France.",
+        "SECONDARY": "The Jewish cemetery of Besançon is located in the French city of Besançon.",
+        "ADVANCED": "The Jewish cemetery of Besançon is situated in the French city of Besançon."
+    },
+    {
+        "COMPLEX": "Aksai Chin is one of the two main border dispute areas between India and the People's Republic of China, the other being Arunachal Pradesh, which is administered by India and claimed by China as South Tibet.",
+        "ELEMENTARY": "Aksai Chin is a disputed border area between India and China. The other disputed area is Arunachal Pradesh, which India controls but China calls South Tibet.",
+        "SECONDARY": "Aksai Chin is one of the two main border dispute areas between India and China, with Arunachal Pradesh being the other area, administered by India but claimed by China as South Tibet.",
+        "ADVANCED": "Aksai Chin is one of the two main border dispute areas between India and the People's Republic of China, with Arunachal Pradesh, administered by India yet claimed by China as South Tibet, being the other."
+    },
+    {
+        "COMPLEX": "Beveridge was named after Scottish sheep farmer Andrew Beveridge, who built the Hunters' Tryst Inn in 1845.",
+        "ELEMENTARY": "Beveridge is named after a Scottish sheep farmer named Andrew Beveridge. He built the Hunters' Tryst Inn in 1845.",
+        "SECONDARY": "Beveridge was named after Scottish sheep farmer Andrew Beveridge, who built the Hunters' Tryst Inn in 1845.",
+        "ADVANCED": "Beveridge was named after Scottish sheep farmer Andrew Beveridge, the builder of the Hunters' Tryst Inn in 1845."
+    },
+    {
+        "COMPLEX": "Anne of Denmark (12 December 1574 – 2 March 1619) was queen consort of Scotland, England, and Ireland as the wife of King James VI and I.",
+        "ELEMENTARY": "Anne of Denmark was born on 12 December 1574 and died on 2 March 1619. She was the queen of Scotland, England, and Ireland because she married King James VI and I.",
+        "SECONDARY": "Anne of Denmark (12 December 1574 – 2 March 1619) was the queen consort of Scotland, England, and Ireland as the wife of King James VI and I.",
+        "ADVANCED": "Anne of Denmark (12 December 1574 – 2 March 1619) was queen consort of Scotland, England, and Ireland as the wife of King James VI and I."
+    },
+    {
+        "COMPLEX": "Truttemer-le-Grand is a commune in the Calvados department in the Basse-Normandie region in northern France.",
+        "ELEMENTARY": "Truttemer-le-Grand is a small town in the Calvados area of northern France, in Basse-Normandie.",
+        "SECONDARY": "Truttemer-le-Grand is a commune in the Calvados department of the Basse-Normandie region in northern France.",
+        "ADVANCED": "Truttemer-le-Grand is a commune in the Calvados department within the Basse-Normandie region of northern France."
+    },
+    {
+        "COMPLEX": "Mostly, they have chosen to rent apartments or hotel suites in Bern (at their own expense). However, they are entitled to use the Federal Council's country estate, Lohn, for holidays; this estate is also used to host official guests of the Swiss Confederation.",
+        "ELEMENTARY": "They mostly rent apartments or hotel suites in Bern and pay for them themselves. They can also use the Federal Council's country estate, Lohn, for holidays. This estate is used for official guests too.",
+        "SECONDARY": "They usually rent apartments or hotel suites in Bern at their own expense, but they can use the Federal Council's country estate, Lohn, for holidays; this estate is also used for hosting official guests.",
+        "ADVANCED": "They have mostly chosen to rent apartments or hotel suites in Bern (at their own expense). However, they are entitled to use the Federal Council's country estate, Lohn, for holidays; this estate also hosts official Swiss Confederation guests."
+    },
+    {
+        "COMPLEX": "Vézilly is a commune in the Aisne department in Picardie in northern France.",
+        "ELEMENTARY": "Vézilly is a small town in the Aisne area of northern France in the Picardie region.",
+        "SECONDARY": "Vézilly is a commune in the Aisne department in the Picardie region of northern France.",
+        "ADVANCED": "Vézilly is a commune in the Aisne department in Picardie, northern France."
+    },
+    {
+        "COMPLEX": "The town is home to Recreativo de Huelva, the oldest football club in Spain.",
+        "ELEMENTARY": "The town has Recreativo de Huelva. It is the oldest football club in Spain.",
+        "SECONDARY": "The town is home to Recreativo de Huelva, the oldest football club in Spain.",
+        "ADVANCED": "The town hosts Recreativo de Huelva, Spain's oldest football club."
+    },
+    {
+        "COMPLEX": "In the glass industry, manganese compounds are used for two effects. Manganese(III) reacts with iron(II).",
+        "ELEMENTARY": "The glass industry uses manganese compounds for two reasons. One reason is that manganese(III) reacts with iron(II).",
+        "SECONDARY": "In the glass industry, manganese compounds are used for two purposes. Manganese(III) reacts with iron(II).",
+        "ADVANCED": "In the glass industry, manganese compounds serve two functions, one of which is that manganese(III) reacts with iron(II)."
+    }
+]

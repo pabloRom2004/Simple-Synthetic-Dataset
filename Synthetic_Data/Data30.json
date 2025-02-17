@@ -1,0 +1,116 @@
+[
+    {
+        "COMPLEX": "The rapid proliferation of digital platforms has led to a surge in online retail, creating new opportunities for businesses but also presenting challenges in terms of customer privacy and data security.",
+        "ELEMENTARY": "More people are shopping online now. This is good for businesses but makes it harder to keep people’s information safe.",
+        "SECONDARY": "Online shopping has grown a lot in recent years, providing new chances for businesses, but also raising concerns about privacy and security.",
+        "ADVANCED": "While online shopping has created new opportunities for businesses, it has also raised significant challenges related to customer privacy and data security."
+    },
+    {
+        "COMPLEX": "The rise of electric vehicles (EVs) as a sustainable alternative to traditional gasoline-powered cars has been accelerated by both government incentives and growing environmental awareness among consumers.",
+        "ELEMENTARY": "More people are driving electric cars because they are better for the planet. Governments also help by giving money to people who buy them.",
+        "SECONDARY": "Electric cars are becoming more popular because they are good for the environment. Governments are helping people buy them, and many consumers care more about the planet.",
+        "ADVANCED": "Electric vehicles have gained popularity as an eco-friendly alternative to gasoline cars, driven by both government incentives and increasing environmental awareness among consumers."
+    },
+    {
+        "COMPLEX": "The widespread use of smartphones and mobile applications has fundamentally changed how people interact with technology, leading to both positive advancements and negative consequences, including concerns about addiction and privacy.",
+        "ELEMENTARY": "Smartphones have changed how we use technology. While they have good uses, people are worried about them being addictive and unsafe for privacy.",
+        "SECONDARY": "Smartphones and apps have changed our lives, making things easier but also raising worries about addiction and privacy issues.",
+        "ADVANCED": "While smartphones and mobile apps have brought many positive changes, they also raise concerns about addiction and the protection of personal privacy."
+    },
+    {
+        "COMPLEX": "While many experts agree that climate change is one of the greatest challenges of our time, there is still debate about the best strategies for addressing its complex global impacts, ranging from energy policy to international cooperation.",
+        "ELEMENTARY": "Most people agree that climate change is a big problem. But experts don’t all agree on how to fix it, from energy rules to working together with other countries.",
+        "SECONDARY": "Climate change is a serious issue that many experts agree on, but there are different opinions on the best way to solve it, including how to manage energy and work with other countries.",
+        "ADVANCED": "Though experts generally agree that climate change is a critical issue, there is ongoing debate about the most effective approaches, such as energy policies and international cooperation."
+    },
+    {
+        "COMPLEX": "The impact of artificial intelligence on the job market has sparked concerns about widespread automation displacing human workers, with some predicting significant changes to employment structures in various industries.",
+        "ELEMENTARY": "People are worried that robots and AI will take their jobs. Many think this will change the way work is done in many areas.",
+        "SECONDARY": "AI is making many people worried that robots will take their jobs. Some say that it could change the types of work available in many industries.",
+        "ADVANCED": "The rise of artificial intelligence has raised concerns about automation replacing human workers, potentially reshaping employment structures across many industries."
+    },
+    {
+        "COMPLEX": "The growing trend of personalized medicine, which tailors medical treatments to individual genetic profiles, has shown promise in improving patient outcomes but also raises questions about the affordability and accessibility of these advanced treatments.",
+        "ELEMENTARY": "Doctors can now give medicine that is made for each person’s body. It works better but is expensive and not available to everyone.",
+        "SECONDARY": "Personalized medicine, which is based on a person’s genetics, can help people feel better. However, it may be too expensive and hard to get for some people.",
+        "ADVANCED": "Personalized medicine, which customizes treatments based on a person's genetic makeup, has shown promise in improving health outcomes, though its cost and accessibility remain concerns."
+    },
+    {
+        "COMPLEX": "The expansion of social media platforms has significantly changed how individuals and businesses communicate, offering new opportunities for marketing but also raising ethical concerns about misinformation and online harassment.",
+        "ELEMENTARY": "Social media has changed how people and companies talk. It helps companies advertise but also causes problems like fake news and bullying.",
+        "SECONDARY": "Social media has changed communication for both people and businesses, creating new ways to market products but also raising issues like fake news and online bullying.",
+        "ADVANCED": "Social media platforms have transformed communication for individuals and businesses, offering marketing opportunities while also raising concerns about misinformation and online harassment."
+    },
+    {
+        "COMPLEX": "The global shortage of semiconductors, driven by supply chain disruptions and increased demand for electronics, has led to significant delays in manufacturing across various industries, including automotive and consumer electronics.",
+        "ELEMENTARY": "There are not enough computer parts for everyone. This is making it hard to build things like cars and electronics.",
+        "SECONDARY": "There is a shortage of computer chips, which is slowing down the production of cars and electronics because there is not enough supply.",
+        "ADVANCED": "The global shortage of semiconductors, caused by supply chain problems and higher demand for electronics, is causing delays in manufacturing in industries such as automotive and consumer electronics."
+    },
+    {
+        "COMPLEX": "The debate over renewable energy sources like wind and solar power continues to intensify, with proponents arguing that they are essential for reducing carbon emissions, while critics point to the high costs and reliance on weather-dependent conditions.",
+        "ELEMENTARY": "People argue about using wind and solar power. Some think it’s good for the planet, but others say it costs too much and doesn’t always work.",
+        "SECONDARY": "There is an ongoing debate about using wind and solar energy. Some believe they are important for the environment, while others argue they are too expensive and depend on the weather.",
+        "ADVANCED": "The discussion over renewable energy sources such as wind and solar power is growing, with supporters emphasizing their environmental benefits and critics highlighting the costs and their reliance on variable weather conditions."
+    },
+    {
+        "COMPLEX": "The shift toward remote learning in response to the COVID-19 pandemic has highlighted disparities in access to technology, with students in underserved communities facing significant challenges in participating in online education.",
+        "ELEMENTARY": "The pandemic made many students learn from home. But some students don’t have the technology they need to learn this way.",
+        "SECONDARY": "Remote learning during the pandemic showed that not all students have equal access to the technology they need, especially in poorer areas.",
+        "ADVANCED": "The transition to remote learning during the pandemic exposed inequalities in access to technology, with students in disadvantaged communities facing barriers to online education."
+    },
+    {
+        "COMPLEX": "The implementation of 5G networks is expected to accelerate innovation in various sectors, including healthcare, transportation, and entertainment, by providing faster internet speeds and lower latency, but also raises concerns about its environmental impact and security risks.",
+        "ELEMENTARY": "5G will make the internet faster, helping industries like healthcare and transport. But some worry it could harm the environment and cause security issues.",
+        "SECONDARY": "The introduction of 5G networks promises faster internet speeds that could improve industries like healthcare and transport, but people are concerned about the environmental and security risks.",
+        "ADVANCED": "The rollout of 5G networks is set to boost innovation in fields such as healthcare, transportation, and entertainment by providing faster speeds and lower latency, though concerns remain about environmental effects and security risks."
+    },
+    {
+        "COMPLEX": "The proliferation of misinformation on social media platforms has become a major challenge for public health authorities, particularly during the COVID-19 pandemic, where false information about the virus and vaccines has hindered efforts to control the spread of the disease.",
+        "ELEMENTARY": "Many people share false information on social media. During the pandemic, this made it harder to stop the spread of the virus and teach people about vaccines.",
+        "SECONDARY": "Misinformation on social media has been a big problem, especially during the pandemic, where false facts about COVID-19 and vaccines slowed down efforts to control the virus.",
+        "ADVANCED": "Misinformation on social media has become a significant issue for public health authorities, particularly during the COVID-19 pandemic, where false claims about the virus and vaccines have undermined control efforts."
+    },
+    {
+        "COMPLEX": "As the digital economy continues to grow, the issue of data privacy has become increasingly important, with many consumers demanding more control over how their personal information is collected and used by businesses.",
+        "ELEMENTARY": "As we use more digital tools, people are asking for more control over their personal information and how companies use it.",
+        "SECONDARY": "The digital economy is growing, and more people want to control how companies collect and use their personal data.",
+        "ADVANCED": "With the expansion of the digital economy, data privacy has become a growing concern, with consumers seeking greater control over how their personal information is collected and utilized by businesses."
+    },
+    {
+        "COMPLEX": "The rapid evolution of biotechnology has paved the way for groundbreaking advancements in medicine, such as personalized treatments and gene therapy, but also presents ethical dilemmas related to genetic modification and the potential misuse of these technologies.",
+        "ELEMENTARY": "Biotechnology is changing medicine. It brings new treatments but also raises questions about changing genes and how this technology can be misused.",
+        "SECONDARY": "Biotechnology is helping create new medicines, like treatments based on your genes. However, some worry about the ethics of changing genes or using this technology wrongly.",
+        "ADVANCED": "Biotechnology is advancing rapidly, offering innovative medical treatments such as personalized therapies and gene editing, but also raising ethical concerns about genetic modification and potential misuse of these technologies."
+    },
+    {
+        "COMPLEX": "The increasing reliance on cloud computing services has allowed businesses to scale their operations more efficiently, but also raises concerns regarding data security and privacy.",
+        "ELEMENTARY": "More businesses are using cloud computers to work better. But this can make it harder to keep data safe.",
+        "SECONDARY": "Many businesses now use cloud computing to work faster and more efficiently, but this can also create problems with keeping data secure.",
+        "ADVANCED": "Cloud computing has enabled businesses to scale more effectively, but it also presents significant challenges regarding data security and privacy."
+    },
+    {
+        "COMPLEX": "Despite the rapid advancement of artificial intelligence technologies, ethical concerns about their use in decision-making processes remain a critical issue for lawmakers and experts alike.",
+        "ELEMENTARY": "AI is getting better fast. But people worry about it being used to make important choices without humans.",
+        "SECONDARY": "AI is improving quickly, but many experts and lawmakers worry about its role in making decisions that affect people’s lives.",
+        "ADVANCED": "Although artificial intelligence technologies are advancing rapidly, there are still significant ethical concerns regarding their application in decision-making processes."
+    },
+    {
+        "COMPLEX": "With the increasing popularity of remote work, many companies are adopting hybrid models that blend in-person and virtual office environments to offer employees more flexibility and work-life balance.",
+        "ELEMENTARY": "More people are working from home now. Some companies let workers do both, working at home and in the office.",
+        "SECONDARY": "As more people work from home, many companies are allowing employees to work both in the office and from home to make work-life balance easier.",
+        "ADVANCED": "As remote work becomes more common, many businesses are implementing hybrid models, combining in-office and virtual work to offer better flexibility for their employees."
+    },
+    {
+        "COMPLEX": "The COVID-19 pandemic has drastically altered global travel patterns, with restrictions, health concerns, and shifting consumer behaviors contributing to a significant downturn in the tourism industry.",
+        "ELEMENTARY": "The pandemic changed how people travel. There are more rules and many people are afraid to travel.",
+        "SECONDARY": "The COVID-19 pandemic caused a big drop in travel. Rules, health worries, and changing habits stopped many people from traveling.",
+        "ADVANCED": "The global travel industry was hit hard by the COVID-19 pandemic, with travel restrictions, health concerns, and changes in how people travel leading to a sharp decline in tourism."
+    },
+    {
+        "COMPLEX": "As global awareness of climate change grows, governments and corporations are facing increasing pressure to adopt sustainable practices that minimize their environmental impact while maintaining profitability.",
+        "ELEMENTARY": "More people know about climate change. Governments and companies need to do better for the planet and still make money.",
+        "SECONDARY": "As more people become aware of climate change, governments and businesses are under pressure to protect the environment without hurting their profits.",
+        "ADVANCED": "With rising global awareness of climate change, both governments and corporations are being urged to implement sustainable practices that reduce their environmental footprint while preserving profitability."
+    }
+]

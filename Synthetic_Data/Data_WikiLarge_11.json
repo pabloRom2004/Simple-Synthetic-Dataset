@@ -1,0 +1,152 @@
+[
+    {
+        "COMPLEX": "Honduras is a republic in Central America.",
+        "ELEMENTARY": "Honduras is a country in Central America. It is a republic.",
+        "SECONDARY": "Honduras is a republic located in Central America.",
+        "ADVANCED": "Honduras, a republic in Central America, is recognized for its cultural and geographical significance."
+    },
+    {
+        "COMPLEX": "Waldauer, C., Zahka, W.J., and Pal, S. (1996).",
+        "ELEMENTARY": "This is a reference from 1996 by C. Waldauer, W.J. Zahka, and S. Pal.",
+        "SECONDARY": "In 1996, C. Waldauer, W.J. Zahka, and S. Pal published a work.",
+        "ADVANCED": "A 1996 publication by C. Waldauer, W.J. Zahka, and S. Pal."
+    },
+    {
+        "COMPLEX": "When Harry and his wife moved to London, he was already contributing a column for the magazine Weekend and also for the teen magazines Marilyn and Valentine.",
+        "ELEMENTARY": "Harry and his wife moved to London. He was already writing for Weekend magazine and for the teen magazines Marilyn and Valentine.",
+        "SECONDARY": "When Harry and his wife moved to London, he was already writing columns for Weekend and for the teen magazines Marilyn and Valentine.",
+        "ADVANCED": "After relocating to London with his wife, Harry continued contributing to Weekend and to the teen magazines Marilyn and Valentine."
+    },
+    {
+        "COMPLEX": "He was portrayed by Graham Stark in Revenge of the Pink Panther and Son of the Pink Panther, while Harvey Korman played him in Trail of the Pink Panther and Curse of the Pink Panther.",
+        "ELEMENTARY": "Graham Stark played him in two Pink Panther movies. Harvey Korman played him in two other Pink Panther movies.",
+        "SECONDARY": "Graham Stark portrayed him in Revenge of the Pink Panther and Son of the Pink Panther, while Harvey Korman took over in Trail of the Pink Panther and Curse of the Pink Panther.",
+        "ADVANCED": "He was played by Graham Stark in two Pink Panther films and by Harvey Korman in another pair of Pink Panther installments."
+    },
+    {
+        "COMPLEX": "Herodotus also relates that, of the many solemn festivals held in Egypt, the most important and most popular one was that celebrated in Bubastis in honor of the goddess, whom he calls Bubastis and equates with the Greek goddess Artemis.",
+        "ELEMENTARY": "Herodotus wrote about many festivals in Egypt. He said the biggest was at Bubastis for a goddess he compared to Artemis.",
+        "SECONDARY": "Herodotus said the largest and most celebrated Egyptian festival took place in Bubastis, honoring a goddess he identified with Artemis.",
+        "ADVANCED": "According to Herodotus, the most significant of Egypt’s many solemn festivals was held in Bubastis, honoring a goddess he likened to Artemis."
+    },
+    {
+        "COMPLEX": "Any time back pain or another form of chronic pain is present, both the pain and the sleep problems should be treated simultaneously, as pain can lead to sleep problems and vice versa.",
+        "ELEMENTARY": "If you have back pain or any long-term pain, it can affect your sleep. Treat both the pain and sleep issues at the same time.",
+        "SECONDARY": "When chronic pain occurs, it often leads to sleep problems, so both must be addressed together.",
+        "ADVANCED": "Whenever chronic pain arises, both the discomfort and the associated sleep issues should be managed together."
+    },
+    {
+        "COMPLEX": "The most recent Kindle device is the third incarnation of the main line, officially named \"Kindle,\" but usually referred to as \"Kindle 3.\"",
+        "ELEMENTARY": "The newest Kindle is the third version. It is called the Kindle but often called Kindle 3.",
+        "SECONDARY": "The latest Kindle is the third version in the main series, officially named Kindle but commonly known as Kindle 3.",
+        "ADVANCED": "The newest Kindle device, officially named Kindle, is the third in the main series and is often referred to as Kindle 3."
+    },
+    {
+        "COMPLEX": "As league leaders, the Canadiens earned the right to play in the 1916 Stanley Cup Finals, where they faced off against the Portland Rosebuds, champions of the rival Pacific Coast Hockey Association.",
+        "ELEMENTARY": "The Canadiens finished first in their league, so they played in the 1916 Stanley Cup Finals against the Portland Rosebuds.",
+        "SECONDARY": "By leading their league, the Canadiens qualified for the 1916 Stanley Cup Finals against the Portland Rosebuds.",
+        "ADVANCED": "As the league leaders, the Canadiens secured a place in the 1916 Stanley Cup Finals to face the Portland Rosebuds of the Pacific Coast Hockey Association."
+    },
+    {
+        "COMPLEX": "In medieval Europe, such documents were issued to travellers by local authorities, and generally contained a list of towns and cities into which a document holder was permitted to pass.",
+        "ELEMENTARY": "In medieval Europe, local authorities gave travelers documents. These listed the places where they could go.",
+        "SECONDARY": "During medieval times, local officials provided travelers with papers that listed the towns they could enter.",
+        "ADVANCED": "In medieval Europe, authorities issued documents to travelers, detailing the towns and cities they were allowed to visit."
+    },
+    {
+        "COMPLEX": "The British Rail Mark 3 bodyshell design was also used for construction of the Class 456 direct current (DC) units.",
+        "ELEMENTARY": "They used the British Rail Mark 3 design to build the Class 456 DC trains.",
+        "SECONDARY": "The Class 456 DC units were built using the British Rail Mark 3 bodyshell design.",
+        "ADVANCED": "The British Rail Mark 3 bodyshell design was incorporated into the construction of the Class 456 DC units."
+    },
+    {
+        "COMPLEX": "Bifocals are eyeglasses with two distinct optical powers.",
+        "ELEMENTARY": "Bifocals are glasses that have two different strengths.",
+        "SECONDARY": "Bifocals are eyeglasses with two separate lens strengths.",
+        "ADVANCED": "Bifocals are spectacles that incorporate two distinct optical prescriptions."
+    },
+    {
+        "COMPLEX": "Barry James Marshall, AC, FRS, FAA (born 30 September 1951) is an Australian physician, Nobel Prize laureate in Physiology or Medicine, and Professor of Clinical Microbiology at the University of Western Australia.",
+        "ELEMENTARY": "Barry James Marshall is an Australian doctor. He won a Nobel Prize and teaches at the University of Western Australia.",
+        "SECONDARY": "Barry James Marshall, born in 1951, is an Australian physician, Nobel Prize winner, and a professor at the University of Western Australia.",
+        "ADVANCED": "Barry James Marshall (born 30 September 1951) is an Australian physician, Nobel laureate, and professor of Clinical Microbiology at the University of Western Australia."
+    },
+    {
+        "COMPLEX": "It is not a member of the European Union, but it is part of the Schengen Agreement.",
+        "ELEMENTARY": "It does not belong to the European Union. However, it is part of the Schengen Agreement.",
+        "SECONDARY": "It isn’t in the European Union, but it participates in the Schengen Agreement.",
+        "ADVANCED": "Though not an EU member, it remains a participant in the Schengen Agreement."
+    },
+    {
+        "COMPLEX": "Liverpool Echo – 12 November 2007.",
+        "ELEMENTARY": "Liverpool Echo, from 12 November 2007.",
+        "SECONDARY": "This is from the Liverpool Echo dated 12 November 2007.",
+        "ADVANCED": "A reference to the Liverpool Echo on 12 November 2007."
+    },
+    {
+        "COMPLEX": "He delivered his first judicial speeches at the age of 20, in which he argued effectively to gain from his guardians what was left of his inheritance.",
+        "ELEMENTARY": "He gave his first court speeches at age 20. He spoke well so he could get what was left of his inheritance from his guardians.",
+        "SECONDARY": "At age 20, he delivered his first legal speeches to persuade his guardians to release the remainder of his inheritance.",
+        "ADVANCED": "He presented his initial judicial addresses at 20, successfully securing the rest of his inheritance from his guardians."
+    },
+    {
+        "COMPLEX": "Some examples of this are \"Helter Skelter\" and \"Strawberry Fields Forever\" by The Beatles, \"Suspicious Minds\" by Elvis Presley, \"Thank You\" by Led Zeppelin, \"Undercover of the Night\" by The Rolling Stones, and \"Bop Gun (Endangered Species)\" by Parliament.",
+        "ELEMENTARY": "Examples include “Helter Skelter” and “Strawberry Fields Forever” by The Beatles. There is also “Suspicious Minds” by Elvis Presley, “Thank You” by Led Zeppelin, “Undercover of the Night” by The Rolling Stones, and “Bop Gun (Endangered Species)” by Parliament.",
+        "SECONDARY": "Examples include “Helter Skelter,” “Strawberry Fields Forever,” “Suspicious Minds,” “Thank You,” “Undercover of the Night,” and “Bop Gun (Endangered Species).”",
+        "ADVANCED": "Some examples are “Helter Skelter” and “Strawberry Fields Forever” by The Beatles, “Suspicious Minds” by Elvis Presley, “Thank You” by Led Zeppelin, “Undercover of the Night” by The Rolling Stones, and “Bop Gun (Endangered Species)” by Parliament."
+    },
+    {
+        "COMPLEX": "He currently plays for Japan's J. League Division 1 club Nagoya Grampus.",
+        "ELEMENTARY": "He plays soccer for Nagoya Grampus in Japan's top division.",
+        "SECONDARY": "He is currently part of Nagoya Grampus in Japan’s J. League Division 1.",
+        "ADVANCED": "He presently competes for Nagoya Grampus in Japan’s J. League Division 1."
+    },
+    {
+        "COMPLEX": "Melodifestivalen (\"The Melody Festival\") is an annual music competition organized by Swedish public broadcasters Sveriges Television (SVT) and Sveriges Radio (SR). It determines the country's representative for the Eurovision Song Contest, and has been staged almost every year since 1959.",
+        "ELEMENTARY": "Melodifestivalen is a yearly Swedish music contest run by SVT and SR. It chooses Sweden's song for Eurovision. It has happened almost every year since 1959.",
+        "SECONDARY": "Melodifestivalen is an annual Swedish music contest organized by SVT and SR, selecting Sweden’s Eurovision entry nearly every year since 1959.",
+        "ADVANCED": "Melodifestivalen is an annual music competition held by Swedish broadcasters SVT and SR to pick the nation’s Eurovision act, staged most years since 1959."
+    },
+    {
+        "COMPLEX": "Lamborghini president and CEO Stefan Winkelmann denied that the concept would mark the Miura's return to production, saying, \"The Miura was a celebration of our history, but Lamborghini is about the future.\"",
+        "ELEMENTARY": "Lamborghini’s president, Stefan Winkelmann, said the Miura concept was not going back into production. He explained the Miura celebrated their history, but Lamborghini focuses on the future.",
+        "SECONDARY": "Stefan Winkelmann, Lamborghini’s president, denied the Miura concept was a return to production, stating that the Miura honored their past while Lamborghini looks to the future.",
+        "ADVANCED": "Lamborghini CEO Stefan Winkelmann refuted claims that the Miura concept signaled a production revival, emphasizing that while the Miura marked history, Lamborghini remains future-focused."
+    },
+    {
+        "COMPLEX": "Stromboli is a large, sinister, bearded puppet maker who forces Pinocchio to perform onstage in order to make money.",
+        "ELEMENTARY": "Stromboli is a big, scary puppet maker. He makes Pinocchio perform on stage to earn money.",
+        "SECONDARY": "Stromboli is a towering, menacing puppet maker who forces Pinocchio to perform for profit.",
+        "ADVANCED": "Stromboli, a formidable and ominous puppet maker, compels Pinocchio to perform onstage for financial gain."
+    },
+    {
+        "COMPLEX": "The Indian Pacific train has its own time zone—a so-called \"train time\"—when traveling between Kalgoorlie and Port Augusta, which was UTC+9 hours during November 2005 when daylight saving time was observed in the east.",
+        "ELEMENTARY": "The Indian Pacific train follows a special “train time” between Kalgoorlie and Port Augusta. In November 2005, this time was UTC+9 hours because of daylight saving in the east.",
+        "SECONDARY": "The Indian Pacific uses its own “train time” when running between Kalgoorlie and Port Augusta, set to UTC+9 hours during November 2005’s eastern daylight saving period.",
+        "ADVANCED": "Between Kalgoorlie and Port Augusta, the Indian Pacific observes a distinct “train time,” recorded as UTC+9 hours in November 2005 during the eastern daylight saving interval."
+    },
+    {
+        "COMPLEX": "However, recently others have argued that the size of the beak suggests that the bird was a carnivore.",
+        "ELEMENTARY": "Some people now say that the bird’s large beak shows it ate meat.",
+        "SECONDARY": "Recently, others have suggested that its big beak indicates a meat-eating diet.",
+        "ADVANCED": "However, recent perspectives argue that the bird’s substantial beak implies it was carnivorous."
+    },
+    {
+        "COMPLEX": "The parish contains a wildlife park, a nature reserve, Shepreth L-Moor, and one of the UK's only insect research laboratories.",
+        "ELEMENTARY": "This parish has a wildlife park, a nature reserve called Shepreth L-Moor, and a rare insect research lab.",
+        "SECONDARY": "The parish includes a wildlife park, the Shepreth L-Moor nature reserve, and one of the UK’s few insect research labs.",
+        "ADVANCED": "Within the parish are a wildlife park, the Shepreth L-Moor reserve, and one of Britain’s limited insect research laboratories."
+    },
+    {
+        "COMPLEX": "It extends to the whole of India, except the State of Jammu and Kashmir, which has its own wildlife act.",
+        "ELEMENTARY": "It covers all of India, except Jammu and Kashmir. That state has its own wildlife law.",
+        "SECONDARY": "It applies nationwide in India except for Jammu and Kashmir, which enforces its own wildlife legislation.",
+        "ADVANCED": "Its provisions span the entirety of India apart from Jammu and Kashmir, where a separate wildlife act is in force."
+    },
+    {
+        "COMPLEX": "Borgomastro o Sindaco-Borgomastro (Italian) is used in a few communes of Lombardy.",
+        "ELEMENTARY": "Borgomastro or Sindaco-Borgomastro (Italian) is a title used in some Lombardy towns.",
+        "SECONDARY": "In certain communes of Lombardy, the Italian term Borgomastro or Sindaco-Borgomastro is used.",
+        "ADVANCED": "Borgomastro or Sindaco-Borgomastro (Italian) serves as an official title in several Lombard communes."
+    }
+]

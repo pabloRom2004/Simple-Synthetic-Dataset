@@ -1,0 +1,68 @@
+[
+    {
+        "COMPLEX": "The global financial crisis of 2008 triggered a worldwide economic downturn, resulting in widespread unemployment and a significant drop in consumer spending.",
+        "ELEMENTARY": "In 2008, the world's economy got worse. Many people lost their jobs and bought fewer things.",
+        "SECONDARY": "The financial crisis of 2008 caused the economy to decline. This led to many people losing jobs and spending less money.",
+        "ADVANCED": "The 2008 global financial crisis caused a severe economic downturn, leading to widespread job losses and a decline in consumer spending."
+    },
+    {
+        "COMPLEX": "The rapid advancements in artificial intelligence have the potential to revolutionise industries, but also raise concerns about job displacement and ethical implications.",
+        "ELEMENTARY": "New technology called AI is changing many industries. But it might take away some jobs and create ethical problems.",
+        "SECONDARY": "AI technology is growing fast and could change many industries. But there are worries about jobs being lost and whether it's ethical.",
+        "ADVANCED": "The rapid growth of artificial intelligence could transform industries, though it also raises concerns about job losses and ethical issues."
+    },
+    {
+        "COMPLEX": "Climate change is a complex issue that requires international cooperation, as its effects are felt globally and demand coordinated efforts from governments and industries.",
+        "ELEMENTARY": "Climate change is a big problem that affects the whole world. Countries and businesses must work together to solve it.",
+        "SECONDARY": "Climate change is a global problem that needs countries and companies to work together. Its impact is felt everywhere.",
+        "ADVANCED": "Climate change is a complex global challenge that requires worldwide cooperation from governments and industries to address its widespread effects."
+    },
+    {
+        "COMPLEX": "While the use of social media platforms has become ubiquitous, it is important to acknowledge the potential negative effects, including addiction, cyberbullying, and the spread of misinformation.",
+        "ELEMENTARY": "Many people use social media every day. But it can cause problems like addiction, bullying, and lies spreading.",
+        "SECONDARY": "Social media is used by many people, but it can also cause problems like addiction, bullying, and fake news.",
+        "ADVANCED": "Social media is widely used, but it can lead to issues such as addiction, cyberbullying, and the spread of false information."
+    },
+    {
+        "COMPLEX": "The smartphone market has become increasingly competitive, with major companies constantly releasing new models, features, and innovations to maintain their market share.",
+        "ELEMENTARY": "Smartphones are very popular. Many companies keep making new phones with more features to sell more.",
+        "SECONDARY": "The smartphone market is very competitive. Companies release new models and features often to keep up with the competition.",
+        "ADVANCED": "The smartphone industry is highly competitive, with companies continuously introducing new models and features to retain their market position."
+    },
+    {
+        "COMPLEX": "Despite the advancements in healthcare and medical research, access to quality healthcare remains a significant issue, particularly in low-income and rural areas.",
+        "ELEMENTARY": "Health care is better today, but many people in poor or country areas still can’t get good care.",
+        "SECONDARY": "Even though healthcare has improved, many people, especially in poor or rural areas, still cannot access good healthcare.",
+        "ADVANCED": "Despite advancements in medical research and healthcare, access to quality care continues to be a challenge, especially in low-income and rural regions."
+    },
+    {
+        "COMPLEX": "The global internet infrastructure has grown rapidly over the past few decades, supporting an increasing number of devices, services, and applications that rely on high-speed data transmission.",
+        "ELEMENTARY": "The internet has grown a lot in the last years. It helps many devices and services work faster.",
+        "SECONDARY": "The internet has developed quickly in recent years. It supports many devices and services that need fast data.",
+        "ADVANCED": "Over the past few decades, global internet infrastructure has expanded, enabling more devices and services to function with high-speed data transmission."
+    },
+    {
+        "COMPLEX": "While online learning has gained popularity, it also presents challenges such as limited face-to-face interaction, which can impact student engagement and learning outcomes.",
+        "ELEMENTARY": "Online learning is popular, but it’s hard because students can’t talk to teachers in person, which can make learning difficult.",
+        "SECONDARY": "Online learning is becoming more common, but it can be hard because students miss the chance to meet teachers face-to-face.",
+        "ADVANCED": "Online learning has grown in popularity but presents challenges, including limited personal interaction, which can affect student engagement and performance."
+    },
+    {
+        "COMPLEX": "The rapid adoption of electric vehicles has been driven by environmental concerns, government incentives, and advancements in battery technology, making them more affordable and efficient.",
+        "ELEMENTARY": "More people are buying electric cars. This is because they help the environment, governments offer discounts, and the cars are cheaper and better now.",
+        "SECONDARY": "Electric cars are becoming more popular due to environmental reasons, government support, and improvements in battery technology that make them cheaper and better.",
+        "ADVANCED": "The increased adoption of electric vehicles is driven by environmental concerns, government incentives, and advancements in battery technology, which have made them more affordable and efficient."
+    },
+    {
+        "COMPLEX": "The advent of blockchain technology has provided new opportunities for secure, decentralised transactions, offering potential benefits for industries ranging from finance to supply chain management.",
+        "ELEMENTARY": "Blockchain is a new way to make secure transactions. It could help many industries, like finance and managing goods.",
+        "SECONDARY": "Blockchain technology offers a secure way to make transactions. It could be useful in industries like banking and supply management.",
+        "ADVANCED": "Blockchain technology enables secure, decentralised transactions, presenting significant opportunities for sectors such as finance and supply chain management."
+    },
+    {
+        "COMPLEX": "The growing popularity of streaming services has disrupted traditional media consumption, as more people shift from cable television to platforms like Netflix and Hulu.",
+        "ELEMENTARY": "More people are using streaming services like Netflix instead of cable TV.",
+        "SECONDARY": "Streaming services like Netflix and Hulu are becoming more popular, with people switching from cable TV.",
+        "ADVANCED": "The rise of streaming services has disrupted traditional media, with an increasing number of people moving from cable TV to platforms such as Netflix and Hulu."
+    }
+]

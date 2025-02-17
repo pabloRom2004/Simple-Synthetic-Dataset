@@ -1,0 +1,123 @@
+[
+    {
+      "COMPLEX": "Halfway through the product demonstration, we realised the user manual contained outdated steps, causing confusion during setup.",
+      "ELEMENTARY": "In the middle of showing off the product, we saw the guide was old. People got confused setting it up.",
+      "SECONDARY": "While demonstrating the product, we discovered the instructions were no longer accurate, causing issues with installation.",
+      "ADVANCED": "During the demonstration, it became evident that the user guide was outdated, leading to setup confusion."
+    },
+    {
+      "COMPLEX": "Incongruous",
+      "ELEMENTARY": "It doesn't fit.",
+      "SECONDARY": "Something that doesn't match or go well together.",
+      "ADVANCED": "Lacking harmony or consistency with its surroundings."
+    },
+    {
+      "COMPLEX": "Although the conference initially promised groundbreaking discoveries, the absence of key speakers detracted from its overall impact, leaving attendees somewhat disappointed.",
+      "ELEMENTARY": "The event was supposed to show big new ideas, but important people didn't come. Many felt let down.",
+      "SECONDARY": "While it aimed to reveal major breakthroughs, missing keynote speakers reduced the conference’s effectiveness, disappointing the crowd.",
+      "ADVANCED": "Despite expectations of pivotal insights, absent keynote contributors curtailed the event’s influence, leaving participants underwhelmed."
+    },
+    {
+      "COMPLEX": "In mid-typing about these findings—there is more to clarify regarding the data set, especially with incomplete entries and potential biases.",
+      "ELEMENTARY": "While typing our results, we noticed we need more details about the data. Some entries might be missing or skewed.",
+      "SECONDARY": "During our write-up, it became clear that the data set requires further clarification, as it contains gaps and possible biases.",
+      "ADVANCED": "Partway through documentation, we realised the need for deeper explanation of the data, given gaps and potential skew."
+    },
+    {
+      "COMPLEX": "Short",
+      "ELEMENTARY": "Tiny",
+      "SECONDARY": "A brief word",
+      "ADVANCED": "Minimal or concise"
+    },
+    {
+      "COMPLEX": "Because the application’s new interface was rushed to meet launch deadlines, many beta testers found it counterintuitive, resulting in poor initial feedback.",
+      "ELEMENTARY": "They hurried to finish the app's new look. Testers thought it was confusing and gave bad reviews.",
+      "SECONDARY": "Rushed development of the new interface made it harder for testers to use, leading to negative early responses.",
+      "ADVANCED": "Expedited interface changes, designed to meet tight deadlines, proved unintuitive for beta users, yielding unfavourable first impressions."
+    },
+    {
+      "COMPLEX": "Antidisestablishmentarianism",
+      "ELEMENTARY": "A very long word about being against removing a church's official status.",
+      "SECONDARY": "A lengthy term referring to opposition to the withdrawal of state support from an established church.",
+      "ADVANCED": "A complex term denoting resistance to the disestablishment of a state-endorsed religious institution."
+    },
+    {
+      "COMPLEX": "Amid technological uncertainties, startups in emerging fields often pivot rapidly, seeking sustainable business models before venture capital funding diminishes.",
+      "ELEMENTARY": "Young tech companies change direction fast if they're unsure. They look for ways to make money before their funds run out.",
+      "SECONDARY": "In new tech areas, startups frequently shift strategies to find a stable revenue plan before investor money dries up.",
+      "ADVANCED": "Facing evolving tech landscapes, nascent firms frequently pivot to secure viable models prior to the depletion of venture backing."
+    },
+    {
+      "COMPLEX": "When reviewing potential investment portfolios, individuals should weigh risk tolerance, market volatility, and long-term growth objectives to form a balanced strategy.",
+      "ELEMENTARY": "People need to think about how much risk they can handle, how the market changes, and their future goals when investing.",
+      "SECONDARY": "Investors must consider risk limits, market ups and downs, and long-term aims to build a solid portfolio.",
+      "ADVANCED": "Prospective investments require careful evaluation of one's risk profile, market fluctuations, and long-term returns for a balanced approach."
+    },
+    {
+      "COMPLEX": "A few words about the event remain unclear, especially how the scheduling conflicts and venue changes will be resolved in the final plan.",
+      "ELEMENTARY": "We still don't know how they'll fix the time clashes and place issues.",
+      "SECONDARY": "Uncertainty surrounds how they will handle overlapping schedules and the changed venue in the end.",
+      "ADVANCED": "Ambiguity persists regarding the resolution of scheduling overlaps and location alterations in the concluding arrangement."
+    },
+    {
+      "COMPLEX": "Recalibrating the drone’s stabilisation algorithm enabled smoother flight in turbulent conditions, reducing the likelihood of midair collisions.",
+      "ELEMENTARY": "They improved the drone's software, so it flies better in bad weather and avoids crashing.",
+      "SECONDARY": "By adjusting the drone’s stability settings, it now handles rough winds more smoothly and avoids collisions.",
+      "ADVANCED": "Refining the drone’s stabilisation parameters allowed for steadier navigation in turbulence, minimising collision risks."
+    },
+    {
+      "COMPLEX": "Majestic",
+      "ELEMENTARY": "Very grand",
+      "SECONDARY": "Impressive and grand in appearance",
+      "ADVANCED": "Exhibiting regal splendour and commanding respect"
+    },
+    {
+      "COMPLEX": "The augmented reality headset, though lauded for its innovative design, suffers from limited field of view and a steep hardware cost, restricting its consumer adoption rate.",
+      "ELEMENTARY": "This AR headset looks cool but you see less around you and it's very expensive. Not many people buy it.",
+      "SECONDARY": "Despite its modern design, the AR headset has a narrow view and a high price, slowing widespread use.",
+      "ADVANCED": "Lauded for forward-thinking aesthetics, the AR device is hindered by a constricted viewing angle and elevated price tag, curtailing broad adoption."
+    },
+    {
+      "COMPLEX": "Between campaigns, the marketing team discovered that short, personalised email messages yielded better customer responses than generic newsletters.",
+      "ELEMENTARY": "While switching ads, the team learned brief personal emails worked better than general ones.",
+      "SECONDARY": "In analysing different promotions, they found that concise, tailored emails outperformed standard newsletters in response rates.",
+      "ADVANCED": "During intervals between campaigns, marketers noted that succinct, customised emails garnered stronger engagement compared to generic bulletins."
+    },
+    {
+      "COMPLEX": "Serendipity",
+      "ELEMENTARY": "A lucky surprise",
+      "SECONDARY": "Finding good things by chance",
+      "ADVANCED": "The fortunate occurrence of beneficial events discovered unintentionally"
+    },
+    {
+      "COMPLEX": "The newly introduced browser extension faced compatibility issues with several legacy platforms, prompting developers to release multiple patches soon after launch.",
+      "ELEMENTARY": "The fresh add-on didn't work well on old systems. The team quickly made fixes.",
+      "SECONDARY": "After launch, the browser extension clashed with older platforms, leading the developers to roll out prompt updates.",
+      "ADVANCED": "Soon after its debut, the extension encountered legacy platform conflicts, necessitating rapid patch deployments."
+    },
+    {
+      "COMPLEX": "Despite high-profile endorsements, the eco-friendly footwear brand has struggled to justify its premium prices in a fiercely competitive market.",
+      "ELEMENTARY": "Famous people promote these green shoes, but they're very costly. It's hard to compete.",
+      "SECONDARY": "Though celebrities back the sustainable shoe company, its high costs are tough to defend in a crowded industry.",
+      "ADVANCED": "In spite of celebrity support, the green footwear label finds it challenging to validate its luxury pricing amid stiff competition."
+    },
+    {
+      "COMPLEX": "In the middle of writing about this crocheting technique—there are advanced stitches that can create more intricate patterns, but they require specialised hooks.",
+      "ELEMENTARY": "While explaining crochet, we noted fancy stitches need special hooks.",
+      "SECONDARY": "Interrupting the explanation, advanced stitches demand particular hooks for complex crochet patterns.",
+      "ADVANCED": "Mid-discussion, we observed that elaborate crochet stitches necessitate dedicated hooks to produce intricate designs."
+    },
+    {
+      "COMPLEX": "Hippopotomonstrosesquipedaliophobia",
+      "ELEMENTARY": "Fear of long words",
+      "SECONDARY": "A phobia describing the fear of very long words",
+      "ADVANCED": "An ironically lengthy term denoting a dread of excessively long expressions"
+    },
+    {
+      "COMPLEX": "While the charity marathon generated substantial publicity, the final donation totals fell short of organisers’ expectations, revealing a potential need for better sponsor engagement.",
+      "ELEMENTARY": "The race got a lot of attention, but it didn't raise as much money as hoped. Maybe they need more sponsor help.",
+      "SECONDARY": "Although the marathon gained plenty of media coverage, donations were lower than planned, suggesting better sponsor outreach is needed.",
+      "ADVANCED": "Despite significant public exposure, the marathon’s donations lagged behind targets, indicating a need for enhanced sponsor interaction."
+    }
+  ]
+  

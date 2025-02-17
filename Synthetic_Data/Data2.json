@@ -1,0 +1,393 @@
+[
+    {
+      "COMPLEX": "As global interest in environmental sustainability rises, corporations are increasingly pressured to adopt green initiatives, although some remain hesitant due to perceived financial drawbacks.",
+      "ELEMENTARY": "Many companies feel they must go green. But they worry it might cost too much.",
+      "SECONDARY": "Companies face growing pressure to become more environmentally friendly, but they fear the costs may be high.",
+      "ADVANCED": "With increased awareness of environmental issues, businesses are adopting eco-friendly measures, though some hesitate due to potential expenses."
+    },
+    {
+      "COMPLEX": "The smartphone's biometric authentication system utilises advanced facial recognition algorithms and infrared scanning to provide a more secure login experience than traditional passwords.",
+      "ELEMENTARY": "The phone uses your face to unlock. It has special sensors to check if it's really you.",
+      "SECONDARY": "The phone uses advanced face scanning to unlock, which is safer than normal passwords.",
+      "ADVANCED": "This mobile device employs facial recognition and infrared sensors for stronger security compared to standard passwords."
+    },
+    {
+      "COMPLEX": "Although the new electric vehicle boasts an impressive range, consumers remain apprehensive about the limited availability of charging infrastructure in rural regions.",
+      "ELEMENTARY": "The new electric car can go far on one charge. But people worry they won't find chargers outside cities.",
+      "SECONDARY": "Even though the electric car has a long range, many buyers are concerned about finding chargers in less populated areas.",
+      "ADVANCED": "The latest electric car offers a long driving range, but drivers worry about the scarcity of charging stations in rural areas."
+    },
+    {
+      "COMPLEX": "Following the implementation of stricter safety protocols, the theme park experienced a noticeable decrease in guest-related incidents, leading to improved public perception.",
+      "ELEMENTARY": "After the park used stronger safety rules, fewer people got hurt. More people trust the park now.",
+      "SECONDARY": "The park saw fewer accidents once new safety measures were put in place, which made visitors feel safer.",
+      "ADVANCED": "Once stricter safety guidelines were introduced, guest mishaps declined and public trust grew."
+    },
+    {
+      "COMPLEX": "Early historical records suggest that trade routes across the Silk Road enabled significant cultural and technological exchange between East and West, catalysing advancements in various fields such as mathematics, medicine, and literature.",
+      "ELEMENTARY": "Long ago, people traveled on the Silk Road. They shared ideas like math and medicine, helping knowledge grow.",
+      "SECONDARY": "Historical evidence shows the Silk Road allowed the sharing of ideas and inventions, boosting progress in math, medicine, and more.",
+      "ADVANCED": "According to early records, Silk Road trade fostered cultural and technical exchanges, advancing fields like mathematics, medicine, and literature."
+    },
+    {
+      "COMPLEX": "Critics contend that the film's depiction of historical events is rife with inaccuracies, thereby undermining its educational potential and sparking debate among scholars.",
+      "ELEMENTARY": "People say the movie got many facts wrong. They think it won't teach viewers correctly.",
+      "SECONDARY": "Some believe the film contains many mistakes about history, which hurts its value for teaching people.",
+      "ADVANCED": "Many argue the film is historically inaccurate, reducing its educational worth and stirring controversy among experts."
+    },
+    {
+      "COMPLEX": "In response to overwhelming customer feedback, the tech giant has decided to reintroduce a physical home button on its newest smartphone model, marking a shift from fully touchscreen designs.",
+      "ELEMENTARY": "Because many people asked, the company is adding a real button to its next phone. They used to only have touch screens.",
+      "SECONDARY": "After many customer requests, the company is bringing back the home button in its new phone, moving away from all-touch designs.",
+      "ADVANCED": "Due to popular demand, the tech firm is reinstating a physical home button in its latest phone, reversing its previous touchscreen-only approach."
+    },
+    {
+      "COMPLEX": "The newly released video game garnered widespread acclaim for its immersive storyline and cutting-edge graphics, although critics noted occasional glitches affecting player experience.",
+      "ELEMENTARY": "The new game has a great story and looks amazing. But sometimes it has small problems.",
+      "SECONDARY": "Players love the game's story and graphics, but reviewers mention some bugs that can disrupt gameplay.",
+      "ADVANCED": "Although praised for its immersive plot and advanced visuals, the game has been criticised for minor technical issues."
+    },
+    {
+      "COMPLEX": "In the middle of revising the annual budget, we discovered unforeseen operational costs that may necessitate significant departmental funding adjustments.",
+      "ELEMENTARY": "While checking the budget, we found costs we didn't plan for. We might have to change how much money each team gets.",
+      "SECONDARY": "As we updated the yearly budget, new expenses appeared, which might lead to big changes in department funds.",
+      "ADVANCED": "During the budget review, unexpected operational expenses emerged, potentially requiring major shifts in department allocations."
+    },
+    {
+      "COMPLEX": "Despite an abundance of favourable online reviews, the restaurant struggled to maintain consistent service quality during peak hours, resulting in customer complaints.",
+      "ELEMENTARY": "Many people wrote good reviews about the restaurant. But when it's busy, service isn't always good, and customers complain.",
+      "SECONDARY": "Even though the restaurant has lots of positive online ratings, it fails to keep up good service when it's very busy.",
+      "ADVANCED": "Although it has numerous high ratings, the eatery encounters service inconsistencies during rush times, drawing customer grievances."
+    },
+    {
+      "COMPLEX": "Examining the data from multiple clinical trials, researchers concluded that the new medication effectively reduces symptom severity while presenting minimal side effects.",
+      "ELEMENTARY": "The new medicine helps patients feel better. It doesn't cause many bad effects.",
+      "SECONDARY": "After studying various trial results, scientists say this medication lowers symptoms and has few side effects.",
+      "ADVANCED": "Data from multiple trials show that the drug lessens symptoms significantly with only minor adverse effects."
+    },
+    {
+      "COMPLEX": "A growing body of scientific literature highlights the importance of early childhood interventions in preventing long-term cognitive and socio-emotional developmental issues.",
+      "ELEMENTARY": "Studies show helping young children early can stop many problems later. This is good for their minds and emotions.",
+      "SECONDARY": "Research shows that giving kids support at a young age can prevent future learning and emotional problems.",
+      "ADVANCED": "Increasing research demonstrates that early childhood programmes are vital for averting long-term cognitive and emotional difficulties."
+    },
+    {
+      "COMPLEX": "To remain competitive amidst evolving consumer preferences, traditional brick-and-mortar retailers have expanded their online presence, offering personalised experiences through virtual catalogues and targeted marketing.",
+      "ELEMENTARY": "Old-style shops now sell online to keep customers happy. They show special ads and let people browse digital lists.",
+      "SECONDARY": "Physical stores are moving online to stay popular, using personalised adverts and online catalogues to attract shoppers.",
+      "ADVANCED": "Classic retail outlets have adapted by launching online platforms with customised product showcases and marketing to meet changing consumer needs."
+    },
+    {
+      "COMPLEX": "In the midst of heated political debates, some policymakers advocate for bipartisan collaboration as the most effective route toward addressing pressing national concerns.",
+      "ELEMENTARY": "While politicians argue, some suggest working together. They think it’s the best way to fix big problems.",
+      "SECONDARY": "During intense political arguments, a few leaders say that cooperation across party lines is crucial for solving urgent issues.",
+      "ADVANCED": "Amid polarised disputes, certain officials urge cross-party efforts as the key to tackling critical national challenges."
+    },
+    {
+      "COMPLEX": "Recent advancements in artificial intelligence have allowed automation of complex tasks, such as clinical data analysis and predictive maintenance in manufacturing, prompting discussions around the future of human labour.",
+      "ELEMENTARY": "AI can now do hard jobs like checking hospital records or fixing machines before they break. People wonder what this means for jobs.",
+      "SECONDARY": "AI technology can handle complicated tasks like medical data analysis and machine upkeep, raising questions about how this affects human employment.",
+      "ADVANCED": "Breakthroughs in AI enable complex processes like clinical data review and predictive maintenance, sparking debates on the future workforce."
+    },
+    {
+      "COMPLEX": "The celebrity chef’s innovative approach to molecular gastronomy has redefined conventional cooking techniques, blending chemistry and culinary arts into a multisensory dining experience.",
+      "ELEMENTARY": "The chef uses science to cook food in new ways. People taste and see something special when they eat it.",
+      "SECONDARY": "By mixing chemical processes with cooking, the famous chef creates an exciting and unique dining experience.",
+      "ADVANCED": "The chef’s pioneering molecular gastronomy methods merge science with cooking, offering an immersive culinary event."
+    },
+    {
+      "COMPLEX": "In light of heightened cybersecurity threats, companies have been urged to adopt robust encryption methods and conduct regular vulnerability assessments to safeguard sensitive data.",
+      "ELEMENTARY": "Because of more hacking dangers, businesses must use strong security and check for weaknesses often. This helps protect information.",
+      "SECONDARY": "With cybersecurity risks on the rise, experts recommend better encryption and frequent security checks to keep data safe.",
+      "ADVANCED": "Amid escalating cyber threats, firms are advised to implement solid encryption and routine security audits for data protection."
+    },
+    {
+      "COMPLEX": "The rising trend of remote education poses both opportunities and challenges, necessitating reliable technology infrastructure as well as innovative teaching methodologies.",
+      "ELEMENTARY": "More people are learning from home now. This is good but also hard, because teachers need new methods and good internet.",
+      "SECONDARY": "Remote education is growing, offering benefits but also requiring strong technology and new ways to teach effectively.",
+      "ADVANCED": "As online learning expands, it brings possibilities and hurdles, demanding dependable tech and creative instructional methods."
+    },
+    {
+      "COMPLEX": "We found the meeting abruptly ended before discussing critical details, leaving the team uncertain about the final project timeline.",
+      "ELEMENTARY": "The meeting stopped too soon. We didn't talk about important dates, so no one knows the schedule.",
+      "SECONDARY": "The meeting ended unexpectedly and key points were not addressed, causing confusion about the project's final timeline.",
+      "ADVANCED": "The session concluded prematurely, omitting crucial topics and creating ambiguity regarding the project’s timetable."
+    },
+    {
+      "COMPLEX": "Despite numerous technological breakthroughs in renewable energy, the global reliance on fossil fuels remains a significant hindrance to achieving carbon neutrality.",
+      "ELEMENTARY": "We have made big steps in clean energy. But people still use a lot of coal and oil, stopping us from cutting carbon fully.",
+      "SECONDARY": "Although we have new technology for green energy, heavy use of fossil fuels continues to block major progress toward carbon neutrality.",
+      "ADVANCED": "Even with advances in renewables, widespread fossil fuel dependency obstructs the path to full carbon neutrality."
+    },
+    {
+      "COMPLEX": "Several travel bloggers assert that immersive cultural experiences, such as homestays and local festivals, offer a richer perspective than conventional resort-based holidays.",
+      "ELEMENTARY": "Some travel writers say staying with local families and joining their festivals is better than going to normal resorts.",
+      "SECONDARY": "Travel experts believe that homestays and participation in community events provide a deeper experience than typical resort vacations.",
+      "ADVANCED": "Many travel enthusiasts suggest that authentic cultural immersions like homestays and local festivals surpass traditional resort trips in depth of experience."
+    },
+    {
+      "COMPLEX": "During the live streaming event, the influencer promoted a variety of sponsored products, which drew criticism from followers who questioned the authenticity of the recommendations.",
+      "ELEMENTARY": "The online star showed many paid products during a live video. Viewers doubted if the star really liked them.",
+      "SECONDARY": "While streaming live, the influencer advertised several brands, prompting fans to doubt the sincerity of the endorsements.",
+      "ADVANCED": "At the live stream, the influencer showcased multiple sponsored items, sparking follower concerns about genuine endorsement."
+    },
+    {
+      "COMPLEX": "Small businesses often rely on word-of-mouth marketing, which, although highly effective, can be unpredictable and difficult to scale compared to digital advertising strategies.",
+      "ELEMENTARY": "Local shops need people to talk about them. This can work well but is hard to control, unlike online ads.",
+      "SECONDARY": "Many small businesses depend on customer referrals, which are powerful but not always consistent or easily expanded.",
+      "ADVANCED": "Though potent, word-of-mouth marketing for small enterprises can be erratic and less scalable than online ad methods."
+    },
+    {
+      "COMPLEX": "Substantial evidence indicates that regularly practising mindfulness exercises can reduce stress levels and improve mental well-being, making it a recommended technique in therapeutic settings.",
+      "ELEMENTARY": "Research shows doing mindfulness often can lower stress. Doctors suggest it to help people feel better.",
+      "SECONDARY": "Studies find that regular mindfulness training helps reduce stress and boost mental health, so many therapists recommend it.",
+      "ADVANCED": "Robust data suggests habitual mindfulness sessions decrease stress and enhance emotional health, prompting its clinical endorsement."
+    },
+    {
+      "COMPLEX": "The new software update provides enhanced functionality for complex data analysis, but users complain about the steep learning curve and inadequate official documentation.",
+      "ELEMENTARY": "The update helps with tough data work. But people say it's hard to learn and not well explained.",
+      "SECONDARY": "While the software now handles complicated data tasks better, users find it difficult to use without proper guides.",
+      "ADVANCED": "Although the update improves complex data handling, many users criticise its high learning barrier and sparse documentation."
+    },
+    {
+      "COMPLEX": "Some medieval manuscripts have yet to be fully translated, leaving historians and linguists to hypothesise about the cultural and political contexts they represent.",
+      "ELEMENTARY": "Many old books haven't been fully understood. Experts guess what they say about past cultures and politics.",
+      "SECONDARY": "Untranslated medieval texts remain, forcing researchers to speculate on the societal and political details they might reveal.",
+      "ADVANCED": "Numerous medieval manuscripts remain only partially decoded, prompting academic conjecture about their cultural and political significance."
+    },
+    {
+      "COMPLEX": "Users frequently abandon the mobile application due to its slow loading times and convoluted interface, underscoring the need for a more intuitive design approach.",
+      "ELEMENTARY": "People stop using the app because it loads slowly and is confusing. A simpler design is needed.",
+      "SECONDARY": "The app’s high drop-off rate is linked to sluggish performance and a tricky interface, highlighting the importance of better design.",
+      "ADVANCED": "Because of lengthy loading and a complex layout, many users leave the app, indicating a pressing need for streamlined design."
+    },
+    {
+      "COMPLEX": "Recent polls show that a growing percentage of the population prioritises access to affordable healthcare over tax reductions, suggesting shifts in public policy preferences.",
+      "ELEMENTARY": "Surveys say more people want cheap healthcare than lower taxes. This might change government plans.",
+      "SECONDARY": "According to new polls, more citizens now value affordable medical services over tax cuts, hinting at changing policy views.",
+      "ADVANCED": "Polls reveal an increasing emphasis on affordable healthcare over tax relief, pointing to evolving preferences in public policy."
+    },
+    {
+      "COMPLEX": "In an effort to boost consumer confidence, the electronics manufacturer extended its warranty period from one to two years, alongside offering complimentary support services.",
+      "ELEMENTARY": "The company made the warranty two years instead of one. They also give free help now.",
+      "SECONDARY": "To reassure buyers, the tech firm doubled its warranty length and added free support features.",
+      "ADVANCED": "To enhance consumer trust, the electronics brand expanded its warranty from one to two years and included free service support."
+    },
+    {
+      "COMPLEX": "Over the course of the archaeological excavation, numerous artefacts were unearthed, illuminating previously unknown aspects of the civilisation's trade networks and spiritual practices.",
+      "ELEMENTARY": "Digs found many old items. They showed new clues about how these people traded and prayed.",
+      "SECONDARY": "Archaeologists discovered artefacts that reveal more about ancient trade routes and religious customs of that culture.",
+      "ADVANCED": "Multiple relics surfaced during the excavation, shedding light on heretofore undiscovered trade connections and religious traditions."
+    },
+    {
+      "COMPLEX": "The social media campaign, which aimed to raise awareness about endangered species, successfully garnered millions of views but failed to translate into increased donations for conservation efforts.",
+      "ELEMENTARY": "A social media drive showed many people how animals are in danger. Lots of views, but not many gave money.",
+      "SECONDARY": "Although the online campaign about endangered animals reached millions, it didn’t significantly boost conservation donations.",
+      "ADVANCED": "Despite extensive reach, the social media push highlighting threatened wildlife fell short of generating additional conservation funding."
+    },
+    {
+      "COMPLEX": "Between words, you might wonder if there's more context needed—like right here—to finish this incomplete thought.",
+      "ELEMENTARY": "You might pause and see you need more words to make the idea clear.",
+      "SECONDARY": "Sometimes, an incomplete thought suggests more detail is required to form a full sentence.",
+      "ADVANCED": "Occasionally, additional context is necessary to complete a partial statement, as exemplified here."
+    },
+    {
+      "COMPLEX": "Supercalifragilisticexpialidocious",
+      "ELEMENTARY": "It's a very long word, sometimes used in fun songs.",
+      "SECONDARY": "This is a playful, lengthy word often linked to a famous musical.",
+      "ADVANCED": "A whimsical term popularised by a classic musical, noted for its extraordinary length and playful nature."
+    },
+    {
+      "COMPLEX": "In mid-sentence without finishing the instructions about the event, we found it hard to proceed with the final arrangements.",
+      "ELEMENTARY": "Because we didn't have the full details, we couldn't finish planning.",
+      "SECONDARY": "We were missing key event details, making it tough to complete the preparations.",
+      "ADVANCED": "Lacking the complete event instructions impeded us from finalising the arrangements."
+    },
+    {
+      "COMPLEX": "The packaging design underwent multiple revisions to comply with international shipping regulations and to appeal to diverse consumer preferences.",
+      "ELEMENTARY": "They changed the box design many times to meet rules and make customers happy.",
+      "SECONDARY": "The product’s packaging was updated repeatedly to follow global shipping rules and satisfy varied tastes.",
+      "ADVANCED": "Multiple iterations of the packaging were made to align with shipping standards and resonate with a broad audience."
+    },
+    {
+      "COMPLEX": "Because many travellers prioritise budget-friendly options, the tourism industry has developed package deals that combine accommodation, flights, and curated activities at discounted rates.",
+      "ELEMENTARY": "People want cheap travel. So, companies offer bundles with flights, hotels, and fun things for less money.",
+      "SECONDARY": "As most tourists look for affordable deals, travel firms bundle hotels, flights, and activities at a lower cost.",
+      "ADVANCED": "Responding to price-conscious travellers, the industry provides discounted packages covering lodging, airfare, and selected experiences."
+    },
+    {
+      "COMPLEX": "A collaborative study between two universities revealed that moderate exercise, combined with a balanced diet, significantly improved cognitive function in adults over 50.",
+      "ELEMENTARY": "Researchers found older people think better if they work out and eat well.",
+      "SECONDARY": "Joint university research shows that regular exercise plus healthy eating greatly boosts brain performance in those over 50.",
+      "ADVANCED": "A bi-institutional study found that moderate workouts and a wholesome diet markedly enhanced cognition among people above 50."
+    },
+    {
+      "COMPLEX": "When evaluating new market entry strategies, entrepreneurs must carefully assess potential regulatory barriers, consumer demand, and operational costs to determine viability.",
+      "ELEMENTARY": "Business owners need to check rules, see if people will buy, and count costs before entering a new market.",
+      "SECONDARY": "Entrepreneurs should examine laws, market demand, and expenses to decide if a new market is worth pursuing.",
+      "ADVANCED": "Aspiring market entrants should scrutinise regulations, demand, and cost factors to gauge strategic feasibility."
+    },
+    {
+      "COMPLEX": "Despite advanced forecasting models, meteorologists occasionally struggle to predict sudden microclimate shifts, leading to inaccuracies in local weather reports.",
+      "ELEMENTARY": "Even with new tools, weather experts can be wrong about quick changes in small areas.",
+      "SECONDARY": "Weather forecasters, though aided by modern models, sometimes miss abrupt microclimate changes, causing wrong local forecasts.",
+      "ADVANCED": "Meteorologists, armed with sophisticated models, still face challenges predicting abrupt microclimatic changes, resulting in occasional report errors."
+    },
+    {
+      "COMPLEX": "Some scientific communities debate the ethical implications of gene editing technologies, particularly concerning the long-term effects on human evolution and biodiversity.",
+      "ELEMENTARY": "Scientists argue about using gene editing. They worry how it may change people and nature in the future.",
+      "SECONDARY": "Experts discuss the moral concerns of gene editing, especially about its future impact on humanity and the planet.",
+      "ADVANCED": "Researchers dispute the ethical ramifications of gene editing, focusing on potential enduring impacts on human evolution and ecological diversity."
+    },
+    {
+      "COMPLEX": "When filming commenced for the historic drama, the producers insisted on authenticity, sourcing genuine period costumes and consulting expert historians.",
+      "ELEMENTARY": "The producers wanted the show to be real. They used real old clothes and asked historians for advice.",
+      "SECONDARY": "To keep the drama accurate, they used actual vintage clothing and spoke to historians during filming.",
+      "ADVANCED": "Production began under strict authenticity guidelines, featuring genuine era garments and historian input for historical precision."
+    },
+    {
+      "COMPLEX": "Entrepreneurs launching subscription-based services must balance the frequency of billing cycles with the perceived value offered, ensuring that customers remain engaged and satisfied over time.",
+      "ELEMENTARY": "New businesses that charge monthly or yearly need to give enough value so people keep paying.",
+      "SECONDARY": "Those starting subscription services should match billing schedules with clear benefits to keep customers loyal.",
+      "ADVANCED": "In subscription ventures, determining billing frequency that aligns with customer value is crucial for sustained engagement."
+    },
+    {
+      "COMPLEX": "The introduction of universal basic income schemes has sparked debates around their potential impact on work incentives, economic inequality, and government spending priorities.",
+      "ELEMENTARY": "Some places want to give everyone a set amount of money. People argue about whether this helps or hurts.",
+      "SECONDARY": "Proposals for universal basic income have caused discussion about effects on jobs, wealth gaps, and government budgets.",
+      "ADVANCED": "Universal basic income trials provoke dialogue on possible influences on labour incentives, socioeconomic disparities, and public funding."
+    },
+    {
+      "COMPLEX": "While the camera excels at capturing high-resolution images, its battery life proves insufficient for extended outdoor shoots, forcing photographers to rely on external power sources.",
+      "ELEMENTARY": "The camera takes sharp pictures, but the battery doesn't last long outside. People need extra power packs.",
+      "SECONDARY": "Although it produces great photos, the camera’s weak battery life requires users to carry backup power when shooting outdoors.",
+      "ADVANCED": "Its superior image quality is offset by limited battery capacity, compelling outdoor photographers to use supplementary power options."
+    },
+    {
+      "COMPLEX": "The newly built sports complex features state-of-the-art facilities, including an Olympic-sized pool, indoor track, and multi-use courts, positioning the city as a regional athletics hub.",
+      "ELEMENTARY": "The new sports centre has a huge pool, indoor track, and courts. It makes the city stand out for sports.",
+      "SECONDARY": "Equipped with an Olympic pool, indoor track, and versatile courts, the complex helps the city become a key sports destination.",
+      "ADVANCED": "Boasting an Olympic pool, indoor track, and flexible courts, the new complex places the city at the forefront of regional athletics."
+    },
+    {
+      "COMPLEX": "Due to the ongoing climate crisis, scientists emphasise the urgency of implementing large-scale reforestation projects, alongside strict emissions control, to mitigate global warming.",
+      "ELEMENTARY": "Because our climate is in danger, experts say we must plant more trees and cut pollution fast.",
+      "SECONDARY": "With the planet warming, scientists stress planting forests on a big scale and reducing emissions right away.",
+      "ADVANCED": "Amid the climate emergency, researchers call for massive tree planting and stringent emission reductions to curb global warming."
+    },
+    {
+      "COMPLEX": "Halfway through the conversation about the new platform update, we realised the instructions for advanced user settings were incomplete and potentially confusing.",
+      "ELEMENTARY": "We noticed that important details about advanced settings weren't clear. This could confuse users.",
+      "SECONDARY": "During the discussion, it became clear that the advanced settings section lacked full instructions, causing possible confusion.",
+      "ADVANCED": "Mid-discussion, we discovered the advanced settings guidelines were insufficient, likely generating user confusion."
+    },
+    {
+      "COMPLEX": "This browser extension",
+      "ELEMENTARY": "It's an add-on. It does more tasks for your browser.",
+      "SECONDARY": "A browser add-on that extends functionality or offers new features.",
+      "ADVANCED": "An optional plugin designed to enhance and broaden the browser’s capabilities."
+    },
+    {
+      "COMPLEX": "A critical review of the latest smartphone suggests its cutting-edge camera module is overshadowed by persistent software bugs and mediocre battery performance.",
+      "ELEMENTARY": "Experts say the phone's camera is great, but software problems and weak battery spoil it.",
+      "SECONDARY": "Reviewers acknowledge the phone’s excellent camera but criticise its bugs and short battery life.",
+      "ADVANCED": "Despite its advanced camera system, the phone is compromised by ongoing software glitches and subpar battery longevity."
+    },
+    {
+      "COMPLEX": "The local council introduced a pilot recycling programme, aiming to reduce landfill waste and educate residents on proper sorting practices, with plans to expand citywide if successful.",
+      "ELEMENTARY": "The council started a small test for better recycling. They teach people how to sort trash. If it works, they'll do it everywhere.",
+      "SECONDARY": "City officials launched a trial recycling project to cut landfill use and train people in correct sorting, hoping to spread it across town.",
+      "ADVANCED": "A pilot recycling scheme was enacted by the council to lower landfill usage and instruct residents on sorting, with potential citywide expansion."
+    },
+    {
+      "COMPLEX": "Despite assurances from the product manufacturer, many consumers reported that the new waterproof jacket failed to repel water during heavy rain conditions.",
+      "ELEMENTARY": "The company said the jacket was waterproof, but users found it leaked when it rained hard.",
+      "SECONDARY": "Although advertised as waterproof, the jacket didn't keep people dry in strong downpours, according to many complaints.",
+      "ADVANCED": "Contrary to the manufacturer's claims, numerous buyers experienced water infiltration in the jacket under heavy rainfall."
+    },
+    {
+      "COMPLEX": "In order to enhance public transport efficiency, the city plans to digitise ticketing systems, introduce real-time arrival tracking, and upgrade older bus fleets with eco-friendly models.",
+      "ELEMENTARY": "To make buses and trains better, the city will use digital tickets, live updates, and newer green buses.",
+      "SECONDARY": "The city aims to improve public transport by creating digital tickets, adding live arrivals, and replacing older buses with greener ones.",
+      "ADVANCED": "To boost transit efficiency, officials will launch digital ticketing, real-time vehicle tracking, and eco-updates to legacy bus fleets."
+    },
+    {
+      "COMPLEX": "Growing international collaborations in space exploration underscore humanity’s collective aspiration to reach beyond Earth, with planned missions to both the Moon and Mars.",
+      "ELEMENTARY": "Countries are working together to explore space. They want to go back to the Moon and even reach Mars.",
+      "SECONDARY": "Many nations are teaming up for space missions, including plans for the Moon and Mars, reflecting a shared cosmic goal.",
+      "ADVANCED": "Increasing global cooperation in space programmes reflects a shared ambition for lunar and Martian exploration."
+    },
+    {
+      "COMPLEX": "During the design phase, architects struggled to integrate modern energy-saving technologies into the historic building without compromising its original aesthetic.",
+      "ELEMENTARY": "The architects had trouble adding new energy features to the old building while keeping its classic look.",
+      "SECONDARY": "Architects found it challenging to fit energy-efficient tech into the historic structure without ruining its original style.",
+      "ADVANCED": "Incorporating cutting-edge energy solutions into the heritage edifice proved difficult for architects intent on preserving its classical appearance."
+    },
+    {
+      "COMPLEX": "The music streaming platform not only offers curated playlists based on user preferences but also employs machine learning to recommend emerging artists tailored to individual tastes.",
+      "ELEMENTARY": "This music app picks songs you might like and shows you new artists you may enjoy.",
+      "SECONDARY": "By using machine learning, the platform suggests new musicians while building playlists around each listener’s preferences.",
+      "ADVANCED": "Beyond curated playlists, the streaming service utilises advanced algorithms to highlight upcoming artists aligned with personal tastes."
+    },
+    {
+      "COMPLEX": "Due to an overwhelming response on social media, pre-orders for the limited-edition sneakers sold out within minutes, prompting discussions about sneaker culture and market hype.",
+      "ELEMENTARY": "Many people bought the rare shoes fast. Now everyone is talking about why these shoes are so popular.",
+      "SECONDARY": "The special sneakers sold out quickly online, igniting debate about the hype-driven nature of sneaker collecting.",
+      "ADVANCED": "Spurred by intense social media buzz, the limited-run footwear sold out in moments, fuelling talk about sneaker hype culture."
+    },
+    {
+      "COMPLEX": "Experts anticipate that quantum computing breakthroughs may revolutionise industries from cryptography to pharmaceutical development, while also raising concerns about data security.",
+      "ELEMENTARY": "Scientists think quantum computers will change many fields, like code-making and drug design. But they're worried about data safety.",
+      "SECONDARY": "Quantum computing could transform encryption and drug creation, though some worry about security risks.",
+      "ADVANCED": "Prospective advances in quantum computing could reshape cryptography and pharmaceuticals, albeit with implications for data protection."
+    },
+    {
+      "COMPLEX": "In the middle of your text, if you want to simplify something unclear, it might help to rewrite it in plainer language before continuing.",
+      "ELEMENTARY": "To make unclear words simple, rewrite them so they are easy to read, then keep going.",
+      "SECONDARY": "When you encounter confusing parts, rewrite them in simpler words before you proceed with your document.",
+      "ADVANCED": "Amid unclear phrases, consider rephrasing them in straightforward terms, then move forward with your text."
+    },
+    {
+      "COMPLEX": "Despite higher production costs, the organic skincare brand insists on using ethically sourced ingredients, reinforcing its commitment to sustainability and fair trade practices.",
+      "ELEMENTARY": "This eco-friendly brand pays more to use fair and natural items. They want to stay green and honest.",
+      "SECONDARY": "Although it’s more expensive, the skincare company uses ethically obtained ingredients to stay true to its sustainable values.",
+      "ADVANCED": "Though production expenses are elevated, the brand remains dedicated to responsibly harvested materials, reflecting its sustainable ethos and fair trade stance."
+    },
+    {
+      "COMPLEX": "The symposium on artificial neural networks delved into advanced topics like deep reinforcement learning, generative models, and cross-domain transferability, highlighting emerging research directions.",
+      "ELEMENTARY": "Experts talked about new AI ideas, including teaching computers with rewards and creating new data models.",
+      "SECONDARY": "The AI conference covered deep reinforcement learning, generative approaches, and how to use them in different areas, showing new trends.",
+      "ADVANCED": "Discussions at the neural networks event encompassed deep reinforcement frameworks, generative methodologies, and multi-domain adaptability, showcasing cutting-edge research."
+    },
+    {
+      "COMPLEX": "Because daily water intake recommendations vary based on factors like age, activity level, and climate, health professionals advise personalised hydration plans rather than one-size-fits-all guidelines.",
+      "ELEMENTARY": "How much water you need changes with your age, how active you are, and the weather. Doctors say you should drink what suits you personally.",
+      "SECONDARY": "Water needs depend on age, exercise, and weather, so experts suggest custom hydration plans instead of a universal rule.",
+      "ADVANCED": "Given the dependency of water requirements on factors like age, activity, and environment, clinicians recommend tailored hydration strategies."
+    },
+    {
+      "COMPLEX": "The crowd-sourced funding platform, renowned for supporting creative endeavours, often sees tech innovators leveraging its global audience to secure capital for prototype development.",
+      "ELEMENTARY": "A website lets the public give money to new ideas. Tech people use it to fund their first product versions.",
+      "SECONDARY": "Well-known for aiding artistic projects, the platform also helps technology creators gather money to build initial prototypes.",
+      "ADVANCED": "Famous for backing artistic pursuits, the crowdfunding site is likewise utilised by tech startups to raise prototype funding from a worldwide audience."
+    },
+    {
+      "COMPLEX": "In addition to extensive customisation features, the blogging platform provides integration with major social networks, enabling seamless content sharing and audience engagement.",
+      "ELEMENTARY": "The blog site lets you change many things. It also connects to popular social apps so more people can see your posts.",
+      "SECONDARY": "Along with wide-ranging custom options, the blogging service links to social networks for easy sharing and interaction.",
+      "ADVANCED": "Beyond significant customisation tools, the platform integrates with top social channels, facilitating effortless content distribution and engagement."
+    },
+    {
+      "COMPLEX": "Shortly before we concluded the negotiation, the client requested a comprehensive breakdown of costs that encompassed not only direct materials but also associated overhead expenses.",
+      "ELEMENTARY": "Right before we finished talking, the customer wanted a full list of all costs, including hidden ones.",
+      "SECONDARY": "Just before the deal closed, the client asked for a detailed cost outline covering materials and overheads.",
+      "ADVANCED": "Prior to finalising negotiations, the client sought an exhaustive cost analysis, factoring in both direct materials and overheads."
+    },
+    {
+      "COMPLEX": "During the peak holiday season, flights and accommodations become notoriously expensive, making early booking essential to secure reasonable rates and availability.",
+      "ELEMENTARY": "Travel costs go up a lot during holidays. So, book early to save money and get a spot.",
+      "SECONDARY": "Over holidays, flights and hotels get very pricey, so planning early helps you find fair prices and open rooms.",
+      "ADVANCED": "High-season travel sees soaring flight and hotel costs, rendering early reservations critical for both affordability and vacancies."
+    }
+  ]
+  

@@ -1,0 +1,62 @@
+[
+    {
+        "COMPLEX": "The increasing reliance on cloud computing services has allowed businesses to scale their operations more efficiently, but also raises concerns regarding data security and privacy.",
+        "ELEMENTARY": "More businesses are using cloud computers to work better. But this can make it harder to keep data safe.",
+        "SECONDARY": "Many businesses now use cloud computing to work faster and more efficiently, but this can also create problems with keeping data secure.",
+        "ADVANCED": "While cloud computing has made it easier for businesses to grow, it has also created concerns about data privacy and security."
+    },
+    {
+        "COMPLEX": "Despite the rapid advancement of artificial intelligence technologies, ethical concerns about their use in decision-making processes remain a critical issue for lawmakers and experts alike.",
+        "ELEMENTARY": "AI is getting better fast. But people worry about it being used to make important choices without humans.",
+        "SECONDARY": "AI is improving quickly, but many experts and lawmakers worry about its role in making decisions that affect people’s lives.",
+        "ADVANCED": "While AI technologies are advancing rapidly, there are still serious concerns about their ethical use, especially in decision-making roles."
+    },
+    {
+        "COMPLEX": "With the increasing popularity of remote work, many companies are adopting hybrid models that blend in-person and virtual office environments to offer employees more flexibility and work-life balance.",
+        "ELEMENTARY": "More people are working from home now. Some companies let workers do both, working at home and in the office.",
+        "SECONDARY": "As more people work from home, many companies are allowing employees to work both in the office and from home to make work-life balance easier.",
+        "ADVANCED": "With the rise of remote work, many businesses are implementing hybrid models, combining in-office and virtual work to provide better flexibility for their employees."
+    },
+    {
+        "COMPLEX": "The COVID-19 pandemic has drastically altered global travel patterns, with restrictions, health concerns, and shifting consumer behaviors contributing to a significant downturn in the tourism industry.",
+        "ELEMENTARY": "The pandemic changed how people travel. There are more rules and many people are afraid to travel.",
+        "SECONDARY": "The COVID-19 pandemic caused a big drop in travel. Rules, health worries, and changing habits stopped many people from traveling.",
+        "ADVANCED": "The global travel industry was hit hard by the COVID-19 pandemic, with travel restrictions, health concerns, and changes in how people travel leading to a sharp decline in tourism."
+    },
+    {
+        "COMPLEX": "As global awareness of climate change grows, governments and corporations are facing increasing pressure to adopt sustainable practices that minimize their environmental impact while maintaining profitability.",
+        "ELEMENTARY": "More people know about climate change. Governments and companies need to do better for the planet and still make money.",
+        "SECONDARY": "As more people become aware of climate change, governments and businesses are under pressure to protect the environment without hurting their profits.",
+        "ADVANCED": "With rising global awareness of climate change, both governments and corporations are being urged to implement sustainable practices that reduce their environmental footprint while preserving profitability."
+    },
+    {
+        "COMPLEX": "While many experts agree that regular exercise is crucial for maintaining good health, some argue that the recommended levels of physical activity are unrealistic and difficult for the average person to achieve.",
+        "ELEMENTARY": "Experts say exercise is good for you. But some think it's too hard to exercise as much as we are told to.",
+        "SECONDARY": "Most experts agree that exercise is important for staying healthy, but some people believe the recommended amount is too hard for many to do.",
+        "ADVANCED": "Although exercise is widely recognized as essential for health, some experts believe the recommended activity levels are too challenging for the average person."
+    },
+    {
+        "COMPLEX": "The rapid development of 5G technology promises to revolutionize industries by enabling faster communication speeds, but its widespread deployment also raises concerns about potential health risks and the environmental impact of new infrastructure.",
+        "ELEMENTARY": "5G will make phones work faster. But some people worry it could be bad for health or the environment.",
+        "SECONDARY": "5G technology will make phones and other devices faster, but many worry it could harm health or the environment because of new towers and equipment.",
+        "ADVANCED": "While 5G technology promises faster speeds and improved communication, there are growing concerns about its potential health risks and the environmental impact of the necessary infrastructure."
+    },
+    {
+        "COMPLEX": "Although online learning platforms have gained popularity in recent years, critics argue that they lack the personal interaction and hands-on experiences that are essential for a comprehensive education.",
+        "ELEMENTARY": "Online classes are popular, but some people think they don’t give students enough chances to talk to teachers or learn by doing.",
+        "SECONDARY": "While many people now use online learning, some critics say it’s not as good as regular classes because it doesn’t offer enough personal help or real-life experiences.",
+        "ADVANCED": "Online education has become more popular, but critics argue it cannot replace the personal interaction and hands-on learning that are essential for a well-rounded education."
+    },
+    {
+        "COMPLEX": "The ongoing debate over net neutrality centers around whether internet service providers should be allowed to control access to certain websites and services, potentially creating a tiered internet experience for users.",
+        "ELEMENTARY": "People argue about whether internet companies should control what websites we see. Some think it could make the internet unfair.",
+        "SECONDARY": "There is a debate over whether internet providers should be able to control what websites people can access, which could make the internet different for each person.",
+        "ADVANCED": "The net neutrality debate focuses on whether internet service providers should have the power to control access to certain websites and services, potentially creating an unequal experience for users."
+    },
+    {
+        "COMPLEX": "The increasing use of social media platforms for marketing and advertising has transformed traditional advertising methods, with brands relying more on influencers and targeted ads to reach specific audiences.",
+        "ELEMENTARY": "More companies are using social media to advertise. They work with famous people and show ads to the right groups of people.",
+        "SECONDARY": "Companies are now using social media to sell their products, relying on influencers and targeted ads to reach people who are most likely to buy.",
+        "ADVANCED": "Social media has changed how companies advertise, with brands now turning to influencers and targeted ads to reach specific groups of consumers."
+    }
+]

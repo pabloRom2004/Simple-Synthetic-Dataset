@@ -1,0 +1,69 @@
+<LEVEL_ADVANCED> Any time back pain or another form of chronic pain is present, both the pain and the sleep problems should be treated simultaneously, as pain can lead to sleep problems and vice versa.
+<LEVEL_ADVANCED> While the open-source community initially embraced the project's transparency, ongoing disputes over version control and feature prioritisation strained developer relationships.
+<LEVEL_ADVANCED> While the charity marathon generated substantial publicity, the final donation totals fell short of organisers’ expectations, revealing a potential need for better sponsor engagement.
+<LEVEL_SECONDARY> Online forums can quickly amplify misinformation, but they also serve as hubs where accurate information can spread to counter false claims.
+<LEVEL_SECONDARY> Bellicose
+<LEVEL_ELEMENTARY> Astronomy enthusiasts eagerly awaited the celestial event, a rare planetary alignment, which was visible for only a few hours before dawn.
+<LEVEL_ADVANCED> On December 8, 2007, Dorough married his longtime girlfriend Leigh Boniello in a traditional Roman Catholic ceremony.
+<LEVEL_ADVANCED> The comedic style of modern sitcoms often hinges on situational irony, fast-paced dialogue, and culturally relevant punchlines.
+<LEVEL_SECONDARY> Fort Ouiatenon, dating from the French period, was originally constructed by the French government as a military outpost to protect against Great Britain's western expansion.
+<LEVEL_ELEMENTARY> The packaging design underwent multiple revisions to comply with international shipping regulations and to appeal to diverse consumer preferences.
+<LEVEL_SECONDARY> In a bid to foster gender equality, the corporation launched a mentorship initiative, although some critics argued it lacked clear metrics for success.
+<LEVEL_ELEMENTARY> Some medieval manuscripts have yet to be fully translated, leaving historians and linguists to hypothesise about the cultural and political contexts they represent.
+<LEVEL_SECONDARY> After analyzing user feedback, the developer adjusted the interface color scheme, made the buttons larger, and added clearer tooltips.
+<LEVEL_ELEMENTARY> Exonerate
+<LEVEL_ADVANCED> Historic trading ports, once bustling commerce centers, are now cultural heritage sites that attract scholars and tourists alike.
+<LEVEL_ADVANCED> Acrimonious
+<LEVEL_ELEMENTARY> The philanthropic foundation invests in educational initiatives, underwriting scholarships and funding school infrastructure improvements in under-resourced communities.
+<LEVEL_ADVANCED> Despite the progress made in renewable energy adoption, fossil fuels continue to dominate global energy consumption, presenting a significant challenge to achieving long-term sustainability goals.
+<LEVEL_SECONDARY> Extensive renovations at the historic theater preserved its architectural integrity while incorporating modern sound and lighting systems.
+<LEVEL_ELEMENTARY> the marketing brief for the upcoming product launch mentioned social media outreach but omitted any strategy for influencer partnerships.
+<LEVEL_SECONDARY> Although online learning platforms have gained popularity in recent years, critics argue that they lack the personal interaction and hands-on experiences that are essential for a comprehensive education.
+<LEVEL_ELEMENTARY> The cleaning tutorial was concise, but it skipped key details about safely handling harsh chemicals, leaving some viewers unsure about correct procedures.
+<LEVEL_ELEMENTARY> Continuous integration practices in software engineering automate testing and deployment, enhancing code quality and speeding up release cycles.
+<LEVEL_SECONDARY> In 1937, Shannon went on to write a master's thesis at the Massachusetts Institute of Technology, in which he showed how Boolean algebra could optimize the design of electromechanical relay systems, then used in telephone routing switches.
+<LEVEL_SECONDARY> Corporate social responsibility initiatives can boost a company’s public image, but critics argue that some campaigns are merely superficial attempts at reputation management.
+<LEVEL_ADVANCED> A few words about the event remain unclear, especially how the scheduling conflicts and venue changes will be resolved in the final plan.
+<LEVEL_SECONDARY> The debate over universal basic income highlights differing economic philosophies, with proponents claiming it reduces poverty and detractors warning of inflationary risks.
+<LEVEL_ADVANCED> After receiving numerous accolades for her academic research, she decided to pursue a doctoral degree focusing on advanced neuroscience applications.
+<LEVEL_ELEMENTARY> Supercilious
+<LEVEL_ELEMENTARY> The rising trend of remote education poses both opportunities and challenges, necessitating reliable technology infrastructure as well as innovative teaching methodologies.
+<LEVEL_ELEMENTARY> The broader adoption of remote work has prompted employers to rethink performance metrics, emphasizing outcomes over physical presence in the workplace.
+<LEVEL_ADVANCED> Online brand communities thrive when members share user-generated content, fostering loyalty and continuous engagement with the brand’s products.
+<LEVEL_ELEMENTARY> Climate change models indicate that coastal urban centers are particularly susceptible to rising sea levels, necessitating significant investment in flood defenses.
+<LEVEL_SECONDARY> Gene editing breakthroughs like CRISPR-Cas9 have sparked ethical discussions around designer babies, genetic privacy, and the potential for unintended consequences.
+<LEVEL_ELEMENTARY> Although not as rare in the symphonic literature as sharper keys, examples of symphonies in A major are not as numerous as for D major or G major.
+<LEVEL_ELEMENTARY> Despite ample funding for product development, the startup failed to establish a robust distribution network, hindering its market penetration.
+<LEVEL_ADVANCED> High-altitude training camps are used by elite athletes to increase red blood cell count, enhancing endurance and overall performance in competitions.
+<LEVEL_SECONDARY> A community group formed to teach basic computer literacy to senior citizens, ensuring they can navigate online services and remain connected socially.
+<LEVEL_SECONDARY> Despite the strong market demand for electric vehicles, the widespread adoption of these vehicles is hindered by factors such as high production costs and the limited availability of charging infrastructure.
+<LEVEL_ADVANCED> Acquiring fluency in a second language can improve cognitive flexibility, enhance career prospects, and enrich travel experiences.
+<LEVEL_SECONDARY> the blueprint for the new healthcare centre emphasised modular construction techniques, yet local contractors lacked familiarity with these modern methods.
+<LEVEL_SECONDARY> The rapid development of 5G networks is set to revolutionise communication by providing faster internet speeds, enabling the growth of the Internet of Things (IoT), and improving overall connectivity.
+<LEVEL_ELEMENTARY> The unexpected cancellation of the tech conference prompted numerous startups to seek alternative venues to showcase their innovations.
+<LEVEL_ADVANCED> An interactive map of local hiking trails includes difficulty levels, scenic highlights, and estimated completion times for each route.
+<LEVEL_ELEMENTARY> Telemedicine has gained popularity due to its ability to offer remote consultations, increasing access to healthcare in underserved areas while reducing patient wait times.
+<LEVEL_ELEMENTARY> Social enterprises bridge the gap between for-profit ventures and charitable organizations, reinvesting profits into community-focused initiatives.
+<LEVEL_ELEMENTARY> Bureaucracy
+<LEVEL_SECONDARY> A newly patented technique in renewable energy storage uses chemical processes to capture and release electricity on demand.
+<LEVEL_ELEMENTARY> Conservation photography has emerged as a powerful medium to raise public awareness about threatened ecosystems and endangered species.
+<LEVEL_ADVANCED> The marketing team used split testing to determine which headline generated the highest click-through rate, ultimately boosting overall conversions.
+<LEVEL_ELEMENTARY> The gender identities one may identify as include male, female, both, somewhere in between ("third gender"), or neither.
+<LEVEL_ELEMENTARY> The newly proposed curriculum aims to integrate practical problem-solving exercises into theoretical lessons to enhance students’ critical thinking skills.
+<LEVEL_SECONDARY> Fortuitous
+<LEVEL_SECONDARY> Researchers at the polar station have detected anomalous shifts in ice shelf thickness, which could herald significant climatic transformations.
+<LEVEL_SECONDARY> Crowdfunding platforms enable small-scale entrepreneurs to launch innovative products by pooling financial support from interested consumers globally.
+<LEVEL_ELEMENTARY> Local farmers organized a farmers’ market cooperative, ensuring fair prices for producers and direct access to organic produce for consumers.
+<LEVEL_ADVANCED> Peer-to-peer lending platforms match borrowers with individual investors, bypassing traditional banks but posing unique regulatory and default risks.
+<LEVEL_SECONDARY> Cultural anthropologists are documenting the linguistic shifts occurring among diaspora communities, where the younger generation often fuses elements of multiple languages.
+<LEVEL_ELEMENTARY> The urban planning department’s new proposal emphasizes mixed-use development, integrating residential spaces with commercial and recreational facilities in walkable neighborhoods.
+<LEVEL_ELEMENTARY> Online learning forums encourage peer collaboration, where students help each other solve complex academic problems and clarify theoretical concepts.
+<LEVEL_ADVANCED> A critical review of the latest smartphone suggests its cutting-edge camera module is overshadowed by persistent software bugs and mediocre battery performance.
+<LEVEL_ELEMENTARY> At the intersection of art and technology, interactive digital installations allow viewers to manipulate visuals and sounds in real time.
+<LEVEL_SECONDARY> Concise
+<LEVEL_ELEMENTARY> Natural disasters, such as wildfires and hurricanes, necessitate efficient emergency preparedness strategies, particularly in high-risk regions.
+<LEVEL_ELEMENTARY> Werner Krämer (23 January 1940 – 12 February 2010) was a German football player, who is a household name to the West German football audience under his nickname Eia Krämer. He was born in Duisburg, Germany.
+<LEVEL_ADVANCED> The advent of open-source software has democratized technology, providing innovators worldwide with tools and platforms previously limited to well-funded institutions.
+<LEVEL_SECONDARY> New research into biodegradable plastics suggests that while they break down more readily than traditional polymers, they still require proper disposal conditions to avoid environmental harm.
+<LEVEL_ELEMENTARY> in the second half of the presentation, the speaker unveiled a major update that would drastically alter the user interface design philosophy.
+<LEVEL_ELEMENTARY> The municipalities of Guttet and Feschel were combined on 1 October 2000.

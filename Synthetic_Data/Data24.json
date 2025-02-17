@@ -1,0 +1,92 @@
+[
+    {
+        "COMPLEX": "Artificial intelligence is being increasingly integrated into everyday life, from virtual assistants in smartphones to advanced machine learning algorithms in self-driving cars.",
+        "ELEMENTARY": "AI is being used more every day. You can find it in phones and even in cars that drive themselves.",
+        "SECONDARY": "AI is now used in many things, like smartphones with virtual assistants and in cars that can drive themselves.",
+        "ADVANCED": "Artificial intelligence is becoming more common, found in everything from virtual assistants on smartphones to sophisticated machine learning systems in self-driving vehicles."
+    },
+    {
+        "COMPLEX": "As the global population continues to rise, urbanisation is increasing, leading to the rapid expansion of cities and placing additional pressure on infrastructure and natural resources.",
+        "ELEMENTARY": "More people are living in cities. This puts pressure on buildings and resources like water and energy.",
+        "SECONDARY": "As more people move to cities, urban areas are growing quickly. This creates challenges for infrastructure and natural resources.",
+        "ADVANCED": "With the increasing global population, urbanisation is expanding rapidly, placing greater strain on infrastructure and natural resources."
+    },
+    {
+        "COMPLEX": "The advent of renewable energy technologies, such as solar and wind power, has prompted a global shift towards more sustainable energy sources, reducing dependency on fossil fuels.",
+        "ELEMENTARY": "New energy sources like wind and solar power are helping reduce the need for fossil fuels.",
+        "SECONDARY": "Renewable energy sources like solar and wind power are becoming more popular, helping reduce the use of fossil fuels.",
+        "ADVANCED": "The rise of renewable energy technologies, including solar and wind power, is driving a global transition to more sustainable energy, decreasing reliance on fossil fuels."
+    },
+    {
+        "COMPLEX": "The increasing reliance on digital platforms for communication and commerce has raised concerns about data privacy, as personal information is often shared across multiple online services.",
+        "ELEMENTARY": "People use the internet for talking and shopping. This can be dangerous for privacy because many websites share personal details.",
+        "SECONDARY": "As people use the internet more for communication and shopping, there are growing concerns about data privacy and sharing personal information.",
+        "ADVANCED": "With the growing use of digital platforms for communication and commerce, there are rising concerns about data privacy due to the widespread sharing of personal information across various online services."
+    },
+    {
+        "COMPLEX": "While online platforms have democratized access to information, they also present significant challenges, such as the spread of misinformation and the difficulty of verifying sources.",
+        "ELEMENTARY": "The internet helps everyone find information, but it also makes it hard to know if things are true.",
+        "SECONDARY": "The internet gives everyone access to information, but it can also spread lies and make it hard to check if sources are reliable.",
+        "ADVANCED": "Online platforms have made information more accessible to everyone, but they also present challenges like the spread of misinformation and difficulties in verifying the reliability of sources."
+    },
+    {
+        "COMPLEX": "Advances in biotechnology are enabling significant progress in medical treatments, from gene therapy to personalised medicine, offering new hope for previously untreatable conditions.",
+        "ELEMENTARY": "Biotech is helping create better medical treatments, like gene therapy and medicine that fits each person.",
+        "SECONDARY": "Biotech is improving medicine, with things like gene therapy and treatments that are made just for each person.",
+        "ADVANCED": "Advances in biotechnology are leading to breakthroughs in medical treatments, such as gene therapy and personalised medicine, offering hope for conditions once considered untreatable."
+    },
+    {
+        "COMPLEX": "The rapid development of 5G networks is set to revolutionise communication by providing faster internet speeds, enabling the growth of the Internet of Things (IoT), and improving overall connectivity.",
+        "ELEMENTARY": "5G networks will make the internet faster and help devices talk to each other better.",
+        "SECONDARY": "5G technology will provide faster internet speeds, helping devices work together and improving connectivity.",
+        "ADVANCED": "The development of 5G networks will transform communication by offering faster internet speeds, supporting the growth of the Internet of Things (IoT), and enhancing connectivity."
+    },
+    {
+        "COMPLEX": "The increasing frequency and severity of natural disasters, such as hurricanes and wildfires, are attributed to climate change, prompting urgent calls for action to address global environmental challenges.",
+        "ELEMENTARY": "More natural disasters are happening, like big storms and fires. Climate change is making this worse.",
+        "SECONDARY": "Natural disasters like storms and wildfires are becoming more common because of climate change. People are calling for action to stop it.",
+        "ADVANCED": "The increasing occurrence of natural disasters, such as hurricanes and wildfires, is linked to climate change, leading to urgent calls for action to combat global environmental issues."
+    },
+    {
+        "COMPLEX": "The increasing popularity of online shopping has fundamentally changed the retail industry, prompting businesses to adapt by enhancing their digital presence and offering more convenient delivery options.",
+        "ELEMENTARY": "More people are shopping online. Stores are changing by improving their websites and delivery choices.",
+        "SECONDARY": "Online shopping is growing fast, and stores are changing their websites and delivery systems to keep up.",
+        "ADVANCED": "The rise in online shopping has transformed the retail industry, forcing businesses to improve their digital presence and provide more convenient delivery options."
+    },
+    {
+        "COMPLEX": "The widespread use of social media has had profound effects on society, influencing everything from political opinions to personal relationships, often reshaping how people communicate and interact.",
+        "ELEMENTARY": "Social media has changed how people talk to each other and share ideas, even about politics and relationships.",
+        "SECONDARY": "Social media affects many parts of society, like politics and personal relationships, changing how people communicate and interact.",
+        "ADVANCED": "The widespread use of social media has significantly impacted society, influencing areas such as political views and personal relationships, while reshaping communication and interaction."
+    },
+    {
+        "COMPLEX": "The rise of automation and robotics in manufacturing has led to greater efficiency and lower production costs, but also raises concerns about job displacement and the future of human workers.",
+        "ELEMENTARY": "Robots are helping factories work faster and cheaper, but this could take away jobs for people.",
+        "SECONDARY": "Robots are making factories more efficient and cheaper, but people are worried about losing jobs.",
+        "ADVANCED": "Automation and robotics are improving efficiency and reducing production costs in manufacturing, though they raise concerns about job displacement and the future of human workers."
+    },
+    {
+        "COMPLEX": "The healthcare system is undergoing significant reform, aiming to provide more affordable care, improve patient outcomes, and reduce the financial burden on individuals and the government.",
+        "ELEMENTARY": "The healthcare system is changing to make care cheaper and better for patients, and to reduce costs for people and the government.",
+        "SECONDARY": "Healthcare is being reformed to make care more affordable, improve results for patients, and reduce the financial load on both people and the government.",
+        "ADVANCED": "Significant reforms in healthcare are being implemented to improve affordability, patient outcomes, and reduce the financial strain on individuals and governments."
+    },
+    {
+        "COMPLEX": "Despite the progress made in renewable energy adoption, fossil fuels continue to dominate global energy consumption, presenting a significant challenge to achieving long-term sustainability goals.",
+        "ELEMENTARY": "Even though renewable energy is growing, fossil fuels are still the main source of energy around the world.",
+        "SECONDARY": "Fossil fuels are still the main energy source globally, even though renewable energy is becoming more popular.",
+        "ADVANCED": "Despite advances in renewable energy, fossil fuels remain the dominant energy source worldwide, presenting a major challenge to long-term sustainability goals."
+    },
+    {
+        "COMPLEX": "The growth of global supply chains has led to increased efficiency and lower costs, but it has also introduced vulnerabilities, especially in times of geopolitical instability or natural disasters.",
+        "ELEMENTARY": "Global supply chains help businesses save money, but they can also be risky during political problems or natural disasters.",
+        "SECONDARY": "Global supply chains make things cheaper and more efficient, but they can be dangerous when there are political issues or disasters.",
+        "ADVANCED": "The expansion of global supply chains has led to greater efficiency and reduced costs, though it introduces risks, particularly during geopolitical instability or natural disasters."
+    },
+    {
+        "COMPLEX": "The global shift towards electric vehicles is expected to significantly reduce carbon emissions, thereby contributing to efforts to mitigate climate change and improve air quality.",
+        "ELEMENTARY": "Electric cars will help reduce pollution and fight climate change.",
+        "SECONDARY": "Electric cars are expected to reduce carbon emissions and help slow down climate change while improving air quality.",
+        "ADVANCED": "The global transition to electric vehicles is expected to significantly decrease carbon emissions, contributing to the fight against climate change and enhancing air quality."
+    }
+]

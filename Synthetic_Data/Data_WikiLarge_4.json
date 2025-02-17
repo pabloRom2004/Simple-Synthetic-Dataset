@@ -1,0 +1,152 @@
+[
+    {
+        "COMPLEX": "x is the displacement of the end of the spring from its equilibrium position (in SI units: \"m\");",
+        "ELEMENTARY": "x shows how far the end of the spring moves from its normal position. It is measured in meters.",
+        "SECONDARY": "x is the distance the spring’s end is displaced from its equilibrium, measured in meters.",
+        "ADVANCED": "x represents the displacement of the spring’s end from equilibrium, measured in meters."
+    },
+    {
+        "COMPLEX": "\"Christmas Day\" was a holiday single released by the New Wave band Squeeze in 1979.",
+        "ELEMENTARY": "In 1979, the band Squeeze released a song called \"Christmas Day.\" It was a holiday song.",
+        "SECONDARY": "In 1979, the New Wave band Squeeze released the holiday single \"Christmas Day.\"",
+        "ADVANCED": "The New Wave band Squeeze released the holiday single \"Christmas Day\" in 1979."
+    },
+    {
+        "COMPLEX": "Daniel Webster (January 18, 1782 - October 24, 1852) was a leading American statesman and senator during the nation's Antebellum Period.",
+        "ELEMENTARY": "Daniel Webster was an important American leader. He was born on January 18, 1782 and died on October 24, 1852. He served as a senator.",
+        "SECONDARY": "Daniel Webster (January 18, 1782 - October 24, 1852) was an influential American statesman and senator before the Civil War.",
+        "ADVANCED": "Daniel Webster (January 18, 1782 - October 24, 1852) was a prominent American statesman and senator in the Antebellum era."
+    },
+    {
+        "COMPLEX": "The helicopter unit later became part of the Boeing Company with the merger of Boeing and McDonnell Douglas in August 1997.",
+        "ELEMENTARY": "Later, the helicopter unit joined the Boeing Company. This happened when Boeing merged with McDonnell Douglas in August 1997.",
+        "SECONDARY": "The helicopter unit later became part of the Boeing Company after Boeing merged with McDonnell Douglas in August 1997.",
+        "ADVANCED": "The helicopter unit later became part of Boeing following the August 1997 merger with McDonnell Douglas."
+    },
+    {
+        "COMPLEX": "Mali, officially the Republic of Mali, is a landlocked country in Western Africa.",
+        "ELEMENTARY": "Mali is a country in Western Africa. It does not have a seacoast. Its official name is the Republic of Mali.",
+        "SECONDARY": "Mali, officially known as the Republic of Mali, is a landlocked country in Western Africa.",
+        "ADVANCED": "Mali, officially the Republic of Mali, is a landlocked country in Western Africa."
+    },
+    {
+        "COMPLEX": "Jakob Ludwig Felix Mendelssohn Bartholdy, born and generally known in English-speaking countries as Felix Mendelssohn, is referred to by the overwhelming majority of printed sources in English (e.g., see references and listings of recordings at amazon.com and elsewhere) as 'Mendelssohn' rather than 'Mendelssohn Bartholdy'.",
+        "ELEMENTARY": "A man named Jakob Ludwig Felix Mendelssohn Bartholdy is known as Felix Mendelssohn in English-speaking countries. Most sources call him 'Mendelssohn' instead of his full name.",
+        "SECONDARY": "Jakob Ludwig Felix Mendelssohn Bartholdy, commonly known as Felix Mendelssohn in English-speaking countries, is mostly referred to as 'Mendelssohn' in printed sources rather than by his full name.",
+        "ADVANCED": "Jakob Ludwig Felix Mendelssohn Bartholdy, generally known as Felix Mendelssohn in English-speaking countries, is predominantly referred to as 'Mendelssohn' in printed sources, not 'Mendelssohn Bartholdy'."
+    },
+    {
+        "COMPLEX": "Cradle of Filth's first three years saw three demos and a rehearsal tape recorded amidst rapid lineup fluctuations that have continued ever since, with the band having featured more than twenty musicians in its history.",
+        "ELEMENTARY": "In its first three years, Cradle of Filth recorded three demos and one rehearsal tape. The band changed its members many times and had over twenty musicians.",
+        "SECONDARY": "In its first three years, Cradle of Filth recorded three demos and a rehearsal tape amid frequent lineup changes, and the band has featured over twenty musicians.",
+        "ADVANCED": "During its first three years, Cradle of Filth recorded three demos and a rehearsal tape amid rapid lineup fluctuations, and has featured over twenty musicians in total."
+    },
+    {
+        "COMPLEX": "The collisions of atoms are elastic collisions (Rutherford backscattering is one example).",
+        "ELEMENTARY": "When atoms collide, the collisions are elastic. For example, Rutherford backscattering shows an elastic collision.",
+        "SECONDARY": "Atomic collisions are elastic, as demonstrated by Rutherford backscattering.",
+        "ADVANCED": "The collisions between atoms are elastic, with Rutherford backscattering being one example."
+    },
+    {
+        "COMPLEX": "Douriez is a commune in the Pas-de-Calais department in the Nord-Pas-de-Calais region of France.",
+        "ELEMENTARY": "Douriez is a small town in France. It is located in the Pas-de-Calais department in the Nord-Pas-de-Calais region.",
+        "SECONDARY": "Douriez is a commune in the Pas-de-Calais department of the Nord-Pas-de-Calais region in France.",
+        "ADVANCED": "Douriez is a commune located in France's Pas-de-Calais department in the Nord-Pas-de-Calais region."
+    },
+    {
+        "COMPLEX": "On July 30, 2008, Juanfran agreed to sign a two-year deal with AEK Athens FC, earning approximately 1 million per season.",
+        "ELEMENTARY": "On July 30, 2008, Juanfran signed a two-year contract with AEK Athens FC. He earned about 1 million each season.",
+        "SECONDARY": "On July 30, 2008, Juanfran signed a two-year deal with AEK Athens FC, earning about 1 million per season.",
+        "ADVANCED": "On July 30, 2008, Juanfran signed a two-year contract with AEK Athens FC, earning approximately 1 million per season."
+    },
+    {
+        "COMPLEX": "The Japanese era Bun'ei ends, and the Kenji era begins.",
+        "ELEMENTARY": "A Japanese era is ending and a new one is starting. The ending era is called Bun'ei, and the new era is Kenji.",
+        "SECONDARY": "The Japanese era known as Bun'ei has ended, and the Kenji era has begun.",
+        "ADVANCED": "The Japanese era Bun'ei has ended, making way for the Kenji era."
+    },
+    {
+        "COMPLEX": "Charles de Tornaco (Brussels, 7 June 1927 - 18 September 1953) was a racing driver from Belgium.",
+        "ELEMENTARY": "Charles de Tornaco was a racing driver from Belgium. He was born on 7 June 1927 in Brussels and died on 18 September 1953.",
+        "SECONDARY": "Charles de Tornaco (Brussels, 7 June 1927 - 18 September 1953) was a Belgian racing driver.",
+        "ADVANCED": "Charles de Tornaco (Brussels, 7 June 1927 - 18 September 1953) was a racing driver from Belgium."
+    },
+    {
+        "COMPLEX": "The word cowry is also often used to refer to the shells of these snails.",
+        "ELEMENTARY": "Cowry is a word used for the shells of certain snails.",
+        "SECONDARY": "The term cowry is often used to refer to the shells of these snails.",
+        "ADVANCED": "The term 'cowry' is frequently used to denote the shells of these snails."
+    },
+    {
+        "COMPLEX": "Many great masters taught there: Dudjom Rinpoche, who taught for a whole month in London in 1979, His Holiness Sakya Trizin, Gyalwang Karmapa, Tulku Urgyen Rinpoche, and others.",
+        "ELEMENTARY": "Many famous teachers taught there. They include Dudjom Rinpoche, who taught in London for a month in 1979, as well as His Holiness Sakya Trizin, Gyalwang Karmapa, Tulku Urgyen Rinpoche, and others.",
+        "SECONDARY": "Many renowned masters taught there, including Dudjom Rinpoche (who taught in London for a month in 1979), His Holiness Sakya Trizin, Gyalwang Karmapa, Tulku Urgyen Rinpoche, and others.",
+        "ADVANCED": "Many esteemed masters taught there, such as Dudjom Rinpoche (who taught in London for a month in 1979), His Holiness Sakya Trizin, Gyalwang Karmapa, and Tulku Urgyen Rinpoche, among others."
+    },
+    {
+        "COMPLEX": "The struggle for Mexican independence dates back to the decades after the Spanish conquest of the Aztec Empire, when Martín Cortés (son of Hernán Cortés and La Malinche) led a revolt against the Spanish colonial government in order to eliminate privileges for the conquistadors.",
+        "ELEMENTARY": "The fight for Mexican independence started many years after the Spanish conquered the Aztec Empire. Martín Cortés, the son of Hernán Cortés and La Malinche, led a revolt to remove special rights for the conquistadors.",
+        "SECONDARY": "The struggle for Mexican independence began decades after the Spanish conquest of the Aztec Empire, when Martín Cortés (son of Hernán Cortés and La Malinche) led a revolt to end the privileges of the conquistadors.",
+        "ADVANCED": "The struggle for Mexican independence dates back to decades after the Spanish conquest of the Aztec Empire, when Martín Cortés (son of Hernán Cortés and La Malinche) led a revolt to abolish the privileges of the conquistadors."
+    },
+    {
+        "COMPLEX": "In addition to its economically potent position on Hangzhou Bay southwest of Shanghai, Hangzhou has also been one of the most renowned and prosperous cities in China for much of the last 1,000 years, due in part to its beautiful natural scenery, with West Lake (X Hú) as the most well-known location.",
+        "ELEMENTARY": "Hangzhou is an important city in China because it is near Hangzhou Bay, southwest of Shanghai. It has been famous and prosperous for about 1,000 years because of its pretty nature, especially West Lake (X Hú).",
+        "SECONDARY": "Hangzhou, located on Hangzhou Bay southwest of Shanghai, has been one of China's most renowned and prosperous cities for nearly 1,000 years, partly due to its beautiful natural scenery, including West Lake (X Hú).",
+        "ADVANCED": "Hangzhou, with its strategic position on Hangzhou Bay southwest of Shanghai, has been one of China's most renowned and prosperous cities for nearly 1,000 years, partly thanks to its beautiful natural scenery, notably West Lake (X Hú)."
+    },
+    {
+        "COMPLEX": "The parents may choose either surname or the double surname for their children, but all siblings must share the same surname. All persons have the right to change their surname once without any specific reason.",
+        "ELEMENTARY": "Parents can choose a single surname or a double surname for their children. However, all siblings must have the same surname. Everyone can change their surname one time without giving a reason.",
+        "SECONDARY": "Parents may choose either a single or double surname for their children, but all siblings must share the same surname. Everyone has the right to change their surname once without a specific reason.",
+        "ADVANCED": "Parents may choose a single or double surname for their children, provided that all siblings share the same surname, and every person can change their surname once without a specific reason."
+    },
+    {
+        "COMPLEX": "In 1997, David Bauder from TV Guide named this episode the greatest episode of The Simpsons, and the 17th greatest episode of any television show of all time.",
+        "ELEMENTARY": "In 1997, David Bauder from TV Guide said this episode was the best episode of The Simpsons. He also said it was the 17th best TV episode ever.",
+        "SECONDARY": "In 1997, David Bauder from TV Guide named this episode the greatest in The Simpsons and the 17th greatest episode of any television show.",
+        "ADVANCED": "In 1997, David Bauder of TV Guide declared this episode the greatest in The Simpsons and the 17th greatest in television history."
+    },
+    {
+        "COMPLEX": "Various religions and denominations group the commandments differently; see the Division of the Commandments section for a detailed accounting.",
+        "ELEMENTARY": "Different religions and groups organize the commandments in different ways. For more details, see the Division of the Commandments section.",
+        "SECONDARY": "Various religions and denominations group the commandments differently; refer to the Division of the Commandments section for details.",
+        "ADVANCED": "Different religions and denominations categorize the commandments in various ways; see the Division of the Commandments section for a detailed account."
+    },
+    {
+        "COMPLEX": "She is the great-granddaughter of the former Swedish Prime Minister, Oscar von Sydow.",
+        "ELEMENTARY": "She is the great-granddaughter of Oscar von Sydow, who was the Swedish Prime Minister.",
+        "SECONDARY": "She is the great-granddaughter of the former Swedish Prime Minister, Oscar von Sydow.",
+        "ADVANCED": "She is the great-granddaughter of Oscar von Sydow, the former Swedish Prime Minister."
+    },
+    {
+        "COMPLEX": "However, when William had to go to military, she governed alone.",
+        "ELEMENTARY": "When William had to join the military, she ruled by herself.",
+        "SECONDARY": "When William had to serve in the military, she governed alone.",
+        "ADVANCED": "However, when William had to serve in the military, she ruled alone."
+    },
+    {
+        "COMPLEX": "Some scientists use \"amplitude\" or \"peak amplitude\" to mean semi-amplitude, that is, half the peak-to-peak amplitude.",
+        "ELEMENTARY": "Some scientists call semi-amplitude by saying \"amplitude\" or \"peak amplitude.\" This means it is half the distance from the highest to the lowest point.",
+        "SECONDARY": "Some scientists use the terms \"amplitude\" or \"peak amplitude\" to refer to semi-amplitude, which is half the peak-to-peak amplitude.",
+        "ADVANCED": "Some scientists use \"amplitude\" or \"peak amplitude\" to denote semi-amplitude, meaning half of the peak-to-peak amplitude."
+    },
+    {
+        "COMPLEX": "The authors come from the Sil Valley, especially from El Bierzu (Llión), and it is the collective book in the Leonese language with the most authors.",
+        "ELEMENTARY": "The authors come from the Sil Valley, especially from a place called El Bierzu (Llión). This book is a group work in the Leonese language that has the most authors.",
+        "SECONDARY": "The authors come from the Sil Valley, particularly from El Bierzu (Llión), and this is the Leonese collective book with the highest number of contributors.",
+        "ADVANCED": "The authors come from the Sil Valley, especially from El Bierzu (Llión), and it is the Leonese collective book with the most contributors."
+    },
+    {
+        "COMPLEX": "Under this chapter, the Governor-General is the commander in chief and may appoint and dismiss the members of the Executive Council, ministers of state, and all officers of the executive government.",
+        "ELEMENTARY": "In this chapter, the Governor-General is the top leader. He can choose and remove members of the Executive Council, ministers of state, and all government officers.",
+        "SECONDARY": "Under this chapter, the Governor-General, as commander in chief, may appoint and dismiss members of the Executive Council, ministers of state, and all executive government officers.",
+        "ADVANCED": "Under this chapter, the Governor-General serves as commander in chief and may appoint or dismiss members of the Executive Council, ministers of state, and all executive officers."
+    },
+    {
+        "COMPLEX": "The remaining seven clubs from the former Japan Football League, newly formed Yokohama F.C., and one promoting club from the Regional Leagues — a total of nine clubs — formed the third-tier Japan Football League.",
+        "ELEMENTARY": "Nine clubs formed the third-tier Japan Football League. They were the seven clubs remaining from the old Japan Football League, the new Yokohama F.C., and one club promoted from the Regional Leagues.",
+        "SECONDARY": "The third-tier Japan Football League was formed by nine clubs: the remaining seven from the former Japan Football League, the newly formed Yokohama F.C., and one promoting club from the Regional Leagues.",
+        "ADVANCED": "Nine clubs formed the third-tier Japan Football League, including the seven remaining from the former Japan Football League, the newly established Yokohama F.C., and one club promoted from the Regional Leagues."
+    }
+]

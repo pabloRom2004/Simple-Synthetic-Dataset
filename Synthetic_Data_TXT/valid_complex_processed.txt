@@ -1,0 +1,19 @@
+<LEVEL_ADVANCED> The rapid advancements in artificial intelligence have the potential to revolutionise industries, but also raise concerns about job displacement and ethical implications.
+<LEVEL_ELEMENTARY> William H. Prescott was born in Salem, Massachusetts on May 4, 1796, the first of seven children, although four of his siblings died in infancy.
+<LEVEL_ADVANCED> The expansion of the gig economy has provided flexible job opportunities, but workers often face instability, lack of benefits, and minimal job security, prompting calls for stronger labor protections.
+<LEVEL_ADVANCED> Short partial: rewriting instructions for, well, make sure to gather supplies first
+<LEVEL_ADVANCED> x is the displacement of the end of the spring from its equilibrium position (in SI units: "m");
+<LEVEL_SECONDARY> The recent advancements in renewable energy technologies have made it more feasible to transition away from fossil fuels, contributing to a reduction in carbon emissions globally.
+<LEVEL_ELEMENTARY> With the increasing popularity of remote work, many companies are adopting hybrid models that blend in-person and virtual office environments to offer employees more flexibility and work-life balance.
+<LEVEL_ADVANCED> Heavy monsoon rains caused severe flooding throughout the coastal region, prompting emergency services to evacuate thousands of residents to temporary shelters.
+<LEVEL_ADVANCED> International trade agreements shape global commerce by reducing tariffs, aligning regulations, and resolving disputes through established mechanisms.
+<LEVEL_SECONDARY> Despite receiving critical acclaim, the indie film struggled to find a wide audience due to limited distribution and marketing constraints.
+<LEVEL_ELEMENTARY> Hermelinghen is a commune in the Pas-de-Calais department in the Nord-Pas-de-Calais region of France.
+<LEVEL_ADVANCED> Long queues formed outside the newly opened boutique bakery, renowned for its artisanal sourdough loaves and decadent pastries.
+<LEVEL_ADVANCED> Nutritionists believe that balancing macronutrients while incorporating micronutrient-rich foods can significantly impact energy levels and long-term health outcomes.
+<LEVEL_ELEMENTARY> Online forums can quickly amplify misinformation, but they also serve as hubs where accurate information can spread to counter false claims.
+<LEVEL_ELEMENTARY> The popularity of streaming platforms has led to significant changes in the entertainment industry, forcing traditional media outlets to adapt or risk losing their audience to online content providers.
+<LEVEL_SECONDARY> Recalibrating the drone’s stabilisation algorithm enabled smoother flight in turbulent conditions, reducing the likelihood of midair collisions.
+<LEVEL_ELEMENTARY> The newly introduced smartphone app automates household inventory tracking, but it demands continuous internet access, raising concerns about data usage.
+<LEVEL_SECONDARY> International space agencies are collaborating on lunar exploration projects, with the ultimate goal of establishing a sustainable human presence on the Moon.
+<LEVEL_ELEMENTARY> Both horticulturists and environmental scientists regard rooftop gardens as a promising method to combat urban heat islands by increasing green cover.

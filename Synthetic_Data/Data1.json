@@ -1,0 +1,80 @@
+[
+    {
+      "COMPLEX": "The proliferation of misinformation on social media platforms necessitates robust fact-checking mechanisms to mitigate its impact on public discourse.",
+      "ELEMENTARY": "False information spreads quickly on social media. We need good fact-checking to stop it from affecting people’s opinions.",
+      "SECONDARY": "Social media spreads a lot of false information. Fact-checking helps prevent its negative effects on public discussions.",
+      "ADVANCED": "The spread of false information on social media requires strong fact-checking to reduce its impact on society."
+    },
+    {
+      "COMPLEX": "The efficacy of renewable energy sources in mitigating climate change is increasingly recognised, yet infrastructural challenges persist in widespread implementation.",
+      "ELEMENTARY": "Renewable energy helps fight climate change. But setting up the needed systems is still difficult.",
+      "SECONDARY": "People see that renewable energy helps with climate change, but building the systems remains a challenge.",
+      "ADVANCED": "Renewable energy is effective in reducing climate change, but infrastructure challenges remain."
+    },
+    {
+      "COMPLEX": "The smartphone industry continues to push the boundaries of innovation, integrating cutting-edge artificial intelligence features into consumer devices.",
+      "ELEMENTARY": "New smartphones are becoming smarter. They now use artificial intelligence to help people do more things.",
+      "SECONDARY": "Smartphones keep improving by adding advanced AI features to make them more useful.",
+      "ADVANCED": "The smartphone industry keeps evolving, adding AI technology to improve user experience."
+    },
+    {
+      "COMPLEX": "The increasing reliance on cloud computing services necessitates stringent data security measures to safeguard user information from potential breaches.",
+      "ELEMENTARY": "More people use cloud storage. We need strong security to keep their data safe.",
+      "SECONDARY": "Cloud computing is popular, but it requires strong security to protect user data.",
+      "ADVANCED": "As cloud computing grows, better security is needed to protect user data from breaches."
+    },
+    {
+      "COMPLEX": "The advent of 5G technology promises unprecedented connectivity speeds, though concerns regarding infrastructure and security remain prevalent.",
+      "ELEMENTARY": "5G internet is very fast. But people worry about its security and setup.",
+      "SECONDARY": "5G brings faster internet, but some people are concerned about security and infrastructure.",
+      "ADVANCED": "5G technology offers high-speed connectivity but raises concerns about security and infrastructure."
+    },
+    {
+      "COMPLEX": "The integration of automation in manufacturing has significantly enhanced efficiency while simultaneously reducing the need for manual labour.",
+      "ELEMENTARY": "Factories now use robots. This makes work faster but fewer workers are needed.",
+      "SECONDARY": "Automation makes factories work faster but reduces jobs for workers.",
+      "ADVANCED": "Manufacturing automation improves efficiency but decreases the demand for manual labour."
+    },
+    {
+      "COMPLEX": "Social media influencers wield considerable influence over consumer behaviour, shaping market trends through targeted content strategies.",
+      "ELEMENTARY": "People online can make others buy things. They use special content to do this.",
+      "SECONDARY": "Online influencers affect what people buy by using well-planned content.",
+      "ADVANCED": "Influencers impact consumer choices by using strategic content to shape trends."
+    },
+    {
+      "COMPLEX": "Artificial intelligence continues to revolutionise the healthcare sector, facilitating early disease detection and personalised treatment plans.",
+      "ELEMENTARY": "AI helps doctors find diseases early. It also helps make better treatments.",
+      "SECONDARY": "AI is changing healthcare by helping detect diseases early and making treatments more personal.",
+      "ADVANCED": "AI is transforming healthcare by improving early detection and personalised treatment."
+    },
+    {
+      "COMPLEX": "The increasing popularity of electric vehicles is driven by advancements in battery technology and growing environmental concerns.",
+      "ELEMENTARY": "More people are buying electric cars. Better batteries and caring for the environment help this trend.",
+      "SECONDARY": "Electric cars are becoming popular because of better batteries and environmental awareness.",
+      "ADVANCED": "Better battery technology and environmental concerns drive the rise of electric vehicles."
+    },
+    {
+      "COMPLEX": "The rise of remote work has prompted companies to adopt digital collaboration tools, altering traditional workplace dynamics.",
+      "ELEMENTARY": "More people work from home now. Companies use online tools to help them work together.",
+      "SECONDARY": "Remote work has made companies use more online tools, changing how teams work.",
+      "ADVANCED": "The shift to remote work has led companies to use digital tools, changing workplace dynamics."
+    },
+    {
+      "COMPLEX": "Solar power.",
+      "ELEMENTARY": "Energy from the sun.",
+      "SECONDARY": "Electricity made from sunlight.",
+      "ADVANCED": "Power generated using solar energy."
+    },
+    {
+      "COMPLEX": "The rapid urbanisation in developing nations presents a unique set of challenges concerning infrastructure and resource distribution.",
+      "ELEMENTARY": "Cities in growing countries are getting bigger fast. They need better roads and services.",
+      "SECONDARY": "Fast-growing cities in developing countries need better infrastructure and resource management.",
+      "ADVANCED": "Rapid urban growth in developing nations creates challenges in infrastructure and resource distribution."
+    },
+    {
+      "COMPLEX": "- and security issues remain. ",
+      "ELEMENTARY": "There are still safety problems.",
+      "SECONDARY": "Some security problems are still there.",
+      "ADVANCED": "Security concerns persist."
+    }
+  ]

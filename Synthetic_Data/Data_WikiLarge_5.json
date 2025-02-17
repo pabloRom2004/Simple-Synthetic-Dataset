@@ -1,0 +1,153 @@
+[
+    {
+      "COMPLEX": "Brighton, Baltimore, Maryland.",
+      "ELEMENTARY": "Brighton is in Baltimore, Maryland.",
+      "SECONDARY": "Brighton is a part of Baltimore in the state of Maryland.",
+      "ADVANCED": "Brighton, a neighborhood in Baltimore, is located in Maryland."
+    },
+    {
+      "COMPLEX": "These revolutionaries mostly had similar backgrounds to the first generation, e.g., they were middle class and many were students.",
+      "ELEMENTARY": "The revolutionaries came from backgrounds like the first group. They were middle class and many were students.",
+      "SECONDARY": "These revolutionaries came from similar backgrounds as the first generation; they were mostly middle class and many were students.",
+      "ADVANCED": "These revolutionaries shared backgrounds with the first generation, being primarily middle class with many students among them."
+    },
+    {
+      "COMPLEX": "The latest alpha release of the GNU system is GNU 0.2, released in 2004, featuring GNU Hurd as the system's kernel. Other (non-GNU) kernels can also presently be used with GNU; the FSF maintains that Linux, when used with GNU tools and utilities, should be considered a variant of GNU, and promotes the term GNU/Linux for such systems (leading to the GNU/Linux naming controversy).",
+      "ELEMENTARY": "The GNU system's newest alpha version is GNU 0.2. It came out in 2004 and uses GNU Hurd as its core. You can also use other kernels with GNU. The FSF says that Linux with GNU tools should be called GNU/Linux.",
+      "SECONDARY": "The GNU system's latest alpha release, GNU 0.2, was released in 2004 with GNU Hurd as its kernel. Other (non-GNU) kernels can be used with GNU, and the FSF suggests that Linux with GNU tools should be considered GNU/Linux.",
+      "ADVANCED": "The latest alpha release of the GNU system, GNU 0.2, was released in 2004 with GNU Hurd as its kernel; moreover, other (non-GNU) kernels can be used with GNU, prompting the FSF to argue that Linux with GNU utilities should be regarded as GNU/Linux, which has sparked a naming controversy."
+    },
+    {
+      "COMPLEX": "Others soon followed Hull to the WHA, including Bernie Parent, J. C. Tremblay, Ted Green, Gerry Cheevers, and Johnny McKenzie.",
+      "ELEMENTARY": "After Hull, others joined him in the WHA. These players include Bernie Parent, J. C. Tremblay, Ted Green, Gerry Cheevers, and Johnny McKenzie.",
+      "SECONDARY": "Following Hull, several others joined him in the WHA, such as Bernie Parent, J. C. Tremblay, Ted Green, Gerry Cheevers, and Johnny McKenzie.",
+      "ADVANCED": "After Hull, others quickly joined him in the WHA, including players like Bernie Parent, J. C. Tremblay, Ted Green, Gerry Cheevers, and Johnny McKenzie."
+    },
+    {
+      "COMPLEX": "Snow is an extremely rare event that occurs once or twice in a century.",
+      "ELEMENTARY": "Snow happens very rarely. It occurs only one or two times every 100 years.",
+      "SECONDARY": "Snow is very rare and happens only once or twice each century.",
+      "ADVANCED": "Snow is an extremely rare event, occurring only once or twice per century."
+    },
+    {
+      "COMPLEX": "Old Deuteronomy.",
+      "ELEMENTARY": "The term 'Old Deuteronomy' is used.",
+      "SECONDARY": "It is referred to as 'Old Deuteronomy'.",
+      "ADVANCED": "It is known by the name Old Deuteronomy."
+    },
+    {
+      "COMPLEX": "The shirts worn by rugby league players commonly have a large 'V' around the neck and tend to be more colourful than rugby union jerseys. The players in rugby union wear jerseys with a more traditional design, sometimes completely white (Cahors Rugby in France).",
+      "ELEMENTARY": "Rugby league players wear shirts with a big 'V' at the neck. Their shirts are bright and colourful. In rugby union, players wear jerseys with a classic design that are sometimes all white (as seen with Cahors Rugby in France).",
+      "SECONDARY": "Rugby league players typically wear shirts with a large 'V' around the neck and more colourful designs than rugby union jerseys, which usually have a traditional look and are sometimes entirely white (e.g., Cahors Rugby in France).",
+      "ADVANCED": "Rugby league players wear shirts with a prominent 'V' around the neck and vibrant colours, while rugby union players don more traditionally designed jerseys, sometimes entirely white (Cahors Rugby in France)."
+    },
+    {
+      "COMPLEX": "The backing track to 'Love Machine', composed by Xenomania musicians Tim Powell and Nick Coler, was inspired by The Smiths, while 'Wake Me Up' includes a guitar riff inspired by garage rock.",
+      "ELEMENTARY": "The music behind 'Love Machine' was made by Xenomania musicians Tim Powell and Nick Coler and was inspired by The Smiths. The song 'Wake Me Up' has a guitar sound that comes from garage rock.",
+      "SECONDARY": "The backing track to 'Love Machine', created by Xenomania musicians Tim Powell and Nick Coler, was inspired by The Smiths, while 'Wake Me Up' features a guitar riff inspired by garage rock.",
+      "ADVANCED": "The backing track to 'Love Machine', composed by Xenomania's Tim Powell and Nick Coler, was inspired by The Smiths, and 'Wake Me Up' incorporates a guitar riff drawn from garage rock."
+    },
+    {
+      "COMPLEX": "1981 – Brigadier General James L. Dozier is abducted by the Red Brigade in Verona, Italy.",
+      "ELEMENTARY": "In 1981, Brigadier General James L. Dozier was kidnapped by the Red Brigade in Verona, Italy.",
+      "SECONDARY": "In 1981, Brigadier General James L. Dozier was abducted by the Red Brigade in Verona, Italy.",
+      "ADVANCED": "In 1981, Brigadier General James L. Dozier was abducted by the Red Brigade in Verona, Italy."
+    },
+    {
+      "COMPLEX": "JVC also developed SVHS-ET technology for its camcorders and VCRs, which allows standard units to record Super VHS signals onto lower-priced VHS tapes, albeit with a slight blurring of the image.",
+      "ELEMENTARY": "JVC made SVHS-ET technology for its camcorders and VCRs. This technology lets regular devices record Super VHS signals on cheaper VHS tapes, but the image gets a little blurry.",
+      "SECONDARY": "JVC developed SVHS-ET technology for its camcorders and VCRs, allowing standard devices to record Super VHS signals onto lower-priced VHS tapes, though with a slight blurring of the image.",
+      "ADVANCED": "JVC developed SVHS-ET technology for camcorders and VCRs, enabling standard units to record Super VHS signals on less expensive VHS tapes, though the image is slightly blurred."
+    },
+    {
+      "COMPLEX": "Darfur (drfr, lit.).",
+      "ELEMENTARY": "Darfur is abbreviated as drfr.",
+      "SECONDARY": "Darfur is represented as 'drfr' in its literal form.",
+      "ADVANCED": "Darfur is noted as drfr, lit."
+    },
+    {
+      "COMPLEX": "ISBN 3-89331-298-6. The FDP's first Chairman, Theodor Heuss, was formerly a member of the DDP and, after the war, a member of the Democratic People's Party (DVP).",
+      "ELEMENTARY": "The ISBN is 3-89331-298-6. The FDP's first Chairman, Theodor Heuss, was once in the DDP. After the war, he joined the Democratic People's Party (DVP).",
+      "SECONDARY": "ISBN 3-89331-298-6. The FDP's first Chairman, Theodor Heuss, was previously a member of the DDP and later joined the Democratic People's Party (DVP) after the war.",
+      "ADVANCED": "ISBN 3-89331-298-6. The FDP's first Chairman, Theodor Heuss, was formerly a DDP member and, after the war, became part of the Democratic People's Party (DVP)."
+    },
+    {
+      "COMPLEX": "1945 – The Federal People's Republic of Yugoslavia is declared.",
+      "ELEMENTARY": "In 1945, the Federal People's Republic of Yugoslavia was declared.",
+      "SECONDARY": "In 1945, the Federal People's Republic of Yugoslavia was declared.",
+      "ADVANCED": "In 1945, the Federal People's Republic of Yugoslavia was declared."
+    },
+    {
+      "COMPLEX": "In the spring of 216 BC, Hannibal took the initiative and seized the large supply depot at Cannae in the Apulian plain.",
+      "ELEMENTARY": "In the spring of 216 BC, Hannibal took action. He captured a big supply depot at Cannae in the Apulian plain.",
+      "SECONDARY": "In the spring of 216 BC, Hannibal seized a large supply depot at Cannae in the Apulian plain.",
+      "ADVANCED": "In the spring of 216 BC, Hannibal initiated an attack and seized the large supply depot at Cannae on the Apulian plain."
+    },
+    {
+      "COMPLEX": "A time deposit (also known as a term deposit, particularly in Canada, Australia and New Zealand; a bond in the United Kingdom; fixed deposit in India and in some other countries) is a money deposit at a banking institution that cannot be withdrawn for a certain 'term' or period of time (unless a penalty is paid).",
+      "ELEMENTARY": "A time deposit is money put in a bank that you cannot take out for a set time unless you pay a penalty. It is also called a term deposit, a bond, or a fixed deposit in some countries.",
+      "SECONDARY": "A time deposit, also known as a term deposit (or a bond in the United Kingdom and fixed deposit in India, among other names), is money deposited in a bank that cannot be withdrawn for a set period unless a penalty is incurred.",
+      "ADVANCED": "A time deposit—also known as a term deposit (in Canada, Australia, and New Zealand), a bond (in the UK), or a fixed deposit (in India and elsewhere)—is a sum placed in a bank that cannot be withdrawn for a specified term without incurring a penalty."
+    },
+    {
+      "COMPLEX": "Hewitt was born in Waco, Texas, the daughter of Patricia Mae (née Shipp), a speech-language pathologist, and Herbert Daniel Hewitt, a medical technician.",
+      "ELEMENTARY": "Hewitt was born in Waco, Texas. Her mother is Patricia Mae (née Shipp), a speech-language pathologist, and her father is Herbert Daniel Hewitt, a medical technician.",
+      "SECONDARY": "Hewitt was born in Waco, Texas, to Patricia Mae (née Shipp), a speech-language pathologist, and Herbert Daniel Hewitt, a medical technician.",
+      "ADVANCED": "Born in Waco, Texas, Hewitt is the daughter of Patricia Mae (née Shipp), a speech-language pathologist, and Herbert Daniel Hewitt, a medical technician."
+    },
+    {
+      "COMPLEX": "The cemetery maintained its own office until 1965, when it combined operations with Queen of Heaven Cemetery.",
+      "ELEMENTARY": "The cemetery had its own office until 1965. Then, it joined with Queen of Heaven Cemetery.",
+      "SECONDARY": "The cemetery maintained its own office until 1965, when it merged operations with Queen of Heaven Cemetery.",
+      "ADVANCED": "The cemetery operated its own office until 1965, at which time it consolidated operations with Queen of Heaven Cemetery."
+    },
+    {
+      "COMPLEX": "Crézancy is a commune in the Aisne department in Picardy in northern France.",
+      "ELEMENTARY": "Crézancy is a small town in northern France. It is in the Aisne department in Picardy.",
+      "SECONDARY": "Crézancy is a commune located in the Aisne department in Picardy, northern France.",
+      "ADVANCED": "Crézancy is a commune in the Aisne department of Picardy in northern France."
+    },
+    {
+      "COMPLEX": "However, it proved to be an inauspicious start to his international career; he was sent off for a second yellow card just eight minutes after coming on as a substitute.",
+      "ELEMENTARY": "It was a bad start to his international career. He got a second yellow card and was sent off just eight minutes after coming on as a substitute.",
+      "SECONDARY": "It was an unfortunate start to his international career; he received a second yellow card and was sent off just eight minutes after entering the game.",
+      "ADVANCED": "It proved to be an inauspicious start to his international career; he was sent off for a second yellow card just eight minutes after being substituted on."
+    },
+    {
+      "COMPLEX": "BMI is used by governments today, even though it came about 150 years ago.",
+      "ELEMENTARY": "BMI is a tool used by governments. It was created about 150 years ago.",
+      "SECONDARY": "BMI is still used by governments today, despite being developed around 150 years ago.",
+      "ADVANCED": "Despite having been developed 150 years ago, BMI is still employed by governments today."
+    },
+    {
+      "COMPLEX": "Because of the desperate financial circumstances, the Philharmonic offered Theodore Thomas the conductorship without conditions, and he began conducting the orchestra in the autumn of 1877.",
+      "ELEMENTARY": "The Philharmonic had very little money. They gave Theodore Thomas the job of conductor with no conditions. He started conducting in the autumn of 1877.",
+      "SECONDARY": "Due to desperate financial circumstances, the Philharmonic offered Theodore Thomas the conductorship without conditions, and he began leading the orchestra in autumn 1877.",
+      "ADVANCED": "Owing to desperate financial circumstances, the Philharmonic offered Theodore Thomas the conductorship without conditions, and he began conducting the orchestra in the autumn of 1877."
+    },
+    {
+      "COMPLEX": "He suspected they would be in the Binalong area due to John Dunn's relatives living there.",
+      "ELEMENTARY": "He thought they might be near Binalong because John Dunn's family lived there.",
+      "SECONDARY": "He suspected they would be in the Binalong area because John Dunn's relatives lived there.",
+      "ADVANCED": "He suspected they would be in the vicinity of Binalong, as John Dunn's relatives resided in the area."
+    },
+    {
+      "COMPLEX": "He worked out the modern technique of chemical formula notation, and is, together with John Dalton, Antoine Lavoisier, and Robert Boyle, considered a father of modern chemistry.",
+      "ELEMENTARY": "He invented the modern way to write chemical formulas. People, along with John Dalton, Antoine Lavoisier, and Robert Boyle, call him a father of modern chemistry.",
+      "SECONDARY": "He developed the modern technique for writing chemical formulas and is considered a father of modern chemistry, alongside John Dalton, Antoine Lavoisier, and Robert Boyle.",
+      "ADVANCED": "He developed the modern technique of chemical formula notation and is regarded, alongside John Dalton, Antoine Lavoisier, and Robert Boyle, as a father of modern chemistry."
+    },
+    {
+      "COMPLEX": "Other related non-orientable objects include the Möbius strip and the real projective plane.",
+      "ELEMENTARY": "Other objects that cannot be oriented include the Möbius strip and the real projective plane.",
+      "SECONDARY": "Other related non-orientable objects include the Möbius strip and the real projective plane.",
+      "ADVANCED": "Other non-orientable objects related to this concept include the Möbius strip and the real projective plane."
+    },
+    {
+      "COMPLEX": "When the Grand Trunk Railway was built through the area where the town now sits, the station was named for the dense forest.",
+      "ELEMENTARY": "When the Grand Trunk Railway was built in the town's area, the station was named after the thick forest nearby.",
+      "SECONDARY": "When the Grand Trunk Railway was built through the area where the town now stands, the station was named after the dense forest.",
+      "ADVANCED": "When the Grand Trunk Railway was constructed through the current town site, the station was named for the dense forest."
+    }
+  ]
+  
