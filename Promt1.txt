@@ -1,0 +1,26 @@
+You are tasked with generating a large dataset for text simplification that will be used to train a model for Firefox browser extension. Your task is to generate pairs of complex and simplified sentences. Each complex sentence should have three simplified versions at different reading levels: elementary (very simple), secondary (moderately simple), and advanced (slightly simplified). REQUIREMENTS: 1. FORMAT: Each example MUST follow this exact format:
+json
+{
+"COMPLEX": "Your complex sentence here.",
+"ELEMENTARY": "Your very simple version here.",
+"SECONDARY": "Your moderately simple version here.",
+"ADVANCED": "Your slightly simplified version here."
+}
+Please combine all examples into one big json file I can easily extract 2. CONTENT GUIDELINES: - Complex sentences should be similar in length and complexity to these examples: - "The overall reoffending rate in Sweden stands at between 30 and 40% over three years to compare that with another European country, the number is around half that of the UK." - "Security measures have intensified since the devastating bombing of the national security crisis cell in July 2012, when four of Assads most senior aides were killed." 3. SIMPLIFICATION RULES: - ELEMENTARY: Can split into multiple shorter sentences. Use very simple words and straightforward structure. Suitable for 5th-7th grade. - SECONDARY: Can use 1-2 sentences. Moderate vocabulary. Suitable for 8th-12th grade. - ADVANCED: Keep as one sentence but slightly simpler than complex. Suitable for educated adults. 4. TOPICS: Focus primarily on common internet content topics: - News articles and current events - Product reviews and shopping - Technology and gadgets - Social media content - Entertainment and media - Travel and lifestyle - Health and wellness - Educational content Also include some from: - Science and research - History and culture - Business and economics - Sports and recreation - Environment and climate - Politics and society 5. DIVERSITY REQUIREMENTS: - Vary sentence structures and complexity - Use different simplification strategies (not just word substitution) - Include different types of content (facts, opinions, descriptions, instructions) - Vary starting complexity levels 6. CONTINUE GENERATING: Generate as many examples as possible. Aim for 50-100 examples. I will need at least 10,000 so as many examples as you can give me please 7. QUALITY CHECKS: - Complex versions should be naturally complex, not artificially complicated - Simplified versions must preserve the core meaning - All versions should be grammatically correct - Avoid controversial or sensitive topics - Keep content general and widely applicable EXAMPLE OUTPUT:
+json
+{
+"COMPLEX": "The unprecedented proliferation of digital technologies has fundamentally transformed societal interactions, precipitating both beneficial innovations and concerning implications for privacy and security.",
+"ELEMENTARY": "New digital tools like smartphones and computers have changed how we live and talk to each other. While these tools help us do many things, we also need to be careful about keeping our information safe.",
+"SECONDARY": "The rapid growth of digital technology has changed how society works. These changes bring helpful new tools but also raise concerns about privacy and safety.",
+"ADVANCED": "The widespread adoption of digital technologies has reshaped social interactions, bringing both innovative benefits and significant privacy and security challenges."
+}
+
+{
+"COMPLEX": "The e-commerce platform's sophisticated algorithm dynamically adjusts pricing based on real-time market demand, competitor analysis, and historical purchase patterns.",
+"ELEMENTARY": "The online store changes its prices automatically. It looks at what other stores charge and how many people want to buy things. It also checks what people bought before.",
+"SECONDARY": "The online shopping website uses a smart system to change prices. It considers how many people want to buy something and what other stores are charging.",
+"ADVANCED": "The online marketplace adjusts prices automatically using data about market demand, competitor prices, and past sales patterns."
+}
+IMPORTANT NOTES: 1. Keep generating examples continuously 2. Maintain consistent quality and format 3. Ensure diverse topics and complexity levels 4. Focus on realistic, useful content 5. Preserve meaning across all versions Begin generating examples now. Continue for 250 examples. Maintain high quality and diversity throughout.
+
+Vary lengths significantly, some sentences should be very very short (A couple words), while others can be quite long, still within reason. But having diversity of sentence length would be good for the model to learn how to deal with different lengths - Also add some sentences which start in the middle and between words to make the model more robust to users simplifying incomplete sentences - Add some examples of simplifying single words too as users may want to do that too
